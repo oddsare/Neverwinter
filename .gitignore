@@ -1,0 +1,30 @@
+# Obsidian — per-user workspace state (changes constantly, not portable)
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/workspaces.json
+
+# Obsidian trash
+**/.trash/
+
+# Claude Code per-project local config (personal, not for sharing)
+**/.claude/settings.local.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp / cache
+*.tmp
+*.bak
+*~
+
+# Graphify pipeline scratch (regeneratable)
+**/graphify-out/cache/
+**/.graphify_*
+**/.guide_pdf_text.json
+**/.magic_items_pdf_text.json
+**/.sword_coast_extract.json
+**/.dataF.js
+**/.extract_*.py
+**/.build_*.py
