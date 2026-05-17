@@ -47,25 +47,30 @@ Applied to the succession conflict:
 
 | Faction | Alignment | Why |
 |---|---|---|
-| **Sons of Alagondar** | **Good** (on back foot) | Want restoration. Weak, fractured, no heir. Will rally instantly if a real one appears. |
-| **[[NPCs/Renaer Neverember|Renaer Neverember]] + the regime** | **Bad** | Holds the throne. Knows (or suspects) his blood is fake. Will silence any real heir to keep power. |
-| **Claug's network (Aldric, Lady Maeve, hidden agents)** | **Ugly** (tipping point) | They have the heir. Without them, restoration is impossible. With them, Neverwinter becomes a dragon's protectorate by proxy. |
+| **[[Factions/Renaer's Government\|Renaer's Government]] + the Sons of Alagondar (aligned)** | **Good** | Renaer knows his bloodline is suspect and would consider abdicating to a true heir if it served Neverwinter. The Sons want restoration. Aligned on civic good, divided on tactics. |
+| **Dagult-loyalist remnants + the 1502 conspirators' successors** | **Bad** | Mintarn mercenary survivors, the scribes who forged Dagult's lineage, the families who helped suppress rival heirs. A real Alagondar surfacing proves the Neverember claim was ALWAYS fraud — exposing them as accomplices. They will kill Aldric to keep the lie alive. |
+| **[[Factions/Claug's Network\|Claug's network]] (Aldric, Lady Maeve, hidden agents)** | **Ugly** (tipping point) | They have the heir. Without them, restoration is impossible. With them, Neverwinter becomes a dragon's protectorate by proxy. |
 
-**Tipping mechanic:** the Sons cannot restore the throne without a real heir. The heir exists, but he is Claug's foster son and would never knowingly betray her. The party must broker the deal the Sons cannot — or turn the boy.
+**Tipping mechanic:** the Good side cannot restore the throne without a real heir. The heir exists, but he is Claug's foster son and would never knowingly betray her. The party must broker the deal the Good side cannot — or turn the boy.
 
 ### Nested sub-factions
+
+**Inside [[Factions/Renaer's Government|Renaer's Government]] (good):**
+- Renaer loyalists who believe in his reforms (purest good)
+- [[NPCs/Soren Ironwake|Soren Ironwake]] + the [[Factions/City Guard|City Guard]] — institutional muscle that follows him
+- Pragmatic civil servants who'll swing on legitimacy if a real heir is proven (ugly within good)
 
 **Inside the Sons of Alagondar:**
 - Old loyalists who remember King Bann — pure ideologues, want true blood (good)
 - Opportunists looking to rule through any puppet heir (bad)
 - Younger members who'd accept Renaer if he abdicated cleanly to a real heir (ugly — swing on legitimacy)
 
-**Inside Renaer's regime:**
-- Loyalists who genuinely believe in his rule and his reforms (good)
-- Dagult's surviving enforcers — still kill threats quietly (bad)
-- Civil servants who'd serve any legitimately crowned king (ugly — they swing the day Aldric's claim is proven)
+**Inside the Dagult-loyalist Bad faction:**
+- True Dagult loyalists who still want him back (rare, dangerous)
+- Conspirators who fear exposure if the Neverember claim is publicly broken (the bulk — they suppress, blackmail, kill)
+- Mintarn mercenary remnants and old enforcers turned for-hire (the muscle — they'll work for whoever pays, but they all benefit from the lie holding)
 
-**Inside Claug's network:**
+**Inside [[Factions/Claug's Network|Claug's network]]:**
 - Aldric himself — kind, devoted, ignorant (good)
 - Claug's hidden lieutenants who know the plan and back it (bad)
 - The Sharran ritualists and [[Factions/Arcane Brotherhood|Arcane Brotherhood]] mages she's hired to forge supporting documents and groom Aldric's magic (ugly)
