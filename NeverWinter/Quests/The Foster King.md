@@ -19,7 +19,7 @@ His name in the world is **Aldric Vance** *(placeholder — rename to taste)*. H
 
 Lady Maeve Vance is Claugiyliamatar wearing her Ring of Chameleon Power and her *alter self* polymorph. The boy has no idea. He loves her completely. And — this is the horror — **she genuinely loves him back.** The affection is real. The plan is also real.
 
-**She watches him constantly.** Lady Maeve is rarely on the estate in person because Claugiyliamatar's real work is done from her hag lair — including hours every day at the crystal ball, scrying her son. Aldric does not know. To him, mother simply has an uncanny instinct for when to send a letter, when to visit, when to know he is unwell. He finds it tender. **A perceptive party will eventually notice that Lady Maeve's timing is *too* good** — and that is a tier-2 reveal beat in its own right.
+**She watches him constantly.** Lady Maeve is rarely on the estate in person because Claugiyliamatar's real work is done from her dragon lair — including hours every day at the crystal ball, scrying her son. Aldric does not know. To him, mother simply has an uncanny instinct for when to send a letter, when to visit, when to know he is unwell. He finds it tender. **A perceptive party will eventually notice that Lady Maeve's timing is *too* good** — and that is a tier-2 reveal beat in its own right.
 
 ## What Claug Wants — the Double Prize
 
