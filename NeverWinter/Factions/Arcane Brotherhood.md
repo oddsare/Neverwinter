@@ -166,6 +166,10 @@ Could the [[Quests/The Shadowy Force|disappearing ships]] be the work of the Arc
 - Interest in [[Locations/Neverwinter/Districts/Tower District|magical academies]]?
 - Watching [[Lore/Current Era|magical resurgence]]?
 - Connection to [[Quests/The Shadowy Force|disappearances]]?
+- Quiet interest in the [[Locations/Neverwinter/Shard of the Moon|Shard of the Moon]] — a former Sharran site now held by Selûnites; Brotherhood mages (Sharran-adjacent or Sharran-friendly in many cells) would have natural cause to case it.
+
+### 1525 DR — The Peace Anniversary Delegation
+A **senior Brotherhood advisor** *(name TBD)* is officially accompanying [[Locations/Luskan|Luskan]]'s delegation to Neverwinter for the **5-year anniversary of the Renaer–Luskan peace**. Public role: magical counsel to the Emperor of the Seas' son. **Real role:** the actual operator of the delegation's [[Quests/The Peace Anniversary|political move]] against Renaer; observing Neverwinter's magical defenses; potentially also a quiet check-in on Brotherhood mages [[Quests/The Foster King|tutoring Aldric Vance]] on Claug's payroll. Full event in [[Quests/The Peace Anniversary]].
 
 ---
 

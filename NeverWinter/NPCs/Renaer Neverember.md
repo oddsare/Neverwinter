@@ -82,14 +82,25 @@ Renaer became the **7th ascension** in **1520 DR**.
 
 Lord Renaer has ruled for **5 years**, bringing much-needed stability to [[Locations/Neverwinter/Neverwinter|Neverwinter]].
 
+### First Act of Reign — The Luskan Peace (1520 DR)
+Renaer's very first act after ascending the throne was to **sign peace with [[Locations/Luskan|Luskan]]** — the city that very likely had a hand in his father's 1502 disappearance (Luskan had an active assassination plot against Dagult at the time). The morality of this choice is the **defining ambiguity of his reign**. Three readings, all in play:
+
+1. **He doesn't know** about the Luskan plot — the intel died with Dagult.
+2. **He knows and chose anyway** — civic stability mattered more than family vengeance.
+3. **He suspects but cannot prove** — and has watched Luskan carefully for five years.
+
+The choice cemented the peace, but the **5-year anniversary in 1525 DR** is now bringing a Luskan delegation back to Neverwinter under the cover of celebration — see [[Quests/The Peace Anniversary]].
+
 ### Accomplishments
 - Ended the chaos of the revolving lords
+- Signed the **1520 Luskan Peace** as his opening act
 - Stabilized the city's economy
 - Rebuilt trust with trading partners
 - Strengthened the [[Factions/City Guard|City Guard]]
 - Begun restoring Neverwinter's reputation as the "Jewel of the North"
 
 ### Current Challenges
+- The **[[Quests/The Peace Anniversary|Luskan delegation's arrival]]** for the 5-year anniversary — surface ceremonial, real intent a political move against him
 - [[Quests/The Shadowy Force|Mysterious disappearances]] threaten trade routes
 - Whispers of **dissenters in the shadows**
 - The lingering damage of the [[Locations/Neverwinter/Districts/Chasm District|Chasm District]]
