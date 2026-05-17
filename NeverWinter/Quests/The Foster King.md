@@ -13,18 +13,20 @@ tags: [quest, alagondar, claugiyliamatar, succession, political, multi-tier, fos
 
 [[NPCs/Claugiyliamatar - Old Gnawbone|Claugiyliamatar]] **suspects** she has found a true [[Lore/The Alagondar Dynasty|Alagondar]] heir.
 
-She does not have proof. Her genealogical research — almost certainly derived from a stolen or shadow-commissioned copy of [[NPCs/Indrina Lamsensettle|Indrina Lamsensettle]]'s dossier — points to a surviving cadet line of the Alagondar bloodline that escaped the 1451 Mount Hotenow eruption. One descendant, a magically gifted orphan boy, was located and adopted by her around 1521 DR when he was ~5. In 1525 DR he is **~9 years old**.
+She does not have proof. Her genealogical research — almost certainly derived from a stolen or shadow-commissioned copy of [[NPCs/Indrina Lamsensettle|Indrina Lamsensettle]]'s dossier — points to a surviving cadet line of the Alagondar bloodline that escaped the 1451 Mount Hotenow eruption. One descendant, a magically gifted orphan, was located and adopted by her around 1512 DR when he was ~15. In 1525 DR he is **~28 years old** — a mid-level wizard (5-7), **not yet a master mage**. Adult, fully grown into himself, and actively building a reputation in Neverwinter society: salons, arcane circles, polite patronage of younger mages, careful friendship with anyone who matters. Old enough to be courted politically and persuaded emotionally; not yet powerful enough to craft Claug's permanent-human ritual.
 
-His name in the world is **Aldric Vance** *(placeholder — rename to taste)*. He believes his adopted mother is **Lady Maeve Vance**, a wealthy widowed minor noble who lives on a secluded estate (suggested: outside Leilon, half a day's ride from the High Road).
+His name in the world is **Aldric Vance** *(placeholder — rename to taste)*. He believes his adopted mother is **Lady Maeve Vance**, a wealthy widowed minor noble with several properties to manage. The family estate where Aldric lives is on the outskirts of Neverwinter; Lady Maeve is **rarely there in person** — she travels constantly between her holdings. Aldric runs the estate as live-in steward and is content with the arrangement: a city to charm, a quiet country house to come home to, and a mother whose affection arrives by letter, gift, and the occasional visit.
 
 Lady Maeve Vance is Claugiyliamatar wearing her Ring of Chameleon Power and her *alter self* polymorph. The boy has no idea. He loves her completely. And — this is the horror — **she genuinely loves him back.** The affection is real. The plan is also real.
+
+**She watches him constantly.** Lady Maeve is rarely on the estate in person because Claugiyliamatar's real work is done from her hag lair — including hours every day at the crystal ball, scrying her son. Aldric does not know. To him, mother simply has an uncanny instinct for when to send a letter, when to visit, when to know he is unwell. He finds it tender. **A perceptive party will eventually notice that Lady Maeve's timing is *too* good** — and that is a tier-2 reveal beat in its own right.
 
 ## What Claug Wants — the Double Prize
 
 If the boy proves to be the real heir, she gets two centuries of ambition resolved in one stroke:
 
 1. **The Throne of Neverwinter via him.** Raised benevolently. When old enough and powerful enough, his Alagondar bloodline is revealed. He opens the bloodline-locked vaults. The [[Lore/The Lost Crown and Hidden Alagondar Vaults|Lost Crown of Neverwinter]] is his. The Sons of Alagondar rally around him. [[NPCs/Renaer Neverember|Renaer]]'s fake claim collapses. Aldric becomes King — and rules with his beloved mother's quiet counsel.
-2. **Her permanent-human ritual.** Once he is a master wizard (~40-70 years out per canon), he crafts the ritual she has wanted for centuries — out of love for the woman who raised him.
+2. **Her permanent-human ritual.** Aldric is only a mid-tier wizard in 1525 DR — not yet capable of crafting the ritual. The crown can come first: bloodline qualifies him, not magic. Claug's plan is **throne first** (mid-late campaign), **ritual later** (post-campaign or late tier 3, after he develops master-level magic over another 10-20 years of patient mentorship). He will craft the ritual out of love for the woman who raised him.
 
 She gets her ritual **and** a city.
 
@@ -70,28 +72,29 @@ Applied to the succession conflict:
 
 ## Tier Ladder
 
-### Tier 1 (levels 1-5) — Whispers
+### Tier 1 (levels 1-5) — The Charming Young Wizard
 
-Party stumbles on this thread while working the [[Quests/The Shadowy Force|Shadowy Force]] quest. Possible entry breadcrumbs:
+Aldric is already publicly visible in Neverwinter society. The party will likely meet him before they suspect anything is off. Possible entry points:
 
-- A merchant's caravan to "Lady Vance's" estate was attacked. She paid quietly for replacement goods. Strange cargo manifest: expensive spellbooks, arcane reagents, components for a young apprentice.
-- An orphanage in Neverwinter or Waterdeep lost a magically-gifted child to "a private adoption" four years ago. Records sealed. Matron died of "natural causes" shortly after.
-- An old Sons of Alagondar contact mentions whispers of a hidden heir. They cannot find him. They are looking.
-- An Indrina-adjacent figure (a Harper, an aging Waterdhavian aristocrat, possibly Indrina herself) approaches the party with a fragment of genealogy that points somewhere — but the trail goes cold at "the Vance estate."
+- The party encounters Aldric at a Neverwinter salon, an arcane society evening, or a noble's dinner. He is polite, generous, well-read, eager to befriend adventurers. He may even hire them for a small errand or stand them a round at a respectable inn.
+- A merchant's caravan to the Vance country estate was attacked. Lady Vance herself is famously elusive ("always traveling between her other properties"). Her son Aldric handles the matter in person, pays well, and asks the party to keep it quiet.
+- An old Sons of Alagondar contact mentions whispers of a hidden heir. They do not yet know who. The irony — the party may have already met him.
+- An Indrina-adjacent figure (a Harper, an aging Waterdhavian aristocrat, possibly Indrina herself) approaches the party with a fragment of genealogy that points toward a cadet Alagondar line. The trail goes cold at "the Vance estate."
 
-**Tier 1 goal:** identify that there *might* be an heir. Don't reveal Claug. Don't even reveal Aldric by name.
+**Tier 1 goal:** establish Aldric as a likeable, known quantity in the party's life. Don't reveal Claug. Don't yet connect Aldric to the genealogy thread.
 
 ### Tier 2 (levels 5-10) — Discovery
 
-- Party reaches the Vance estate. Aldric is now ~13-16. Meet him. Meet Lady Maeve. She is charming, gracious, generous — feeds the party, gifts them minor magic items, asks (kindly) what business they have with her boy.
-- Aldric is wide-eyed, curious, knows magic well beyond his apparent age. He thinks the party are storybook heroes.
-- Breadcrumbs of Lady Maeve's true nature: she avoids direct sunlight in a particular way. The estate's hunting hounds will not approach her. A servant disappears after seeing something they shouldn't. Aldric casually mentions "mother's other house — the one in the deep forest, where the mushrooms glow."
+- Party finally meets Lady Maeve in person at the Vance estate (she has dodged direct meetings throughout tier 1). Aldric is now ~30-32. She is charming, gracious, generous — feeds the party, gifts them minor magic items, asks (kindly) what business they have with her boy.
+- Aldric is by now a known friend or ally. He has grown in confidence and political ambition. He still defers to mother on everything that matters — and the party may finally notice how strange that deference is for a man in his thirties.
+- Breadcrumbs of Lady Maeve's true nature: she avoids direct sunlight in a particular way. The estate's hunting hounds will not approach her on the rare visits she does make. A servant disappears after seeing something they shouldn't. Aldric mentions "mother's other house — the one in the deep forest, where the mushrooms glow."
+- **Breadcrumbs of the scrying:** Lady Maeve's letters arrive with uncanny timing. She "just knew" Aldric was unwell last week. The party offhand-mentions a private plan to him — and a sealed letter from mother addresses it the next morning. Small wrongness, accumulating.
 - **Mid-tier 2 revelation:** party either confirms Lady Maeve is Claug, or proves Aldric is a true Alagondar — or both, or neither.
 - The Lost Crown vault opens for Aldric. Or it doesn't. **Either result reshapes the entire plot.**
 
 ### Tier 3 (levels 10-20) — The Coronation Crisis
 
-- Aldric is ~25-35. Powerful wizard. Beloved adopted son. Believes his mother is the wisest soul in Faerûn.
+- Aldric is ~35-40. By now a powerful wizard (approaching but not yet at master tier). Beloved adopted son. Believes his mother is the wisest soul in Faerûn.
 - The Sons of Alagondar (or Claug, via her agents) move to install him on the throne. Renaer is being maneuvered into resignation, exile, defeat, or assassination — depending on what the party has set up across tiers 1 and 2.
 - **The party's central choice:**
   - **Let it happen.** Aldric becomes king. He is a good king. Neverwinter prospers. Claug rules in shadow forever. Most of the city never knows.
@@ -137,21 +140,21 @@ If the party finds Indrina or her dossier, they get the truth of Aldric's blood 
 
 ## Open Questions (lock these later)
 
-- **Aldric's real name.** Placeholder used; rename to taste. Suggestion: pick something humble — Claug would deliberately NOT name him anything Alagondar-evocative.
-- **Where is the Vance estate?** Options:
-  - Outside Leilon — half a day's ride from the High Road *(recommended — easy party access, integrates with Shadowy Force trade-route plot)*
-  - Outside Waterdeep — closer to Claug's lair and Indrina's old territory
-  - On a hidden plot in Neverwinter Wood itself — closer to Kryptgarden, more dangerous to reach
-- **Lady Maeve's cover story.** Widow of a Waterdhavian merchant / retired actress with a quiet fortune / exiled minor Cormyrian noble — pick one. Cover must explain her wealth, her seclusion, and her ability to refuse city invitations.
-- **How was Aldric originally orphaned?** Almost certainly arranged by Claug. The boy's "real parents" died in something that looked like banditry. He has fragmentary memories.
+> ⚠️ **USER WILL PROVIDE:** Aldric's real name and his backstory (how he was orphaned, his memories of his real parents, how Claug "found" him at 15) are being written by the user. Do not invent details for these — leave the existing placeholder text in place until the user supplies the canon version.
+
+- **Aldric's real name.** *(USER-TBD)* Placeholder "Aldric Vance" used. Suggestion when user writes it: pick something humble — Claug would deliberately NOT name him anything Alagondar-evocative.
+- **Aldric's backstory.** *(USER-TBD)* How was he orphaned? What does he remember? What was Claug's cover story for "finding" him at 15? All being written by user.
+- **Where on the Neverwinter outskirts is the estate?** Locked to Neverwinter-area per user. Specific spot (north of city walls / Neverwinter Wood edge / coastal manor) still TBD.
+- **Lady Maeve's cover story.** Widow of a Waterdhavian merchant / retired actress with a quiet fortune / exiled minor Cormyrian noble — pick one. Cover must explain her wealth, her near-permanent absence from the estate, and her ability to refuse city invitations.
 - **Does Aldric show specifically Alagondar-flavored magical talent?** The Alagondar line was historically associated with the Many-Starred Cloak (good wizards). Aldric showing strong divination or protection magic would fit and foreshadow.
 - **Are there other Alagondar candidates Claug doesn't know about?** *(Strongly recommended: yes.)* Adds rival-heir subplot.
 
 ## DM Notes
 
-- **Lady Maeve must be genuinely loving on-screen.** The horror is that the love is real. Claug has spent 4+ years actually raising Aldric and she does care for him. The tragedy is that she'd still sacrifice him if the plan required it.
+- **Lady Maeve must be genuinely loving on-screen.** The horror is that the love is real. Claug has spent 13+ years actually raising Aldric (from age 15 to 28) and she does care for him. The tragedy is that she'd still sacrifice him if the plan required it.
 - **Aldric is innocent.** Players will want to save him. Let them. But make the cost meaningful — what the party gives up to save him matters more than the rescue itself.
-- **Don't reveal Claug too early.** Tier 1: "is there an heir?" Tier 2: "who is the heir's mother?" Tier 3: "what does the heir do?"
+- **The "still at home" tell.** Aldric is 28 and has never lived anywhere but the family estate. He doesn't think of it as strange — he's the steward, mother is rarely there in person, and he sees himself as caretaker of family property. The off-note is in *how* he talks about her: with the unguarded warmth of a child, not the measured affection of an adult son. A perceptive party will catch it.
+- **Don't reveal Claug too early.** Tier 1: "who is this charming young wizard building a name in the city?" Tier 2: "wait — his mother is *what*?" Tier 3: "what does the heir choose?"
 - **The [[Lore/3 Faction Rule|3 Faction Rule]] applies recursively here.** Use it for every scene. Sons of Alagondar split into good/bad/ugly. Renaer's court splits into good/bad/ugly. Lady Maeve's estate staff splits into good/bad/ugly. The party will feel lost in the political forest — exactly the point.
 - **The Lost Crown vault test is the single most important scene of tier 2.** Set it up carefully. Make the players earn the reveal. If the vault opens for Aldric, the entire campaign changes shape.
 
@@ -159,7 +162,7 @@ If the party finds Indrina or her dossier, they get the truth of Aldric's blood 
 
 - Lock as the central political spine of tiers 1-3.
 - Defer naming Aldric and the estate location until session 0 so the user can adjust.
-- Tier 1 plant: drop one Vance-estate breadcrumb in the first three sessions of the Shadowy Force investigation.
+- Tier 1 plant: introduce Aldric as a recurring face in Neverwinter society from session one — party should know him as the polite young noble wizard before they ever suspect anything else.
 - Indrina's status (alive vs hidden vs dead) should be locked NOW — recommended: alive, in hiding, dossier intact, terrified.
 
 ## Related
