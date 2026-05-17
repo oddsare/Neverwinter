@@ -37,7 +37,8 @@ tags: [deity, locked, selune, shar, parallel-thread, intrigue]
 
 ### C. Selûne is the party's cosmic patron (without preaching)
 - Selûnites are NOT preachy in FR canon — they are travelers, sailors, navigators, healers. They turn up when the party needs an ally and disappear when they don't.
-- Madame Ophala / the Moonstone Mask becomes the party's tier-1 base of intelligence, supply, and rumor.
+- **The [[Locations/Neverwinter/Shard of the Moon|Shard of the Moon]]** is the actual Selûnite temple stronghold in Neverwinter — a floating tower in the [[Locations/Neverwinter/Districts/Tower District|Tower District]], formerly the Sharran *Shard of Night*, now reclaimed and gated. Led by a High Priestess (TBD) and head paladin **Galaeron**. Trusted visitors granted long-rest healing benefits. The Shar→Selûne flip is the Sister War expressed in stone, inside the city walls.
+- **The Moonstone Mask is NOT canonically Selûnite** — per the [[Locations/Neverwinter/The Moonstone Mask|Moonstone Mask file's canon reconciliation]], the moonstone trim is decorative naming, not clergy affiliation. Ophala may still be a quiet sympathiser / network node, but the Mask is not a temple.
 - One PC could be Selûne-touched without being a paladin — a moon-blessed traveler, a foundling, a were-creature in remission.
 
 ### D. The campaign's moral spine is the Sister War in microcosm
