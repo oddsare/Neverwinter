@@ -21,7 +21,7 @@ tags: [item, drug, contraband, yuan-ti, transformation, black-market, paralytic,
 
 ## Appearance
 
-A thick, milky-white resin, faintly luminescent in darkness — a barely visible inner glow that suggests something more than herbs went into it. Semi-solid at room temperature, it softens against skin heat into something almost liquid. Sold in small wax-sealed clay vials or folded into treated cloth. 
+A thick, milky-white resin, faintly luminescent in darkness — a barely visible inner glow that suggests something more than herbs went into it. Semi-solid at room temperature, it softens against skin heat into something almost liquid. Sold in small wax-sealed clay vials or folded into treated cloth.
 
 The smell is distinctive: sweetgrass, cold copper, and something faintly reptilian that users learn to crave.
 
@@ -138,8 +138,6 @@ The yuan-ti designed white resin deliberately:
 - The **transformation pipeline** converts addicted populations into agents, servants, or Broodguards
 - The yuan-ti are cautious about over-distribution — too many Broodguards reduces useful slave capacity
 
-The presence of white resin in Neverwinter means **yuan-ti have a deliberate interest in this city.** The dealer is the visible end of a supply chain that leads somewhere.
-
 ---
 
 ## DM Notes
@@ -147,14 +145,9 @@ The presence of white resin in Neverwinter means **yuan-ti have a deliberate int
 - The **paralysis + full consciousness** combination is the core horror: users are *aware* of being helpless. The pleasure makes them not care — until it wears off and they think about what they allowed.
 - The **unholy quality** of the pleasure is intentional — the yuan-ti venom carries a faint resonance with their serpent gods (Merrshaulk, Sseth). Users who are sensitive to the divine or arcane may, with extended use, begin to unconsciously pray toward yuan-ti deities without knowing what they are doing.
 - The **5% / nat 1 trigger** is a slow-burn horror element. Stage 1 is survivable and reversible — but a player may not know that at first, and Stage 1 *feels like a gift*.
-- Yuan-ti agents in Neverwinter are monitoring known users. The dealer reports buyer identities upstream.
-- The **Shadowy Force** connection: some disappearances on moonless nights are Stage 2 individuals being quietly collected by yuan-ti agents before they become visible.
-- Tracing the supply chain leads *out* of Neverwinter toward an active yuan-ti operation in the region.
 
 ---
 
 **Related:**
 - [[NPCs/[NAME TBD] - White Resin Dealer|The White Resin Dealer]]
-- [[Locations/Neverwinter/Districts/Docks District|Docks District]]
-- [[Quests/The Shadowy Force|The Shadowy Force]]
 - [[Lore/Code Legal of Neverwinter|The Code Legal of Neverwinter]]
