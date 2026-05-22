@@ -10,9 +10,11 @@ This file is read automatically at the start of every Claude Code session. It ca
 2. **The user writes all character names and personal backstories.** Use `[NAME TBD]` placeholders. Never invent a name or personal history.
 3. **Do NOT connect plot threads, NPCs, locations, or items together unless the user explicitly says to.** Record what is given. Do not add implications, hooks, or cross-references unless instructed.
 4. **Research when asked. Record what the user gives. Nothing more.**
-5. **Commit and push after every change.**
-6. **Do NOT open new pull requests.** PR #1 is live on `claude/review-optimize-agents-Sr9R6`.
-7. **Working branch:** `claude/review-optimize-agents-Sr9R6` — all work goes here unless told otherwise.
+5. **If a file already exists for a subject, add to that existing file. Do not create a duplicate.**
+6. **Never connect an existing file to another file or thread unless the user says to.**
+7. **Commit and push after every change.**
+8. **Do NOT open new pull requests.** PR #1 is live on `claude/review-optimize-agents-Sr9R6`.
+9. **Working branch:** `claude/review-optimize-agents-Sr9R6` — all work goes here unless told otherwise.
 
 ---
 
