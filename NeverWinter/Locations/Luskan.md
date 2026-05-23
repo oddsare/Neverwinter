@@ -126,9 +126,17 @@ Luskan is located **north of [[Locations/Neverwinter/Neverwinter|Neverwinter]]**
 Ships traveling between Luskan and points south pass by [[Locations/Neverwinter/Neverwinter|Neverwinter]].
 
 ### Political Relationship
-- [[NPCs/Renaer Neverember|Lord Renaer Neverember's]] father, Dagult Neverember, had connections to Luskan
-- The two cities are rivals
-- [[Factions/City Guard|Neverwinter City Guard]] must watch for Luskan pirates
+- [[NPCs/Renaer Neverember|Lord Renaer Neverember's]] father, Dagult Neverember, had connections to Luskan — and Luskan very likely had a hand in his **1502 DR disappearance** (canon: Luskan had an active assassination plot against Dagult at the time of his vanishing).
+- **1520 DR — Renaer–Luskan Peace.** Renaer's first act of reign was to sign peace with Luskan. Whether he knew Luskan probably killed his father, did not know, or suspected but chose stability over vengeance — see [[NPCs/Renaer Neverember|Renaer's file]] and [[Quests/The Peace Anniversary]] for the three readings.
+- The two cities are no longer at war, but the peace is fragile and built on unspoken history.
+- [[Factions/City Guard|Neverwinter City Guard]] must still watch for Luskan pirates and unsanctioned Brotherhood activity.
+
+### The 5-Year Anniversary — 1525 DR
+The peace turns **5 years old in 1525 DR**. Luskan is sending a delegation to mark it:
+- **The Emperor of the Seas' son** *(name TBD)* as public face
+- **An [[Factions/Arcane Brotherhood|Arcane Brotherhood]] advisor** *(name TBD)* as the actual operator
+
+Surface intent: ceremonial renewal. Real intent: a **political move** against Renaer. Full event captured in [[Quests/The Peace Anniversary]].
 
 ### Potential Threat
 **Campaign Connection:**
