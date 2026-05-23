@@ -28,3 +28,9 @@ desktop.ini
 **/.dataF.js
 **/.extract_*.py
 **/.build_*.py
+
+# --- obsidian-mind additions ---
+.qmd/
+thinking/session-logs/
+node_modules/
+.claude/scripts/node_modules/
