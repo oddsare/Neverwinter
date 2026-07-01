@@ -81,6 +81,57 @@ The Glue Crawler extracts partitions based on **how your S3 data is organized** 
 - Enable **job metrics** to see how many DPUs you actually need — plot max needed vs max allocated in the **Glue Console** (not CloudWatch); also tracks ETL data movement
 - 1 DPU = 2 executors; reserve **1 DPU for the Spark driver** + **1 executor for management overhead** — account for this when sizing jobs
 
+### Full Spark Power
+Glue ETL runs on Apache Spark — anything you can do in Spark, you can do in Glue ETL. Joins, aggregations, ML transformations, custom UDFs, multi-step pipelines. Glue just adds the serverless wrapper and AWS integrations on top.
+
+> [!tip] Exam focus
+> **Glue ETL = managed Spark.** If a question asks "can Glue do X?" — if Spark can do it, Glue can do it.
+
+---
+
+### Supported Format Conversions
+Glue ETL can convert between these formats:
+
+| Format | Notes |
+|---|---|
+| **CSV** | Common flat text |
+| **JSON** | Semi-structured |
+| **Avro** | Row-based, schema embedded, good for streaming |
+| **Parquet** | Columnar, best for analytics reads |
+| **ORC** | Columnar, Hive-native, similar to Parquet |
+| **XML** | Legacy/enterprise |
+
+> [!tip] Exam focus
+> **Parquet and ORC = columnar = best for analytics (Athena, Redshift Spectrum).** Glue ETL is the standard way to convert raw CSV/JSON into Parquet/ORC for a data lake.
+
+---
+
+### ResolveChoice
+Same column name, **different data types** across records in a DynamicFrame. Example: a `price` field that is a `double` in some records and a `string` (e.g. `"$9.99"`) in others. Glue surfaces this as a type conflict — `ResolveChoice` fixes it.
+
+**Example — `make_cols`:**
+```
+myList DynamicFrame has field "price":
+  - some records: price = 9.99  (double)
+  - other records: price = "$9.99" (string)
+
+→ ResolveChoice(make_cols) produces:
+  - price_double
+  - price_string
+```
+
+| Option | What it does |
+|---|---|
+| `cast:type` | Force all to one type (e.g., cast everything to string) |
+| `make_cols` | One new column per type — `price_double`, `price_string` |
+| `make_struct` | Wrap into a struct |
+| `project:type` | Keep only one type, drop records that don't match |
+
+> [!tip] Exam focus
+> **ResolveChoice = type conflict on the same field name.** `make_cols` is the most testable option — produces `fieldname_type` columns.
+
+---
+
 ### DynamicFrame
 - Glue's core data abstraction — like a **Spark DataFrame but ETL-aware**
 - Collection of **DynamicRecords** — each record is self-describing and carries its own schema

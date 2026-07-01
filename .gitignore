@@ -28,3 +28,4 @@ desktop.ini
 **/.dataF.js
 **/.extract_*.py
 **/.build_*.py
+.claude/
