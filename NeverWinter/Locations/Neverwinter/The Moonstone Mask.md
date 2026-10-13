@@ -381,7 +381,9 @@ Many patrons come from [[Locations/Neverwinter/Districts/Bluelake District|Bluel
 - [[NPCs/Ophala Cheldarstorn|Madam Ophala Cheldarstorn]] - Enigmatic proprietor
 
 ### Staff
-*Add staff NPCs as you create them:*
+- **The house seamstress** — a plump, cheerful woman with white-streaked hair who makes the courtesans' gowns. Secretly [[NPCs/Zundaerazylym - The Laughing Wyrm|Zundaerazylym]], an adult steel dragon. Sometimes takes a sick courtesan's place for the day by shapeshifting into her.
+
+*Add other staff NPCs as you create them:*
 - Bartenders
 - Entertainers
 - Security
@@ -395,7 +397,8 @@ Many patrons come from [[Locations/Neverwinter/Districts/Bluelake District|Bluel
 
 ## DM Notes
 
-*Add your private DM notes about the Moonstone Mask here*
+### Secret: the Soft Claws meet here
+The Mask is the hidden meeting ground of the **Soft Claws**, a ~60-agent secret guild run by [[NPCs/Zundaerazylym - The Laughing Wyrm|Zundaerazylym]] with Ophala's blessing. Agents carry silvery-blue star-shaped **Never Tokens**. The Mask's soundproofed rooms and strict discretion make it ideal cover. If evil dragons, the Cult of the Dragon, or a hostile Harper faction learn of Longbite, **the Mask becomes a target.**
 
 **Useful for:**
 - Starting adventures (meeting patrons)

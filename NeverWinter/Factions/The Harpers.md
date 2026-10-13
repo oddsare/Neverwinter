@@ -119,7 +119,19 @@ The Harpers oppose:
 
 ## DM Notes
 
-*Add your private notes about Harper involvement in the campaign*
+### The Harpers and the Laughing Wyrm
+**Certain Harpers know** about [[NPCs/Zundaerazylym - The Laughing Wyrm|Zundaerazylym]]'s work: her secret guild (the Soft Claws), her dragon-feeding Longbite, her healing Soak, and her Never Tokens. They could move against her or step in to seize what she's made. **She only suspects this.** This gives the Harpers a gray edge in Neverwinter, and since [[NPCs/Ophala Cheldarstorn|Ophala]] is Harper-adjacent and the dragon's best friend, it can split loyalties.
+
+> [!idea] Soft idea — NOT committed (2026-10-11)
+> Canon never says *why* the Harpers would move against her. One option:
+> - A **hardline Harper cell** thinks she means well but is reckless:
+>   - Her **dragon-steering** sends evil dragons and orc hordes into conflict, and border villages and caravans pay the price.
+>   - Her secrets are **one capture away** from reaching an evil dragon or the Cult of the Dragon.
+>   - **100+ near-legendary Never Tokens** in an unvetted secret guild looks like a private army.
+>   - Longbite could tip the balance of power in the North toward dragons.
+> - Their plan: take Longbite and the tokens **"for safekeeping."**
+> - A **softer Harper cell**, and Ophala, would oppose them. Ties into the Harper split in [[Lore/3 Faction Rule]].
+> - The Harpers stay mostly good. The players get a real argument to pick a side in.
 
 ---
 

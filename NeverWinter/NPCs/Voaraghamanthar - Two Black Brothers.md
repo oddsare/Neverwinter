@@ -2,158 +2,243 @@
 status: LOCKED — side plot / parallel thread
 type: NPC / villain
 campaign-role: Side plot in the Mere of Dead Men; parallel background activity
-tags: [npc, dragon, locked, side-plot, mere-of-dead-men, parallel-thread]
+tags: [npc, dragon, locked, side-plot, mere-of-dead-men, parallel-thread, cult-of-the-dragon, twin-crowns]
 ---
 
 # Voaraghamanthar & Waervaerendor — The Two Black Brothers
 
-> **STATUS (updated 2026-05-15):** LOCKED as a side plot / parallel thread per user's "breathing world" design. Players may or may not engage. User has additional video transcript to deliver later — integrate when received.
+> **STATUS (updated 2026-10-11):** LOCKED as a side plot / parallel thread per the "breathing world" design. Players may or may not engage. Full MrRhexx transcript received and integrated 2026-10-11 — canon below is complete as far as the video goes.
 
-## The signature canon twist: they pretend to be one dragon
+**Source:** MrRhexx, *"Voaraghamanthar — The Dragon With The Greatest Secret in D&D"* (YouTube). Rhexx draws on Ed Greenwood's *Wyrms of the North: Voaraghamanthar* (*Dragon* #258, 1999) and the *Eye of Myrkul* adventures (*Dungeon* #69–73).
 
-The most useful canon detail for a campaign: **Voaraghamanthar and Waervaerendor coordinate to appear as a single creature** to outsiders. Locals around the Mere of Dead Men, in Leilon, in the High Road caravan trade, and in Neverwinter's rumor mill all speak of "the Black Death" or "the dragon of the Mere" as if it were one beast. In truth there are two — they trade off attacking caravans, mimic each other's lair behavior, and share a network of agents.
+**Name note:** The video's auto-captions give the twins' personal names as **"Westlim"** and **"Wulzaur / Woolsour"**, and the lich as **"Iniarv"** (earlier notes spelled it *Iniarbor*). Caption spellings are unreliable — verify against *Dragon* #258 if it matters, or rename freely.
 
-**Campaign use:**
-- Party investigates a single black dragon → discovers there are two → must figure out how to fight them without both showing up at once.
-- The "two pretending to be one" is also a metaphor that mirrors Claugiyliamatar's situation (a dragon pretending to be something it's not). Thematic resonance.
-- If they ever attack Neverwinter trade, the city's response is calibrated for one dragon and is therefore catastrophically under-resourced.
+---
 
-## MrRhexx video — transcript loaded 2026-05-15 (partial)
+## The secret: two dragons pretending to be one
 
-Source: MrRhexx, *"Voaraghamanthar — The Dragon With The Greatest Secret in D&D"* (YouTube). **Transcript is truncated** — missing roughly 18 minutes between [00:07:14] and [00:25:57]. Material below is from the surviving framing-and-end sections. If/when the user supplies the missing middle, integrate further.
+"Voaraghamanthar, the Black Death" — overlord of the Mere of Dead Men — is **two adult black dragons, identical twins**, posing as a single wyrm. Rhexx estimates only three or four beings in Faerûn know.
 
-### The origin of the Mere of Dead Men (1500 years ago)
-
-**This is the historical bedrock the brothers' story is built on. The party may uncover this gradually.**
-
-- 1500 years before the campaign's present, the land that is now the Mere was **fertile and prosperous.**
-- Two small kingdoms sat on it: **Uthtower** and **Yarlith** — created when an old king's twin sons split his realm rather than fight over the throne.
-- The kingdoms' high mage, **Iniarbor**, crafted **the Twin Crowns of Miramaran** — identical regalia for the twin kings.
-
-### The Twin Crowns of Miramaran (artifact)
-
-**Enchantments on each crown:**
-- Basic protective magic.
-- The ability to **teleport**.
-- **Immunity to mind-manipulation spells.**
-- And the unique linking property: **the two wearers can speak to each other and *feel each other's emotions*** across any distance.
-
-Individually: **Twin Crown of Uthtower** and **Twin Crown of Yarlith**.
-
-**This artifact is the campaign-load-bearing detail of the entire Brothers thread.** See the endgame possibilities below.
-
-### How the Mere was created
-
-- **The Ever Horde** (an army of orcs led by mind flayers) invaded the lands. Yarlith was destroyed.
-- **Neverwinter almost fell** to the Ever Horde — saved by **Palarandusk**, a gold dragon (canonical Neverwinter defender, worth noting as a positive-association ally NPC if needed).
-- The Ever Horde was eventually defeated, but at terrible cost.
-- Two years later a **second orc horde** rose from the south (high moors, Great Peak Mountains, fields of the dead).
-- The kingdoms gathered a smaller army at the tower of the now-departed Iniarbor — who, **unknown to them, had become a lich.**
-- The battle roused him. He came out and **attacked both sides** with devastating spells.
-- The kingdom armies retreated. The orcs broke into Uthtower.
-- **King Uth VII** invoked an old alliance and asked Iniarbor for aid.
-- *"With cruel humor in heart, Iniarbor honored the request"* — he unleashed spells that **raised the ocean and flooded the entire land.** Countless humans and orcs drowned.
-- The waters receded, leaving the sprawling saltwater swamp now known as the **Mere of Dead Men.**
-- Surviving humans fled. Surviving orcs retreated to the Sword Mountains.
-- The drowned are still down there. Many walk as undead.
-
-**Iniarbor the lich is still active under the swamp.** His spells continue to curse the lands around the Mere — *"either track spells doomed to the lands around the swamp and makes it even harder for there to be any hope that the mirror of dead men could be cleansed in the future."* The Mere expands to touch the High Road no matter how many times the road is rerouted — that is *his magic still working.*
-
-### The brothers' personal names and roles (MrRhexx detail)
-
-The two brothers are referred to by MrRhexx with personal/inner names distinct from the canonical FR Wiki names:
-
-| FR canon name | MrRhexx personal name | Public role |
+| Public name | Personal name (video) | Role |
 |---|---|---|
-| **Voaraghamanthar** | **Westlim** | The **diplomatic face.** Bears the name Voaraghamanthar. Whenever someone scries on "Voaraghamanthar" they scry on Westlim. Whenever anyone interacts with "the dragon of the Mere," Westlim is the one who appears. |
-| **Waervaerendor** | **Woolsour** | The **hidden operator.** More outgoing personality privately, but stays unseen in public. Handles kidnapping operations, transport, treasure. Carries the operational gear. |
+| **Voaraghamanthar** | **Westlim** | **The face.** The name Voaraghamanthar is attuned to him — scrying on "Voaraghamanthar" lands on Westlim. Whenever someone deals with "the dragon of the Mere," Westlim shows up. |
+| **Waervaerendor** | **Wulzaur / Woolsour** | **The hidden one.** No public record. Carries the concealment gear and runs the kidnapping/transport operation. |
 
-**This is the canonical "pretending to be one" mechanic exposed:** the brothers split labor so cleanly that to outsiders only one dragon exists, and that one is Westlim/Voaraghamanthar. Woolsour/Waervaerendor is invisible by *design* — there is no public record of him, and his magic items reinforce this.
+Locals in the Mere, Leilon, the High Road caravan trade and Neverwinter's rumor mill all speak of one beast. Any city response is calibrated for **one** dragon — and is therefore badly under-resourced.
 
-### Woolsour's operational gear
+---
 
-- **Ring of Invisibility** — keeps him hidden in and out of combat.
-- **Ring of Mind Shielding** — **critical.** Prevents anyone from scrying his thoughts or detecting his identity. This is why the brothers' shared secret cannot be cracked by ordinary divination.
-- **6 doses of "air spores"** — magical items that, when consumed, grant **multiple days of breathable air in the lungs.** Used on **kidnap victims.** Woolsour buries prisoners alive in the muck of the Mere; the air spores keep them alive for days while submerged.
-- **Portal Hole** — a portable extradimensional space. Used to **transport both treasure and prisoners** in and out of the Mere undetected.
+## Stats (canon, per video)
 
-### Their lair
+- Each is an **adult** black dragon (not ancient), but **CR 20** because each casts spells as an **11th-level sorcerer**.
+- Plenty of room to grow — they are a long-term threat, not a peaked one.
 
-> *"The Black Death and the Rapacious Raider dwell in the heart of the Mere of Dead Men in a partially submerged keep above a labyrinth of flooded tunnels."*
+---
 
-That's all canon gives. A keep half-sunk in the swamp, with extensive flooded passages beneath. **The "labyrinth of flooded tunnels" is dungeon-ready content** — water-filled corridors, drowned remains, undead, mind-shielded brothers patrolling.
+## The born link (natural, not from the crowns)
 
-### What they want
+- **Hatched from the same egg** — extremely rare; normally one twin eats the other.
+- Born with an **empathic link**:
+  - **In line of sight:** full telepathic speech.
+  - **Out of sight:** they feel each other's emotions, and over centuries have built a **code of emotional "flavors"** that carry specific meanings (e.g., a certain anger-plus-stress = "come to me"; curiosity-plus-playfulness = "I have company, hide nearby").
+- This is what makes the impossible possible: **two chromatic dragons who perfectly trust each other.** They will never betray one another and would die for each other.
+- **Their private fear:** if one dies, the link may **drive the survivor mad.**
+- Why it matters: dragons don't rule the world because they can't cooperate. The brothers break that rule — that's what makes them dangerous.
 
-- **They don't care about gold.** They will sacrifice any amount of treasure if it advances their goals.
-- **They deeply care about magic items.** Especially items that grant them new capability.
-- **Their kidnapping operation is the key signature.** They are not eating prisoners or extorting them — they are *storing* them, alive, buried in the muck. **Why?** The transcript gap likely contained this. Best guesses: ritual fuel, mental link experiments, intelligence extraction over time, sacrifice components for the lich. Worth pinning down later.
+### Origin
+- Used the link to **slaughter the rest of their clutch** in the nest, then fled their mother's wrath, moving from hiding place to hiding place.
+- Came to the Mere for three reasons:
+  1. **The legend of the Twin Crowns** — stories said the crowns were never stronger than when worn by twin brothers, with powers that only unlock for twins.
+  2. **The crowns drowned with the kingdoms** — they're somewhere in the Mere.
+  3. **Ebondeath had vanished** — the Mere's previous dragon left an unclaimed hoard, reputedly the stolen wealth of the whole kingdom of Uthtower.
 
-### The endgame possibilities (MrRhexx's two-pronged reveal)
+---
 
-**The brothers very likely possess the Twin Crowns of Miramaran.** This leads to two enormous campaign possibilities — pick one, or layer them:
+## The origin of the Mere of Dead Men (~1500 years ago)
 
-**Possibility A — The Singular Entity Path**
+- The land was fertile. The kingdom of **Uthtower** lost its king, who left **twin sons** with equal claims. The council split the realm into **Uthtower** and **Yarlith**, one per twin, and commissioned identical regalia — including the **Twin Crowns of Miramaran** (canon spelling likely *Myrmoran*).
+- The crowns were made by the kingdom's Mage Royal, **Iniarv**, an archmage living on the western slopes of the Sword Mountains. He cared little for politics — he engineered the peaceful split so the squabble wouldn't disturb his studies.
+- **The Ever Horde** (orcs led by illithids) hit the North. **Yarlith was destroyed.** Neverwinter nearly fell, saved by the gold dragon **Palarandusk**.
+- Two years later a **second orc horde** came north from the High Moor / Fields of the Dead. The battered kingdoms mustered a smaller army at an old tower — **Iniarv's** — not knowing he had become a **lich**.
+- The battle woke him. He attacked both sides. The army retreated and the orcs broke into Uthtower.
+- **King Uth VII** begged Iniarv to honor their alliance. Iniarv "helped" with cruel humor: he **raised the sea and drowned the land**, humans and orcs alike.
+- The receding water left the **Mere of Dead Men**. Survivors fled; surviving orcs went to the Sword Mountains. The dead float, lie buried in the muck, or still walk.
+- **The curse:** no matter how often the High Road is rerouted, the Mere always creeps out to just touch it. Never swallows it — just touches it.
+- **Iniarv's fate is unknown in canon.** He vanished after the flood. His tower can be entered (it appears in a 5e adventure) but the lore insists it is a mystery whether he still exists.
 
-The brothers use the linked crowns to **become one mind across two bodies.** Multiplied action economy, perfect coordination, two breath weapons, two physical presences acting as one will. Within a few centuries (well within the campaign's relevant horizon if the party doesn't interfere) they become **stronger than nearly any other dragon on the Sword Coast** — possibly rivalling or surpassing Claugiyliamatar.
+---
 
-**Possibility B — The Lich's Puppets Path**
+## The Twin Crowns of Miramaran (artifact)
 
-**Iniarbor still wears or controls the original crowns.** He uses them to **mind-control the brothers.** The brothers are his weapons — preventing the Mere from being cleansed, eliminating threats to his existence, kidnapping mortals for his rituals. The brothers' immunity to mind manipulation (granted by the crowns) is a lie — Iniarbor crafted the crowns, knows their loophole, and exploits it. **The brothers may not even know they are puppets.**
+Individually: **the Twin Crown of Uthtower** and **the Twin Crown of Yarlith.**
 
-**Campaign synthesis:** Possibility B is structurally stronger for a parallel-thread side plot, because it adds **Iniarbor as a hidden tier-3 antagonist** the party can discover. If they ever decide to "deal with" the brothers, they discover the brothers are tools and the real enemy is the lich. That's a multi-layered side plot worthy of a campaign with the user's "breathing world" mandate.
+### What Iniarv told the kings
+Protection, teleportation, immunity to mind control, and a link so the two kings could speak and feel each other's emotions — promoting peace. It worked; the kingdoms enjoyed a long peace.
 
-## Updated thread integration for the breathing world
+### What each crown does alone (old-edition stats, convert as needed)
+- **+3** to AC and all saving throws
+- Constant **mind blank**
+- Immunity to charm/enchantment magic (and psionic equivalents)
+- Once per day each: **Shield, Mirror Image, Fire Shield, Iron Guard, Teleport**
+
+### Both crowns, worn by two different people
+- Each always senses the other's emotional state.
+- **Telepathy once per week**, as long as both are on the same plane.
+
+### Both crowns, worn by **identical twins** (full power)
+- The wearers become linked **in mind and soul** — nearly a **single sentience**.
+- Communicate freely over any distance.
+- Either can **cast spells the other has prepared**.
+- Either can **activate magic items held by the other** (if triggered by will).
+- Either can cast a spell on himself and have it **take effect on the other** instead.
+
+### The costs
+- The wearers are drawn into an almost unbreakable friendship. If their personalities differ, **the weaker shifts alignment to match the stronger.**
+- For identical twins, the identities **fuse** until they're nearly one.
+- Over years it becomes harder to take the crown off — eventually **neither wearer can survive long without the bond.**
+
+### The backdoor (canon)
+Iniarv secretly wove in his own aims: **a third party can dominate both wearers at will** (a *demand*-style effect usable on either or both, same plane). Iniarv built this so he could control the kings if events forced him to intervene. **The crowns' "immunity to mind control" has a deliberate hole — and the hole has Iniarv's name on it.**
+
+### What full crowns would mean for the brothers
+One draconic soul running two bodies: two brains calculating, attacks orchestrated from two fronts, combined breath weapons, more attuned magic items than any dragon alive, double spellcasting, a Shield cast by one protecting the other at any range. Rhexx's speculation: once they reach ancient age, crowned, they could approach CR 26–30 each — a pair that could rival even the greatest single dragons.
+
+---
+
+## Crown status & the Cult of the Dragon (canon)
+
+- **They have one crown.** The **Cult of the Dragon** found it and **gave it to them** as a goodwill gesture.
+- **Westlim wears the Twin Crown of Yarlith** — on the big toe of his **left hind leg**.
+- **The brothers are playing the Cult.** The Cult wants them to become dracoliches. The brothers *are* obsessed with immortality — it's one of their top priorities — but they **fear undeath** and have no intention of transforming. They're master actors and feign interest to keep the Cult feeding them **intelligence about the world outside the Mere.**
+- **The real reason for the alliance:** the Cult turned **Ebondeath** into a dracolich at **Uth Tower** — the tower the kingdom was named after. Uth Tower is now **lost, submerged, and hidden** somewhere in the Mere. Everyone is hunting for it; **the Cult has ways to find it.**
+- The brothers believe **the second crown (Uthtower's) is in Uth Tower.** They're waiting for the Cult to lead them there — then **betrayal**.
+- **Whether they get the second crown** is the plot of the *Eye of Myrkul* adventures. Players can get their hands on it; the default outcome favors the dragons, but it can be prevented. **In this campaign: DM's call.**
+
+### Ebondeath (Chardansearavitriol)
+- The first black dragon to claim the Mere, right after it formed. Ruled it for centuries, then disappeared.
+- Was made a **dracolich by the Cult of the Dragon** at Uth Tower.
+- His hoard — reputedly the wealth of the whole kingdom of Uthtower — was left unclaimed.
+
+---
+
+## Personality
+
+- **Very active players in the world** — unlike plateaued dragons (Rhexx contrasts Gnawbone, who watches cities like TV).
+- **Not territorial, not prideful.** If they can't benefit from you, they'll likely let you pass through.
+- **If they want something from you, you'll usually see them coming.** Not stealth-ambushers — **polite, manipulative, resourceful.**
+- **Cunning and amoral, never needlessly cruel or destructive.** Discretion over valor; their own survival matters more than any short-term win.
+- **Skilled actors** — can adopt any persona, including a humble, timid-seeming scholar.
+- **Thirst for knowledge**, especially magic. Pursue immortality through **magic items** and research — but **disdain undeath**.
+- **Wulzaur/Waervaerendor:** the outgoing one; learns by socializing and doing.
+- **Westlim/Voaraghamanthar:** the reserved one; reads and studies in private.
+
+---
+
+## Combat (canon)
+
+Their personalities **flip** in a fight:
+
+- **Westlim** charges first and becomes the center of attention. Uses melee-survival spells, especially **Shield**. Signature spell: **Enlarge** — grows bigger to draw attacks away from his brother.
+- **Wulzaur** hides in nearby water — he's weaker in the air and on land, strong underwater. Moves unseen through water or climbs rock outcroppings with **Spider Climb**. Signature spell: **Acidosis** (unique) — his blood becomes acid; nonmagical weapons that pierce him are destroyed, and acid may splash attackers.
+
+**Tactics:**
+- Drag enemies into the water — push or grapple them down.
+- Against fliers (especially dragons): **acid breath on the wings** to force them down.
+- **Foul the water** to sicken anyone swimming away.
+- In shallow corrupted water, **wing-buffet sprays** at groups — anyone who swallows some gets nauseated.
+- **Never let the enemy see both at once.** They alternate attacks so "Voaraghamanthar" seems to be in two places: you think he's hiding in a ruin ahead, and he breathes on you from behind; you think he flew above the trees, and claws rip up from beneath you.
+
+---
+
+## Gear
+
+| Westlim (Voaraghamanthar) | Wulzaur (Waervaerendor) |
+|---|---|
+| Ring of Wizardry (extra 1st-level slots) | Ring of Invisibility |
+| Ring of Fire Resistance | Ring of Mind Shielding (no mind-reading, hides his identity) |
+| **Twin Crown of Yarlith** (left hind toe) | **6 doses of air spores** — grant days of breathable air; fed to prisoners |
+| | **Portal Hole** — ferries treasure and prisoners |
+
+---
+
+## Lair & hoard
+
+- Canon gives one line: the twins live in the heart of the Mere in a **partially submerged keep above a labyrinth of flooded tunnels.** Everything else is ours to build.
+- **Hoard:** canon says nothing specific. They don't care about gold — they'll spend any amount to advance their goals. **Magic items** are what they respect and want.
+
+---
+
+## The kidnappings
+
+- Canon: they **kidnap prisoners, feed them air spores, and bury them alive in the muck**, where they survive for days. The Portal Hole moves them.
+- **Why — not stated in canon (the full transcript doesn't say).** DM's call. Candidates:
+  - Information extraction over time (fits their thirst for knowledge)
+  - Bargaining chips with the Cult or with Neverwinter
+  - Test subjects for immortality research
+  - Labor or diving for Uth Tower
+  - Kept "usable" for Iniarv (if Path B) — see [[Lore/The Lost Crown and Hidden Alagondar Vaults]] for the true-heir angle
+
+---
+
+## Endgame possibilities
+
+**Path A — The Single Entity.** They find the second crown and fuse into one mind in two bodies. Within a few centuries, stronger than nearly any dragon on the Sword Coast — possibly rivaling [[NPCs/Claugiyliamatar - Old Gnawbone|Claugiyliamatar]].
+
+**Path B — The Lich's Puppets.** Iniarv still exists and uses the crowns' canon backdoor to dominate the brothers — preventing the Mere from ever being cleansed, eliminating threats, collecting prisoners. With both crowns worn, he controls two crowned dragons at once: apocalyptic-level danger.
+
+**Working assumption: Path B** (the backdoor is canon, which makes it the stronger hook — "deal with the dragons" becomes "discover the lich"). **Not final** — confirm with the DM before it goes on the table. Iniarv needs his own NPC note if this sticks.
+
+---
+
+## Background timeline (breathing world)
 
 | In-game timeframe | Brothers' background activity |
 |---|---|
-| Campaign start (1525 DR) | Continuing slow kidnapping operations. Westlim handles public-facing intimidations. Woolsour buries prisoners. Treasure mostly untouched in flooded keep. |
-| ~6 months | Acquire one new magical item — probably stolen from a Neverwinter merchant or Luskan trader caravan crossing the High Road. |
+| Campaign start (1525 DR) | Slow kidnappings continue. Westlim handles public dealings and intimidation; Wulzaur buries prisoners. Feeding the Cult hope while it hunts Uth Tower. |
+| ~6 months | Acquire a new magic item — likely from a Neverwinter merchant or Luskan caravan on the High Road. |
 | ~1 year | A prisoner escapes or is found alive in the muck — surfaces in Leilon or near Neverwinter as a horror story. |
-| ~2 years | The brothers (or Iniarbor) attempt a larger operation — perhaps abducting a specific named NPC. |
-| ~3 years | If unchecked: the brothers either complete the Possibility A merger, or Iniarbor activates them for a major operation. |
+| ~2 years | The Cult locates Uth Tower. The brothers move on it — and on the Cult. |
+| ~3 years | If unchecked: second crown claimed → Path A merger begins, or Iniarv activates his puppets (Path B). |
+
+---
 
 ## Open thread interactions
 
-- **With Claugiyliamatar:** Both threads feature dragons disguising their true nature. Westlim/Woolsour might *trade* with Old Gnawbone — she wants the Twin Crowns (mind-manipulation immunity could shield her from divination during her permanent-human ritual). The brothers might want what Claugiyliamatar has (intelligence on Neverwinter nobles, ritual expertise). Set them up as mutual-knowledge / mutual-distrust.
-- **With Iniarbor (if Possibility B):** A lich behind the brothers means the Mere itself is a thinking enemy. The Sharran cult might have a working relationship with him — Shar and necromantic-lich identity are thematically compatible.
-- **With Kurtulmak's Chosen:** The brothers and the undercity are subterranean/subaqueous neighbors. Trade route along the Sword Mountains south, with the brothers offering kidnapped sapient labor in exchange for magic items recovered from the Chosen's hoard.
+- **With [[NPCs/Claugiyliamatar - Old Gnawbone|Claugiyliamatar]]:** both threads feature dragons disguising their true nature. Each crown grants **mind blank** — exactly what Gnawbone would want to hide from divination during her permanent-human ritual. Mutual knowledge, mutual distrust, possible trade.
+- **With the Cult of the Dragon:** canon gives us a Cult cell working the Mere. A Cult presence in or near Neverwinter (agents, buyers, Uth Tower researchers) is a natural city-level hook.
+- **With Iniarv (Path B):** the Mere itself becomes a thinking enemy. A Sharran connection is possible — see [[NPCs/Selune and Shar - Sister Goddesses]].
+- **With [[NPCs/Zundaerazylym - The Laughing Wyrm|Zundaerazylym]]:** her Soft-Scale Soak slows aging, which matters to two dragons obsessed with immortality. **Air spores** are in her Longbite recipe and in Waervaerendor's kidnapping kit, so they could be competing buyers. Her Soft Claws also steer evil dragons into orc country, and the brothers would be prime targets if they ever got noticed.
+- **With Kurtulmak's Chosen:** subterranean/subaqueous neighbors. Possible trade: kidnapped labor for magic items from the Chosen's hoard.
 
-## Action
-
-- **Lock the Lich-Puppets Path (Possibility B) as the working assumption** unless user prefers Possibility A. Adds Iniarbor as a hidden meta-villain in the Mere.
-- **Pin down the kidnap purpose later** — the missing transcript chunk likely contains this.
-- **Treat the Twin Crowns as an artifact-quest hook.** If the party ever takes one or both, that's a major tier-2/tier-3 power upgrade or moral dilemma.
-- **Iniarbor needs his own NPC file** if Possibility B is locked in. He is potentially the most powerful single being in the campaign's vicinity, and the party may never meet him.
-
-## Canon snapshot (Forgotten Realms)
-
-- **Voaraghamanthar** — "The Black Death," adult/ancient black dragon, lairs in the **Mere of Dead Men**.
-- **Waervaerendor** — his brother, also a black dragon in the Mere. Sometimes called "The Wearer of Wyrms."
-- Both are **black dragons**: cunning, cruel, prefer corruption, slavery, and slow ruin over brute force. Lair in swamp/marsh terrain.
-- The **Mere of Dead Men** is the swamp **south of Neverwinter**, between Neverwinter and Waterdeep along the High Road. Geographically perfect for a Neverwinter-based campaign — the brothers are essentially next-door neighbors.
+---
 
 ## Why they fit a political-intrigue campaign
 
-- Black dragons are **schemers**, not roaring brutes. They cultivate cults, blackmail nobles, sponsor smugglers, and corrupt clergy. Their natural mode is *political* — they fit the spine.
-- Two of them = built-in **rivalry / alliance** dynamic. The brothers can be played off each other. One could be the "ally" the party trusts. One could be the enemy. Either could betray either.
-- They're **established canon**, so any FR-savvy player gets the recognition payoff without it feeling shoehorned.
-- Mere of Dead Men is already linked to Neverwinter trade (the High Road runs through it). Caravan attacks and disappearances in the swamp tie directly to the **Shadowy Force** hook.
+- Canon makes them **schemers and actors**, not roaring brutes — polite, manipulative, information-hungry. They fit the spine.
+- Two of them = a built-in alliance that looks like one creature — the party can be played, and can learn to play back.
+- The High Road runs through the Mere. Caravan disappearances tie directly to the [[Quests/The Shadowy Force|Shadowy Force]] hook.
 
-## Possible integration angles (NOT decided)
+## Possible integration angles (not decided)
 
-- One or both brothers are the **secret patrons of the Shadowy Force** — the disappearances are tribute / sacrifices / smuggling for them.
-- One brother is in league with a Neverwinter noble house; the other is in league with a rival house. Their feud *is* the city's faction war by proxy.
-- Could replace or share the apex-villain slot with the kobold undercity dragon idea (Plot Point #1) — or the brothers could be **rivals to** the undercity power.
-- Cult angle: one of the "respected Neverwinter institutions" is secretly a Voaraghamanthar cult that has corrupted a noble line for generations.
+- One or both brothers are **secret patrons of the Shadowy Force** — the disappearances are prisoners, tribute, or magic-item theft.
+- One brother is in league with a Neverwinter noble house; the other with a rival house. Their feud *is* the city's faction war by proxy.
+- A "respected Neverwinter institution" is secretly a Cult of the Dragon front working with the brothers.
 
 ## Open questions
 
-- Does using established canon villains *help* (recognition) or *hurt* (player metagaming, "I read the Sword Coast Adventurer's Guide")?
-- Two black dragons is already a lot of dragon for a political campaign. How does this reconcile with the kobold undercity dragon? Pick one? Combine? Make them rivals?
-- Both adult or one adult / one ancient? Different ages = different power dynamic.
-- Are the brothers *the* BBEG, or the Tier 2 mid-bosses, or the wildcard third party?
+- Does the party ever learn there are two?
+- Does the second crown stay lost, go to the brothers, or end up in the party's hands?
+- Is Iniarv still out there?
+- How do the brothers sit alongside Claugiyliamatar and the Kurtulmak's Chosen dragon? (Rivals, suppliers, or kept apart?)
+- What are the kidnappings for?
 
-## Action
+---
 
-- **Do not integrate yet.** Run the Council on this when the user wants to lock it in. See [project_council_review](../../../../../../Users/Gilbe/.claude/projects/F--This-thing-Neverwinter-Obsidian/memory/project_council_review.md).
+## Related
+
+- [[Lore/Adventure - Sleeping Dragon's Wake]] — 5e adventure featuring Iniarv's Tower (south of Leilon, Myrkul cult); candidate for use
+- [[Lore/Sword Coast Reference]] — Mere of Dead Men, Leilon
+- [[Lore/The Lost Crown and Hidden Alagondar Vaults]] — prisoners may include true heirs
+- [[NPCs/Claugiyliamatar - Old Gnawbone]]
+- [[NPCs/Selune and Shar - Sister Goddesses]]
+- [[Lore/3 Faction Rule]]

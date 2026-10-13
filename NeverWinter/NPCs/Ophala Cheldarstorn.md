@@ -99,6 +99,14 @@ Per the Forgotten Realms Wiki and 2e/3e/4e sourcebooks (Volo's Guide to the Nort
   - **Khelben "Blackstaff" Arunsun's Waterdeep apparatus** (allied magical circles)
 - Implication: **Ophala is one of the most powerful single people in Neverwinter and almost nobody in the city knows it.**
 
+### Best friend: Zundaerazylym, the steel dragon
+
+Ophala is one of the very few people who know that the Mask's cheerful seamstress is [[NPCs/Zundaerazylym - The Laughing Wyrm|Zundaerazylym]], an adult steel dragon living as a human. They're close friends and help each other whenever needed:
+- Zundaerazylym makes the Mask's gowns and sometimes **shapeshifts to cover a sick courtesan's shift** as a favor to Ophala.
+- Ophala lets the dragon's secret guild, the **Soft Claws**, use the Mask as its **hidden meeting ground**.
+- Ophala has **teleported a badly wounded Zundaerazylym out of an orc battle** to a disused quarry near Conyberry, where her experimental healing bath waited.
+- **Tension to use:** Ophala is Harper-adjacent, and certain Harpers know about the dragon's work and may move against her. Ophala could end up caught between her friend and her network.
+
 ### Ophala's knowledge of Dagult's fate (LOCKED)
 
 Ophala **partially knows** what happened to Dagult in 1502 DR. Specifically:

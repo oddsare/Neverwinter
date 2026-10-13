@@ -201,6 +201,9 @@ Could the [[Quests/The Shadowy Force|disappearing ships]] be the work of the Arc
 
 *Add your private DM notes about the Arcane Brotherhood here*
 
+### Possible lever: the White Wyrm
+[[NPCs/Arveiaturace - The White Wyrm|Arveiaturace]] wants a powerful wizard to bring her dead rider Meltharond back (likely as undead). A Brotherhood "Meltharond project" would put an ancient dragon on Luskan's side. In canon her late mate **Arauthator** (dead since ~1489) was tied to the Brotherhood and the Cult of the Dragon.
+
 ---
 
 **Related:**

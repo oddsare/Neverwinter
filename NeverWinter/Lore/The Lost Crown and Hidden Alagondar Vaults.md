@@ -116,7 +116,7 @@ A campaign-ending arc:
 ### Cross-thread interactions
 
 - **[[NPCs/Claugiyliamatar - Old Gnawbone|Claugiyliamatar]]:** Old Gnawbone wants to *be* a Neverwinter noble. The Crown is the keystone of Neverwinter nobility. **Does she want the Crown for herself?** She can't open the vaults (not Alagondar). But she can *find a true heir, manipulate them, and use them as a key.* This is the most political-intrigue version of her arc.
-- **[[NPCs/Voaraghamanthar - Two Black Brothers|The Two Black Brothers / Iniarbor]]:** the brothers' kidnapping operation might *include* abducted true heirs. Iniarbor the lich could be experimenting with bloodline-magic on Alagondar descendants. **Buried alive in the Mere** = a survival-grade prison for someone he wants to keep usable.
+- **[[NPCs/Voaraghamanthar - Two Black Brothers|The Two Black Brothers / Iniarv]]:** the brothers' kidnapping operation might *include* abducted true heirs (canon never says why they bury prisoners alive, so this slot is open). Iniarv the lich could be experimenting with bloodline-magic on Alagondar descendants. **Buried alive in the Mere** = a survival-grade prison for someone he wants to keep usable.
 - **The [[NPCs/Selune and Shar - Sister Goddesses|Sharran cult]]:** Shar specializes in unmaking and remaking identity. A Sharran ritual might *forge* a true Alagondar heir from a willing subject — or *erase* a real one to clear the field for Dagult's line. Plot-grade ambiguity.
 - **The [[Factions/The Harpers|Harpers]]:** they almost certainly know about the vaults. They almost certainly know who the surviving heirs are. **They've been protecting them.** This is what the secret basement of the [[Lore/Neverwinter Sub-Locations|House of a Thousand Faces]] is actually for.
 

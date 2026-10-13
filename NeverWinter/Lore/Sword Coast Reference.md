@@ -60,7 +60,7 @@ tags: [reference, geography, sword-coast, locations]
 
 **Map coords:** x:2096, y:974
 
-**Campaign relevance:** Cursed swamp south of Neverwinter on the High Road. Home of Voaraghamanthar + Waervaerendor (Two Black Brothers) and the lich Iniarbor. The flooding-spell that created the swamp is still active.
+**Campaign relevance:** Cursed swamp south of Neverwinter on the High Road. Home of Voaraghamanthar + Waervaerendor (Two Black Brothers), possibly the lich Iniarv (fate unknown in canon), and a Cult of the Dragon cell hunting the sunken **Uth Tower**, where the Cult made the old dragon Ebondeath a dracolich and where the second Twin Crown may lie. The flooding-spell that created the swamp is still active — the Mere always creeps back to touch the High Road however it's rerouted.
 
 **Canon (from AideDD Faerûn Map):**
 

@@ -250,6 +250,9 @@ Could [[Quests/The Shadowy Force|the disappearing ships]] be Luskan's doing?
 
 *Add your private DM notes about Luskan here*
 
+### The White Wyrm next door
+[[NPCs/Arveiaturace - The White Wyrm|Arveiaturace]], an ancient white dragon who preys on ships, lairs on **Ice Peak, off Luskan's coast**. Open question: how does a pirate city live beside her — tribute, an Arcane Brotherhood deal, or just losses? Her late mate Arauthator (dead since ~1489) had canon ties to the Brotherhood, and she's searching for a wizard who can bring her dead rider Meltharond back. The Brotherhood is the obvious bidder.
+
 ---
 
 **Related:**

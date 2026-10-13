@@ -193,6 +193,9 @@ Investigate the mysterious disappearances plaguing [[Locations/Neverwinter/Never
 
 *Add your private DM notes about the true nature of the threat here*
 
+### Red herring: the White Wyrm
+[[NPCs/Arveiaturace - The White Wyrm|Arveiaturace]] really does snatch sailors off ships along this coast. Some reports the party hears are her. **But she takes people, not whole ships or cargo**, and leaves no mystery about it (sailors know her). A witness who says "the White Wyrm took him" is telling the truth, and that's the clue the rest of the disappearances are something else.
+
 ---
 
 **Related:**

@@ -336,10 +336,16 @@ This is gold for a political-intrigue spine. Notes:
 
 - **Why does she want to be human?** Power-retention plus humanity = she wants something only mortals can have: rulership? Marriage into a noble line? A position on the council? Children? Pick the answer and the politics write themselves.
 - **Who in Neverwinter knows what she really is?** Zero? One? Three? Each answer is a different campaign.
-- **What's the ritual cost?** Innocent lives? A god's favor? Another dragon's heart? (← this is where Voaraghamanthar might fit.)
+- **What's the ritual cost?** Innocent lives? A god's favor? Another dragon's heart? (← this is where Voaraghamanthar might fit. Also: each of the brothers' Twin Crowns grants a constant *mind blank* — exactly the anti-divination cover her ritual or human disguise would want. See [[NPCs/Voaraghamanthar - Two Black Brothers]].)
 - **Is the ritual completable?** Does she succeed at the end, or do the players stop her, or does she succeed *and the campaign continues from there*?
 
+## Her mirror: Zundaerazylym
+
+[[NPCs/Zundaerazylym - The Laughing Wyrm|Zundaerazylym]], an adult steel dragon, already lives in Neverwinter as a human seamstress, truly and honestly. Gnawbone wants to fake the same thing in order to rule. The steel dragon's secret token safe house is a **cavern under the Neverwinter Wood, inside Gnawbone's claimed territory.** If Gnawbone learns of her (or of Longbite, or the Soak), she'd want to destroy her or steal her work.
+
 ## Dragon-glut tension
+
+> **Update 2026-10-11:** Brodie's ruling: **there's no such thing as too many dragons.** Players pick which threads to chase; the campaign won't focus on all of them. Keep every dragon in play.
 
 We now have **three dragon candidates** on the board:
 1. Kobold undercity dragon (Plot Point #1)

@@ -48,7 +48,7 @@ tags: [supplemental, items, magic-items, shop, fan-content, era-1490s]
 - Every item except the **Ring of Echoes** is **Uncommon**; the Ring is **Rare** (despite its modest effect — it's a quirk of the original table on p. 26).
 - All items require attunement.
 - The two "1d4 unreplenishable charges" items (**Airy Leather Armor**, **Babel Earring**) are intentionally consumable — once spent, they become non-magical.
-- Pricing isn't specified in the guide; use the DMG defaults for Uncommon / Rare magic items, or your table's house rules.
+- Pricing isn't specified in the guide; use [[Items/House Magic Item Prices]] (the SMP price of a comparable uncommon or rare item).
 
 ## See Also
 - [[Lore/Neverwinter Sub-Locations]] — for the Chasm District context
