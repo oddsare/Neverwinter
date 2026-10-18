@@ -70,7 +70,7 @@ She **flies with Meltharond's skeleton strapped to her back and talks to it.** S
 ## Relationships
 
 - **Arauthator ("Old White Death")** — her **mate**, an ancient white who lairs near Ice Peak. He talks to her when she's lonely and doesn't want her territory; she doesn't want his. He's an **ardent Cult of the Dragon member and Tiamat worshiper**, and he's trying to convert her.
-  - **DEAD (locked 2026-10-11, canon).** Killed by adventurers in *Rise of Tiamat* (~1489 DR). She didn't kill him. After his death she **took his territory**: the Reghed Glacier, the Sea of Moving Ice and Icewind Dale. By 1525 she is effectively **queen of the white dragons of the North**.
+  - **DEAD (locked 2026-10-11, canon).** Killed by adventurers in *Rise of Tiamat* (~1489 DR). She didn't kill him. After his death she **took his territory**: the Reghed Glacier, the Sea of Moving Ice and Icewind Dale. By 1505 she is effectively **queen of the white dragons of the North**.
   - With him gone, the Cult of the Dragon has lost its inside voice and must court her directly.
 - **Laeral Silverhand, Open Lord of Waterdeep** — mutual respect.
   - **The Candlekeep incident:** she heard from a captive that a Candlekeep sage had written badly of Meltharond. She **tore the roof off Candlekeep**, grabbed the writer, and set him straight.
@@ -131,6 +131,6 @@ A **portal to another plane** opened too close to her lair. Out came a **flying 
 
 ## Decisions (DM's call)
 
-- ~~Is Arauthator alive in 1525?~~ **Decided: dead** (canon, ~1489). She holds his lands.
-- **Is Laeral still Open Lord in 1525?** Matters for whether the "spare Waterdeep ships" arrangement still holds.
+- ~~Is Arauthator alive in 1505?~~ **Decided: dead** (canon, ~1489). She holds his lands.
+- **Is Laeral still Open Lord in 1505?** Matters for whether the "spare Waterdeep ships" arrangement still holds.
 - **How does Luskan's pirate fleet live with her?** Tribute? A Brotherhood deal? Or do they just lose ships?

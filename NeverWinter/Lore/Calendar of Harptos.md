@@ -7,8 +7,8 @@ category: Calendar
 ---
 # Calendar of Harptos & the Roll of Years
 
-**Campaign year:** 1525 DR, the **Year of the Drawn Line**
-**Covers:** 1492 DR (*Dragon Heist*) through 1530 DR (five years past the campaign start)
+**Campaign year:** 1505 DR, the **Year of Ogres Marching**
+**Covers:** 1492 DR (*Dragon Heist*) through 1530 DR (twenty-five years past the campaign start)
 
 ---
 
@@ -27,39 +27,39 @@ category: Calendar
 | DR | Year of… | SM | This campaign | Canon events (selected) |
 |---|---|---|---|---|
 | 1492 | Three Ships Sailing | ✓ | ***Dragon Heist* goes Manshoon's way.** A party with Renaer beats Manshoon's simulacrum and returns Dagult's hoard to Waterdeep ([[Campaign Decisions]]). | Dagult sends agents to Waterdeep to reclaim his 500,000 gold dragons, and his spy Dalakhar is killed. Zhentarim–Xanathar street war. Elturel is dragged into Avernus, then saved. In Baldur's Gate, Ravengard is captured and Gortash becomes Archduke, followed by the netherbrain attack (*Baldur's Gate 3*). Jarlaxle looks for leverage over Lords' Alliance members to win Luskan a council seat. The saprophytic plague spreads disease and famine along the Sword Coast. |
-| 1493 | the Purple Dragons | | | A goblin horde from the Marching Mountains attacks Calimshan. |
-| 1494 | Twelve Warnings | | | The Order of the Stout Half-Pint takes over the Silent Sound Lighthouse north of Neverwinter. |
-| 1495 | the Tyrant's Pawn | | **~1495:** the Emperor of the Seas begins his reign in [[Locations/Luskan\|Luskan]]. | A cabal called The Six finds a piece of the Orrery of the Wanderer. |
-| 1496 | the Duplicitous Courtier | ✓ | | **Manshoon's splinter Zhentarim** works to tighten its hold on the Sword Coast, and its Phandalin agent is replaced by a Manshoon loyalist. Zhentarim–Xanathar fighting escalates in Waterdeep. The lamplighters' guild strikes and an earthquake hits Waterdeep. Phandalin holds its first mayoral election. |
-| 1497 | the Palls Purple | | | |
-| 1498 | the Black Regalia | | **The powder deposits are discovered** in Neverwinter ([[Lore/The Powder]]). | Queen Anais of Tethyr dies and Ysabel Linden is crowned. |
-| 1499 | the Desperate Gambit | | | |
-| 1500 | the Sea's Secrets Revealed | ✓ | | A slaad egg is found in the Shaengarne River at Bremen. |
-| 1501 | the Shining Mythal | | | **Many-Arrows is re-established** under Orrusk Homebringer. A Banite "Shadow Parliament" in Baldur's Gate pushes to take power from the Council of Four. An Auril cult operates in Icewind Dale. Szass Tam plots to make himself sole ruler of Thay. |
-| 1502 | the Pox Plague | | **~1502: Dagult disappears** into the Neverneath. **The Dance of the Revolving Lords begins** ([[Lore/Neverwinter History]]). | |
-| 1503 | the Haunted Inn | | The Dance of the Revolving Lords continues. | |
-| 1504 | the Conquering Queen | ✓ | The Dance of the Revolving Lords continues. | |
-| 1505 | Ogres Marching | | The Dance of the Revolving Lords continues. | The Companions of the Hall go to Icewind Dale to build a portal linking Kelvin's Cairn to Gauntlgrym (Salvatore novels). |
-| 1506 | the Discarded Shields | | The Dance of the Revolving Lords continues. | |
-| 1507 | the Glowing Onyx | | The Dance of the Revolving Lords continues. | |
-| 1508 | the Legend Reborn | ✓ | The Dance of the Revolving Lords continues. | |
-| 1509 | the Sea Lion | | The Dance of the Revolving Lords continues. | |
-| 1510 | the Treasure Abandoned | | The Dance of the Revolving Lords continues. | |
-| 1511 | the Lion Rampant | | The Dance of the Revolving Lords continues. | |
-| 1512 | the Shattered Mirror | ✓ | The Dance of the Revolving Lords continues. | |
-| 1513 | the Tawny Feline | | The Dance of the Revolving Lords continues. | |
-| 1514 | the Lost Wagers | | The Dance of the Revolving Lords continues. | |
-| 1515 | the Howling Ghouls | | The Dance of the Revolving Lords continues. | |
-| 1516 | the Hangman's Joke | ✓ | The Dance of the Revolving Lords continues. | |
-| 1517 | the Coward Rewarded | | The Dance of the Revolving Lords continues. | |
-| 1518 | the Adomal Tapestry | | The Dance of the Revolving Lords continues. | |
-| 1519 | the Deceitful Brother | | The Dance of the Revolving Lords continues. | |
-| 1520 | the Arcane | ✓ | **Renaer Neverember takes power** as the 7th ruler since Dagult vanished, and the Dance ends. His reforms take effect over 1520–1525. | |
-| 1521 | the Moon Harp Restored | | | |
-| 1522 | the Bored Phylls | | | |
-| 1523 | the Brownie's Delight | | | |
-| 1524 | the Captive Harper | ✓ | | |
-| **1525** | **the Drawn Line** | | **CAMPAIGN START (present day).** The Shadowy Force emerges ([[Quests/The Shadowy Force]]). | |
+| 1493 | the Purple Dragons | | **1493: Dagult disappears** into the Neverneath. **The Dance of the Revolving Lords begins** ([[Lore/Neverwinter History]]). | A goblin horde from the Marching Mountains attacks Calimshan. |
+| 1494 | Twelve Warnings | | The Dance of the Revolving Lords continues. | The Order of the Stout Half-Pint takes over the Silent Sound Lighthouse north of Neverwinter. |
+| 1495 | the Tyrant's Pawn | | The Dance of the Revolving Lords continues. | A cabal called The Six finds a piece of the Orrery of the Wanderer. |
+| 1496 | the Duplicitous Courtier | ✓ | The Dance of the Revolving Lords continues. | **Manshoon's splinter Zhentarim** works to tighten its hold on the Sword Coast, and its Phandalin agent is replaced by a Manshoon loyalist. Zhentarim–Xanathar fighting escalates in Waterdeep. The lamplighters' guild strikes and an earthquake hits Waterdeep. Phandalin holds its first mayoral election. |
+| 1497 | the Palls Purple | | The Dance of the Revolving Lords continues. | |
+| 1498 | the Black Regalia | | The Dance of the Revolving Lords continues. | Queen Anais of Tethyr dies and Ysabel Linden is crowned. |
+| 1499 | the Desperate Gambit | | The Dance of the Revolving Lords continues. | |
+| 1500 | the Sea's Secrets Revealed | ✓ | The Dance of the Revolving Lords continues. | A slaad egg is found in the Shaengarne River at Bremen. |
+| 1501 | the Shining Mythal | | The Dance of the Revolving Lords continues. | **Many-Arrows is re-established** under Orrusk Homebringer. A Banite "Shadow Parliament" in Baldur's Gate pushes to take power from the Council of Four. An Auril cult operates in Icewind Dale. Szass Tam plots to make himself sole ruler of Thay. |
+| 1502 | the Pox Plague | | The Dance of the Revolving Lords continues. | |
+| 1503 | the Haunted Inn | | **Renaer Neverember takes power** as the 7th ruler since Dagult vanished, and the Dance ends. His reforms take effect over 1503–1505. | |
+| 1504 | the Conquering Queen | ✓ | | |
+| **1505** | **Ogres Marching** | | **CAMPAIGN START (present day).** The Shadowy Force emerges ([[Quests/The Shadowy Force]]). | The Companions of the Hall go to Icewind Dale to build a portal linking Kelvin's Cairn to Gauntlgrym (Salvatore novels). |
+| 1506 | the Discarded Shields | | *(future)* | |
+| 1507 | the Glowing Onyx | | *(future)* | |
+| 1508 | the Legend Reborn | ✓ | *(future)* | |
+| 1509 | the Sea Lion | | *(future)* | |
+| 1510 | the Treasure Abandoned | | *(future)* | |
+| 1511 | the Lion Rampant | | *(future)* | |
+| 1512 | the Shattered Mirror | ✓ | *(future)* | |
+| 1513 | the Tawny Feline | | *(future)* | |
+| 1514 | the Lost Wagers | | *(future)* | |
+| 1515 | the Howling Ghouls | | *(future)* | |
+| 1516 | the Hangman's Joke | ✓ | *(future)* | |
+| 1517 | the Coward Rewarded | | *(future)* | |
+| 1518 | the Adomal Tapestry | | *(future)* | |
+| 1519 | the Deceitful Brother | | *(future)* | |
+| 1520 | the Arcane | ✓ | *(future)* | |
+| 1521 | the Moon Harp Restored | | *(future)* | |
+| 1522 | the Bored Phylls | | *(future)* | |
+| 1523 | the Brownie's Delight | | *(future)* | |
+| 1524 | the Captive Harper | ✓ | *(future)* | |
+| 1525 | the Drawn Line | | *(future)* | |
 | 1526 | the Hazy Coast | | *(future)* | |
 | 1527 | the Hoard Retaken | | *(future)* | |
 | 1528 | the Insufferable Mystic | ✓ | *(future)* | |
@@ -92,10 +92,10 @@ The wizard **Harptos of Kaalinth** created this calendar, and it is used across 
 ### Writing dates
 - **Days of a tenday** have no names. Use numbers: "the fourth day of the first tenday of Flamerule" is **Flamerule 4**.
 - **Common forms:** "15 Hammer," "Hammer 15" or "15th Hammer." In speech or poetry you might hear "the 15th of Deepwinter."
-- **Full date example:** *Kythorn 20, 1525 DR, the Year of the Drawn Line*, which is the summer solstice of the campaign year.
+- **Full date example:** *Kythorn 20, 1505 DR, the Year of Ogres Marching*, which is the summer solstice of the campaign year.
 
 ### Shieldmeet
-- **When:** the extra day after Midsummer, in every year divisible by four. The next one is **1528 DR**. The last one was 1524 DR.
+- **When:** the extra day after Midsummer, in every year divisible by four. The next one is **1508 DR**. The last one was 1504 DR.
 - **Waterdeep:** the Masked Lords appear publicly at the **Shieldmeet Council**, where the Lords' Rule is reaffirmed (see [[Locations/Waterdeep]]).
 - **Amphail:** one fan source says Amphail's Lord Warder changes at each Shieldmeet (see [[Locations/Amphail]]).
 

@@ -15,7 +15,7 @@ tags: [location, lords-alliance, canon]
 **Ruler / Alliance seat (c. 1489 DR):** High Mage Taern "Thunderspell" Hornblade
 **Lords' Alliance influence:** High
 
-> Canon reference only, as of about 1489 DR. The campaign is set in 1525 DR. See [[Factions/Lords' Alliance]].
+> Canon reference only, as of about 1489 DR. The campaign is set in 1505 DR. See [[Factions/Lords' Alliance]].
 
 ---
 
@@ -43,7 +43,7 @@ The land was sacred to **Mielikki** and the unicorn goddess **Lurue** long befor
 - **Royal badge:** a silver star and crescent moon on royal blue.
 
 ### The Ruler: Taern "Thunderspell" Hornblade
-- **Age:** born 1204 DR, which makes him about 285 in 1489 DR and 321 in 1525 DR. Sources conflict, so the wiki uses 1204 DR as a compromise. He has stayed healthy with **potions of longevity**.
+- **Age:** born 1204 DR, which makes him about 285 in 1489 DR and 301 in 1505 DR. Sources conflict, so the wiki uses 1204 DR as a compromise. He has stayed healthy with **potions of longevity**.
 - **Titles:** High Mage of Silverymoon, Lord Warder, Master Mage of the Spellguard, Seneschal of the High Palace. Disrespectful nickname: "Old Thunderspells."
 - **Known for:**
   - He succeeded Alustriel as High Mage when she became High Lady.
@@ -107,10 +107,10 @@ Canon gives **no written legal code** for Silverymoon. Here is what is known:
 - **1488 DR:** Luruar (the Silver Marches) dissolved after the dwarven states left. Silverymoon lost its regional bloc.
 - **Vault link:** Ophala Cheldarstorn's Many-Starred Cloak is tied to Silverymoon. [[NPCs/Claugiyliamatar - Old Gnawbone|Claugiyliamatar]] spies on Alustriel and the city's rulers by scrying.
 
-## 1525 DR: Open Questions (Brodie)
-- Is Taern still alive and in office at 321? Is Alustriel still involved?
+## 1505 DR: Open Questions (Brodie)
+- Is Taern still alive and in office at 301? Is Alustriel still involved?
 - Did the Silver Marches ever re-form?
-- What is the Shar temple here like by 1525?
+- What is the Shar temple here like by 1505?
 
 ---
 

@@ -126,7 +126,7 @@ This golden age lasted for centuries until the [[Lore/Current Era|troubles of th
 
 ## The Elven Legacy
 
-**Modern Era (1525 DR):**
+**Modern Era (1505 DR):**
 
 Though Iliyanbruen fell long ago, traces of the elven presence remain:
 - Ancient ruins in the [[Locations/Neverwinter/Neverwinter|Neverwinter Wood]]

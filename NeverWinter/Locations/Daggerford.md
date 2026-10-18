@@ -15,7 +15,7 @@ tags: [location, lords-alliance, canon]
 **Lords' Alliance influence:** Low
 **Coat of arms:** a silver dagger covered in blood, on dark blue
 
-> Canon reference only, as of about 1485–1489 DR. The campaign is set in 1525 DR. See [[Factions/Lords' Alliance]].
+> Canon reference only, as of about 1485–1489 DR. The campaign is set in 1505 DR. See [[Factions/Lords' Alliance]].
 
 ---
 
@@ -48,7 +48,7 @@ The town is a vital trade link. Here, goods on boats coming down the **Delimbiyr
 - **Morwen**, from about 1486 DR.
 
 ### The Ruler: Duchess Morwen Daggerford
-- **Age:** about 40 around 1485 DR, so roughly 44 in 1489 DR and 80 in 1525 DR.
+- **Age:** about 40 around 1485 DR, so roughly 44 in 1489 DR and 60 in 1505 DR.
 - **Known for:**
   - She was **Master of Arms** of the duchy and military commander of the castle.
   - She trains with the militia and regularly visits the shrine of **Tempus**. Officially she worships Lathander.
@@ -97,7 +97,7 @@ The town is a vital trade link. Here, goods on boats coming down the **Delimbiyr
 - The vampire **Dar Lavien** then unleashed undead on the town before the same adventurers killed him.
 - The "duchess" used the adventurers to recover the **Ambergul Blade**, which ended up with the rakshasa **Nadir**. Through a slaad portal, Nadir used it to uncork the flask and release the ancient red dragon **Karrnsyrrl**, who badly damaged Daggerford and left with Nadir and Christos.
 
-## 1525 DR: Open Questions (Brodie)
+## 1505 DR: Open Questions (Brodie)
 - Was Morwen ever rescued, or is the succubus still on the throne?
 - Has Daggerford rebuilt after Karrnsyrrl's attack?
 

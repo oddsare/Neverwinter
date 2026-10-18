@@ -1,7 +1,7 @@
 # Neverwinter Campaign
 
-**Campaign Start Date:** 1525 DR
-**Current Year:** 1525 DR (Dale Reckoning)
+**Campaign Start Date:** 1505 DR
+**Current Year:** 1505 DR (Dale Reckoning)
 **Setting:** [[Neverwinter]], Sword Coast North, [[Lore/Faerun|Faerûn]]
 
 ---
@@ -30,7 +30,7 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 
 ### Lore & History
 - [[Lore/Creation Myth|Records of Time - The Creation Myth]]
-- [[Lore/Current Era|The Current Era (1525 DR)]]
+- [[Lore/Current Era|The Current Era (1505 DR)]]
 - [[Lore/Neverwinter History|Neverwinter - Recent History]]
 - [[Lore/Calendar of Harptos|Calendar of Harptos & Roll of Years (1492–1530 DR)]]
 - [[Lore/Pantheon of Faerun|Pantheon of Faerûn]]

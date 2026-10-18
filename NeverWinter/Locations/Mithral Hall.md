@@ -15,7 +15,7 @@ tags: [location, lords-alliance, canon]
 **Ruler (from 1486 DR):** Queen Dagnabbet Waybeard, the first queen of Mithral Hall
 **Lords' Alliance influence:** Moderate. It brings military weight and mithral.
 
-> Canon reference only, as of about 1486–1489 DR. The campaign is set in 1525 DR. See [[Factions/Lords' Alliance]].
+> Canon reference only, as of about 1486–1489 DR. The campaign is set in 1505 DR. See [[Factions/Lords' Alliance]].
 
 ---
 
@@ -52,7 +52,7 @@ The Hall's history is full of loss and recovery:
 - **Settlestone** is run as Mithral Hall's outpost and checkpoint. Reghedmen barbarians from Icewind Dale under **Berkthgar** lived there for a few years from 1357 DR.
 
 ### The Ruler: Queen Dagnabbet Waybeard
-- **Age:** not given. Dwarves live for centuries, so she could plausibly still rule in 1525 DR.
+- **Age:** not given. Dwarves live for centuries, so she could plausibly still rule in 1505 DR.
 - **Known for:**
   - She is the **first queen** of Mithral Hall (from about 1486 DR).
   - She was **King Connerad's general** during **the Darkening (1484 DR)**, when Many-Arrows orcs threatened the Hall. She **turned back the first attack** with sharp tactics and prevented heavy losses.
@@ -96,9 +96,9 @@ The Hall's history is full of loss and recovery:
 - **1488 DR:** the dwarven states, Mithral Hall among them, **left the Silver Marches**, which caused the confederation to collapse.
 - **c. 1489 DR:** Mithral Hall sat on the Lords' Alliance council.
 
-## 1525 DR: Open Questions (Brodie)
+## 1505 DR: Open Questions (Brodie)
 - Is Dagnabbet still queen?
-- Where does Many-Arrows stand with Mithral Hall by 1525?
+- Where does Many-Arrows stand with Mithral Hall by 1505?
 
 ---
 

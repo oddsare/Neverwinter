@@ -14,7 +14,7 @@ tags: [location, lords-alliance, canon]
 **Ruler (from c. 1485 DR):** Lord Warder Dauner Ilzimmer
 **Lords' Alliance influence:** Low. It sits in Waterdeep's orbit.
 
-> Canon reference only, as of about 1485–1489 DR. The campaign is set in 1525 DR. See [[Factions/Lords' Alliance]].
+> Canon reference only, as of about 1485–1489 DR. The campaign is set in 1505 DR. See [[Factions/Lords' Alliance]].
 
 ---
 
@@ -82,7 +82,7 @@ Wealth here means horses, and the biggest breeders are **Waterdhavian noble fami
 - **Waterdeep:** feeds it and depends on it for defence. Its breeders are Waterdhavian nobles.
 - **Lords' Alliance:** a member with its own voice on the council.
 
-## 1525 DR: Open Questions (Brodie)
+## 1505 DR: Open Questions (Brodie)
 - Who is Lord Warder now? Did the office rotate to another family?
 
 ---

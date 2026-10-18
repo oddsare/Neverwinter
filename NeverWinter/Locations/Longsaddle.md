@@ -14,7 +14,7 @@ tags: [location, lords-alliance, canon]
 **Ruler / Alliance seat (c. 1489 DR):** Spokesman Dowell Harpell
 **Lords' Alliance influence:** Low politically, but its magic is far stronger than its size suggests
 
-> Canon reference only, as of about 1489 DR. The campaign is set in 1525 DR. See [[Factions/Lords' Alliance]].
+> Canon reference only, as of about 1489 DR. The campaign is set in 1505 DR. See [[Factions/Lords' Alliance]].
 
 ---
 
@@ -87,7 +87,7 @@ The hamlet was founded in **1042 DR** by **Shardra Harpell**, an escaped slave f
 ## Relations
 - **Lords' Alliance:** a member, purely because of the Harpells.
 
-## 1525 DR: Open Questions (Brodie)
+## 1505 DR: Open Questions (Brodie)
 - Are Dowell and Penelope still alive? Who speaks for the Harpells now?
 - Do the Bidderdoos still roam the woods?
 

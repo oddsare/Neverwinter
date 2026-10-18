@@ -194,7 +194,7 @@ Their personalities **flip** in a fight:
 
 | In-game timeframe | Brothers' background activity |
 |---|---|
-| Campaign start (1525 DR) | Slow kidnappings continue. Westlim handles public dealings and intimidation; Wulzaur buries prisoners. Feeding the Cult hope while it hunts Uth Tower. |
+| Campaign start (1505 DR) | Slow kidnappings continue. Westlim handles public dealings and intimidation; Wulzaur buries prisoners. Feeding the Cult hope while it hunts Uth Tower. |
 | ~6 months | Acquire a new magic item — likely from a Neverwinter merchant or Luskan caravan on the High Road. |
 | ~1 year | A prisoner escapes or is found alive in the muck — surfaces in Leilon or near Neverwinter as a horror story. |
 | ~2 years | The Cult locates Uth Tower. The brothers move on it — and on the Cult. |

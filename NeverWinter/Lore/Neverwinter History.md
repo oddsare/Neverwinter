@@ -2,26 +2,26 @@
 type: lore
 world: Neverwinter
 campaign: Neverwinter
-description: "Dance of the Revolving Lords (1502-1520 DR) and rise of Lord Renaer"
+description: "Dance of the Revolving Lords (1493-1503 DR) and rise of Lord Renaer"
 category: History
 ---
 # Neverwinter - Recent History
 
 **Also Known As:** "The Dance of the Revolving Lords"
-**Period:** 1502-1520 DR
-**Current Ruler:** [[NPCs/Renaer Neverember|Lord Renaer Neverember]] (1520 DR - Present)
+**Period:** 1493-1503 DR
+**Current Ruler:** [[NPCs/Renaer Neverember|Lord Renaer Neverember]] (1503 DR - Present)
 
 ---
 
 ## Original Text (As Written)
 
-In recent years, Neverwinter has earned the sardonic nickname "The Dance of the Revolving Lords" among its citizens, reflecting the city's tumultuous political landscape between 1502-1520 DR. Just under the span of two decades, the city endured a rapid succession of rulers following the disappearance of Lord Dagult Neverember. These leaders were each undone by political intrigue, assassination, hostile factions, or their own failures. The turmoil finally subsided with the rise of Dagult's estranged son, Renaer Neverember, the 7th ascension marked the beginning of a hopeful era of stability and peace—one that might restore Neverwinter's former reputation. Whispers persist that dissenters still linger in the shadows of the city, waiting for their moment to strike.
+In recent years, Neverwinter has earned the sardonic nickname "The Dance of the Revolving Lords" among its citizens, reflecting the city's tumultuous political landscape between 1493-1503 DR. Over the span of a decade, the city endured a rapid succession of rulers following the disappearance of Lord Dagult Neverember. These leaders were each undone by political intrigue, assassination, hostile factions, or their own failures. The turmoil finally subsided with the rise of Dagult's estranged son, Renaer Neverember, the 7th ascension marked the beginning of a hopeful era of stability and peace—one that might restore Neverwinter's former reputation. Whispers persist that dissenters still linger in the shadows of the city, waiting for their moment to strike.
 
-Lord Renear Neverember Ascension Began the year 1520-Current (1525)
+Lord Renear Neverember Ascension Began the year 1503-Current (1505)
 
 ---
 
-## The Dance of the Revolving Lords (1502-1520 DR)
+## The Dance of the Revolving Lords (1493-1503 DR)
 
 In recent years, [[Locations/Neverwinter/Neverwinter|Neverwinter]] has earned the sardonic nickname **"The Dance of the Revolving Lords"** among its citizens, reflecting the city's tumultuous political landscape.
 
@@ -35,7 +35,7 @@ The turmoil began with the **disappearance of Lord Dagult Neverember**, the prev
 
 ## The Six Failed Rulers
 
-Just under the span of **two decades**, the city endured a rapid succession of rulers following Lord Dagult's disappearance.
+Over the span of **a decade**, the city endured a rapid succession of rulers following Lord Dagult's disappearance.
 
 ### Each was undone by:
 - Political intrigue
@@ -49,12 +49,12 @@ Just under the span of **two decades**, the city endured a rapid succession of r
 
 ## The Seventh Ascension - Hope Returns
 
-### Lord Renaer Neverember (1520 DR - Current/1525 DR)
+### Lord Renaer Neverember (1503 DR - Current/1505 DR)
 
 The turmoil finally subsided with the rise of **Dagult's estranged son**, [[NPCs/Renaer Neverember|Renaer Neverember]].
 
-**Ascension Year:** 1520 DR
-**Current Status:** Ruling (5 years as of 1525 DR)
+**Ascension Year:** 1503 DR (age 42)
+**Current Status:** Ruling (2 years as of 1505 DR)
 
 The 7th ascension marked the beginning of a **hopeful era of stability and peace**—one that might restore [[Locations/Neverwinter/Neverwinter|Neverwinter's]] former reputation as the **Jewel of the North**.
 
@@ -62,7 +62,7 @@ The 7th ascension marked the beginning of a **hopeful era of stability and peace
 
 ## Lingering Threats
 
-Despite five years of relative stability under Lord Renaer, whispers persist that **dissenters still linger in the shadows** of the city, waiting for their moment to strike.
+Despite two years of relative stability under Lord Renaer, he faces pushback from influential people in the city and in the neighboring places the city protects, and whispers persist that **dissenters still linger in the shadows** of the city, waiting for their moment to strike.
 
 ### Known Concerns:
 - Remnants of the factions that opposed previous rulers
@@ -87,4 +87,4 @@ However, the recent [[Quests/The Shadowy Force|disappearances of ships and carav
 **Related:**
 - [[Locations/Neverwinter/Neverwinter|Neverwinter Overview]]
 - [[NPCs/Renaer Neverember|Lord Renaer Neverember]]
-- [[Current Era|The Current Era (1525 DR)]]
+- [[Current Era|The Current Era (1505 DR)]]

@@ -10,7 +10,7 @@ tags: [reference, geography, sword-coast, locations]
 
 > Curated reference of Neverwinter's geographic and political neighbors. Canon descriptions pulled from the AideDD Faerûn Interactive Map (Mike Schley). Campaign-relevance notes are specific to this campaign's threads (Claugiyliamatar, the Two Black Brothers, Shar/Selûne, the Kurtulmak's Chosen undercity, Luskan-as-Bad-faction, Dagult's missing treasury, etc.).
 
-**Source:** [AideDD Faerûn Interactive Map](https://www.aidedd.org/atlas/faerun) by Mike Schley. Note that the map's lore text reflects an earlier era (pre-1502 DR in some places). Use the map for **geography**; use the vault's other lore docs for **current 1525 DR politics**.
+**Source:** [AideDD Faerûn Interactive Map](https://www.aidedd.org/atlas/faerun) by Mike Schley. Note that the map's lore text reflects an earlier era (pre-1493 DR in some places). Use the map for **geography**; use the vault's other lore docs for **current 1505 DR politics**.
 
 ---
 ## Immediate Region (Neverwinter's doorstep)
@@ -19,7 +19,7 @@ tags: [reference, geography, sword-coast, locations]
 
 **Map coords:** x:1982, y:665
 
-**Campaign relevance:** The campaign's home city. Renaer Neverember rules in 1525 DR. Map text below reflects an earlier era under Dagult — use map for geography, not current politics.
+**Campaign relevance:** The campaign's home city. Renaer Neverember rules in 1505 DR. Map text below reflects an earlier era under Dagult — use map for geography, not current politics.
 
 **Canon (from AideDD Faerûn Map):**
 

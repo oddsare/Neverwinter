@@ -206,7 +206,7 @@ These three disasters fundamentally changed Neverwinter:
 - Economy: Thriving trade and crafts
 - Reputation: Unshakeable peace and prosperity
 
-### After the Cataclysms (1451-1525 DR)
+### After the Cataclysms (1451-1505 DR)
 - Population: Reduced, slowly recovering
 - Status: Struggling to rebuild
 - Economy: Dependent on external support
@@ -243,33 +243,33 @@ Around 1467-1468 DR, **Lord Dagult Neverember**, Open Lord of Waterdeep, arrived
 
 This marked the beginning of serious reconstruction, though challenges remained.
 
-### The Mystery of Dagult's Disappearance (~1502 DR)
+### The Mystery of Dagult's Disappearance (~1493 DR)
 *See [[Lore/Neverwinter History|Neverwinter - Recent History]] for full account*
 
-In our timeline, Dagult Neverember mysteriously disappeared around 1502 DR, triggering another period of instability known as the "[[Lore/Neverwinter History|Dance of the Revolving Lords]]."
+In our timeline, Dagult Neverember mysteriously disappeared around 1493 DR, triggering another period of instability known as the "[[Lore/Neverwinter History|Dance of the Revolving Lords]]."
 
 ---
 
-## Living Memory (1525 DR)
+## Living Memory (1505 DR)
 
-**Current Campaign Year:** 1525 DR
+**Current Campaign Year:** 1505 DR
 
 ### Who Remembers?
 
-**The Wailing Death (1372 DR) - 153 years ago:**
+**The Wailing Death (1372 DR) - 133 years ago:**
 - No living witnesses in the general population
 - Perhaps a few ancient elves or dwarves
 - Historical records in libraries
 - Old stories and legends
 
-**The Spellplague (1385 DR) - 140 years ago:**
+**The Spellplague (1385 DR) - 120 years ago:**
 - A very few elderly elves might remember
 - Most knowledge is historical
 - Effects still visible in reality distortions
 - Magic users study it as history
 
-**Mount Hotenow Eruption (1451 DR) - 74 years ago:**
-- **Elderly humans** (70-80+) were children during the eruption
+**Mount Hotenow Eruption (1451 DR) - 54 years ago:**
+- **Older humans** (55-65+) were children during the eruption
 - **Many dwarves and elves** remember it clearly
 - **Survivors** with firsthand accounts
 - The physical scars are everywhere
@@ -277,7 +277,7 @@ In our timeline, Dagult Neverember mysteriously disappeared around 1502 DR, trig
 
 ### Current Situation
 
-As of 1525 DR:
+As of 1505 DR:
 - The Chasm still splits the city
 - Reconstruction continues under [[NPCs/Renaer Neverember|Lord Renaer Neverember]]
 - Some areas remain abandoned and dangerous
@@ -314,7 +314,7 @@ As of 1525 DR:
 
 **Related:**
 - [[Lore/Neverwinter History|Neverwinter - Recent History]]
-- [[Lore/Current Era|The Current Era - 1525 DR]]
+- [[Lore/Current Era|The Current Era - 1505 DR]]
 - [[Locations/Neverwinter/Districts/Chasm District|The Chasm District]]
 - [[Locations/Neverwinter/Districts/Neverdeath District|Neverdeath District]]
 - [[NPCs/Renaer Neverember|Lord Renaer Neverember]]

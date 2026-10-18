@@ -14,7 +14,7 @@ updated: 2026-10-18
 > A "where are we" note for the next AI session. Working rules live in the repo's `CLAUDE.md`; read that first. Brodie's decisions live in [[Campaign Decisions]]. This note records what recent sessions did, what is still open, and canon research that has not been turned into its own notes.
 
 ## Campaign snapshot
-- Starts **1525 DR** in Neverwinter. See [[Campaign Home]].
+- Starts **1505 DR** in Neverwinter (moved from 1525 on 2026-10-18; see [[Campaign Decisions]] §6). See [[Campaign Home]].
 - **Political intrigue is the spine.** Brodie's plot lens is the [[Lore/3 Faction Rule|Three-Faction Rule]] (Good / Bad / Ugly).
 - Opening quest: [[Quests/The Shadowy Force|The Shadowy Force]], with contact [[NPCs/Soren Ironwake|Guard Captain Soren Ironwake]]. The players will decide how they meet Soren, using the routes in [[Campaign Hook]].
 
@@ -40,7 +40,7 @@ updated: 2026-10-18
 - **What is the Shadowy Force?**
 - **Who removed Dagult for the powder?** ([[TIMELINE]] says this is undecided.)
 - **What is everyone in Neverwinter fighting over?** This was suggested on 2026-10-18 as a way into the intrigue; Brodie hasn't answered.
-- From [[Campaign Decisions]] §5: where the real Manshoon is in 1525 and why he hasn't recast *simulacrum*; where the simulacrum is and who it obeys; how Dagult reacted to 1492; who the 1492 party was; the ledger and Jelenn Urmbrusk's favour.
+- From [[Campaign Decisions]] §5: where the real Manshoon is in 1505 and why he hasn't recast *simulacrum*; where the simulacrum is and who it obeys; how Dagult reacted to 1492; who the 1492 party was; the ledger and Jelenn Urmbrusk's favour.
 
 ## Canon research (2026-10-18)
 Looked up on the Forgotten Realms Wiki, **not taken from the vault**. This is canon reference only and doesn't decide anything for the campaign.

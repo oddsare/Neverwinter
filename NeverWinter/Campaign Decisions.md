@@ -52,10 +52,24 @@ Recorded 2026-10-17.
 - **Renaer was there.** In the winter branch, the vault is entered through the Brandath mausoleum, and only Brandath blood gets past its guardian, so Renaer went into the vault with the party.
 - This covers only the hidden hoard. The money Dagult spent rebuilding Neverwinter is a separate matter.
 - Still to decide (Brodie):
-  - Where is the real Manshoon in 1525, and why hasn't he recast *simulacrum*?
-  - Where is the simulacrum in 1525, and who does it obey?
-  - How did Dagult react? This was 10 years before his 1502 disappearance.
+  - Where is the real Manshoon in 1505, and why hasn't he recast *simulacrum*?
+  - Where is the simulacrum in 1505, and who does it obey?
+  - How did Dagult react? This was 1 year before his 1493 disappearance.
   - Who was the party?
   - Did they take Manshoon's ledger, or get Jelenn Urmbrusk's favour?
 
 See [[Locations/Waterdeep]], [[NPCs/Manshoon]], [[NPCs/Manshoon's Simulacrum]], [[NPCs/Dagult Neverember]], [[NPCs/Renaer Neverember]], [[Lore/Calendar of Harptos]].
+
+## 6. Timeline rework
+Recorded 2026-10-18.
+- **Canon's "present" is 1492 DR** (*Dragon Heist*). Everything after that is campaign territory.
+- **The campaign starts in 1505 DR** (moved from 1525).
+- **Renaer:** born **1461**. Age 18 in 1479 (met the *Blackstaff Tower* companions and founded his own group), 31 in 1492, **took power in 1503 at 42** (young for a ruler), **44** at campaign start.
+- **1486:** Dagult seals the Chasm, and **the powder is discovered** the same year. Dagult and his mercenaries see it could give them **military might**.
+- **1489:** Dagult ousted from Waterdeep.
+- **1492:** the Waterdeep incident (§5). Dagult **barely holds onto** Neverwinter afterward.
+- **1493:** Dagult disappears. The powder weapons weren't coming fast enough, so he gambled on the **Lost Crown**, which he'd known about for a long time. He went into the Neverneath and got trapped, just barely before he could mass-produce the weapons.
+- **1493–1503:** the Dance of the Revolving Lords, **10 years, 6 rulers** (names later).
+- **1503–1505:** Renaer's rule is **stable for 2 years**, then the story picks up. Not much time to get everything done, and he faces **pushback from influential people in the city and in the neighboring places the city protects**.
+
+See [[TIMELINE]], [[Lore/Neverwinter History]].

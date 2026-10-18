@@ -112,6 +112,9 @@ The Harpers oppose:
 
 *Add Harper NPCs as you introduce them*
 
+**Known Harpers:**
+- [[NPCs/Renaer Neverember|Lord Renaer Neverember]]: still a Harper. **The Harpers led him to Neverwinter.** (Brodie, 2026-10-18)
+
 **Possible Harper agents:**
 - *To be discovered*
 

@@ -10,7 +10,7 @@ tags: [supplemental, timeline, history, neverwinter, fan-content]
 # Neverwinter Historical Timeline (-10 to 1489 DR)
 
 > [!warning] Supplemental Material
-> Lifted and paraphrased from a fan-made guide describing Neverwinter as it stood in the **early 1490s DR** — roughly **30+ years before the campaign's 1525 DR start.** Use as historical backdrop only. The "current era" closing entries below (1502+) are vault canon, added to bridge this historical timeline to the campaign start year.
+> Lifted and paraphrased from a fan-made guide describing Neverwinter as it stood in the **early 1490s DR** — roughly **12–15 years before the campaign's 1505 DR start.** Use as historical backdrop only. The "current era" closing entries below (1493+) are vault canon, added to bridge this historical timeline to the campaign start year.
 
 > [!info] How to use this file
 > Each entry pairs a date with 1–3 sentences of context, cited to the source PDF page. For the official vault chronology, see [[Lore/Neverwinter History]] and [[TIMELINE]].
@@ -129,17 +129,17 @@ The **Masked Lords of Waterdeep** oust Dagult Neverember as **Open Lord**. Freed
 
 > The entries below are **not** in the source PDF; they are vault canon used to connect this historical timeline to the campaign start year.
 
-### 1502 DR — Dagult Neverember disappears
+### 1493 DR — Dagult Neverember disappears
 Dagult Neverember vanishes. Cause and fate disputed. His Neverwinter restoration program loses its driver. *(Vault canon — not in PDF.)*
 
-### 1502–1520 DR — The Dance of the Revolving Lords
+### 1493–1503 DR — The Dance of the Revolving Lords
 A protracted instability follows Neverember's disappearance — a succession of would-be rulers, mercenary captains, and noble claimants cycle in and out of effective control over the city. Building projects stall and resume; factional balances shift; old Neverember loyalists and old Alagondar sympathizers re-align repeatedly. *(Vault canon — not in PDF.)*
 
-### 1520 DR — Renaer ascends
+### 1503 DR — Renaer ascends
 [[NPCs/Renaer Neverember]] takes power in Neverwinter, ending the Dance of the Revolving Lords. *(Vault canon — not in PDF.)*
 
-### 1525 DR — Campaign Start
-Five years into Renaer's rule. See [[Campaign Home]], [[Lore/Current Era]], [[TIMELINE]].
+### 1505 DR — Campaign Start
+Two years into Renaer's rule. See [[Campaign Home]], [[Lore/Current Era]], [[TIMELINE]].
 
 ---
 

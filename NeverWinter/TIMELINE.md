@@ -28,31 +28,46 @@ A devastating cataclysm struck Neverwinter, causing massive destruction. The cit
 
 ---
 
-### ~1495 DR - Rise of the Emperor of the Seas
+### ~1475 DR - Rise of the Emperor of the Seas
 **Location:** [[Locations/Luskan|Luskan]]
 
-The "Emperor of the Seas" begins his reign over Luskan, establishing supreme rule over the City of Sails. His reign continues for approximately 30 years.
+The "Emperor of the Seas" begins his reign over Luskan. He has ruled for about **30 years with an iron grip** (Brodie, 2026-10-18).
 
 - Title: Emperor of the Seas
 - Status: Supreme ruler of Luskan
-- Reign: ~1495 DR - Present (1525 DR)
+- Reign: ~1475 DR - Present (1505 DR)
+- **Canon vs. this campaign:** canon describes Luskan around 1480 as having no real government, just gangs and the five Ships. **That's what outsiders saw.** In truth the Emperor has held the city since ~1475.
 
 ---
 
-### 1498 DR - The Powder Discovered
+### 1486 DR - The Chasm Sealed; The Powder Discovered
 **Location:** [[Locations/Neverwinter/Neverwinter|Neverwinter]]
 
-The deposits of [[Lore/The Powder|the powder]] are found. It took until 1498 because of the clean-up of the city after the Cataclysm.
+Dagult seals the Chasm. The same year, the deposits of [[Lore/The Powder|the powder]] are found during the clean-up of the city after the Cataclysm.
 
 - Next came figuring out what it was and refining it
 - Then making guns to be able to use it
+- **Dagult and his mercenaries** see that the powder could give them **military might**, enough to stay in power by force
 
 ---
 
-### ~1502 DR - Dagult Neverember Disappears
+### 1489 DR - Dagult Ousted from Waterdeep
+Dagult loses the title of Open Lord of Waterdeep. He keeps Neverwinter.
+
+### 1492 DR - The Waterdeep Incident (*Dragon Heist*)
+See [[Campaign Decisions]] §5. Afterward, Dagult **barely holds onto** Neverwinter.
+
+---
+
+
+---
+
+### 1493 DR - Dagult Neverember Disappears
 **The Beginning of Chaos**
 
-Lord Dagult Neverember, ruler of Neverwinter, mysteriously disappears. This event triggers a period of political instability that would last nearly two decades.
+Lord Dagult Neverember, ruler of Neverwinter, mysteriously disappears. This event triggers a decade of political instability.
+
+- **What really happened (DM only):** the powder weapons weren't coming fast enough for Dagult to hold power by force. He had known about the Lost Crown for a long time, so he gambled on it: he went into the [[Locations/Neverwinter/The Neverneath|Neverneath]] to claim it and got trapped. See [[NPCs/Dagult Neverember]].
 
 - Father of [[NPCs/Renaer Neverember|Renaer Neverember]]
 - Circumstances of disappearance remain mysterious
@@ -61,15 +76,16 @@ Lord Dagult Neverember, ruler of Neverwinter, mysteriously disappears. This even
 
 ---
 
-## The Dance of the Revolving Lords (1502-1520 DR)
+## The Dance of the Revolving Lords (1493-1503 DR)
 **The Dark Period**
 
-Following Dagult Neverember's disappearance, Neverwinter endures the reign of six failed rulers over the course of nearly two decades. The city earns the sardonic nickname "The Dance of the Revolving Lords."
+Following Dagult Neverember's disappearance, Neverwinter endures the reign of six failed rulers over the course of a decade. The city earns the sardonic nickname "The Dance of the Revolving Lords."
 
 *See: [[Lore/Neverwinter History]] for detailed account*
 
 ### Characteristics of This Period:
-- **Duration:** 18 years of instability
+- **Duration:** 10 years of instability
+- **The six rulers' names:** to be decided
 - **Rulers:** Six different failed leaders
 - **Impact on City:**
   - [[Factions/City Guard|City Guard]] became demoralized and ineffective
@@ -86,10 +102,10 @@ Following Dagult Neverember's disappearance, Neverwinter endures the reign of si
 
 ## The 7th Ascension - Hope Returns
 
-### 1520 DR - Lord Renaer Neverember Takes Power
+### 1503 DR - Lord Renaer Neverember Takes Power
 **The Turning Point**
 
-The turmoil finally subsides with the rise of Dagult's estranged son, [[NPCs/Renaer Neverember|Renaer Neverember]]. He becomes the 7th ruler to ascend following his father's disappearance.
+The turmoil finally subsides with the rise of Dagult's estranged son, [[NPCs/Renaer Neverember|Renaer Neverember]], at **age 42**, young for a ruler. He becomes the 7th ruler to ascend following his father's disappearance.
 
 **Renaer's Reforms:**
 - Restored [[Factions/City Guard|City Guard]] effectiveness
@@ -98,27 +114,28 @@ The turmoil finally subsides with the rise of Dagult's estranged son, [[NPCs/Ren
 - Rebuilt trust with citizens
 - Restored Neverwinter's reputation
 
-**Key Achievements (1520-1525 DR):**
-- 5 years of stable rule (as of 1525 DR)
+**Key Achievements (1503-1505 DR):**
+- 2 years of stable rule (as of 1505 DR). Not much time to get everything done.
+- Pushback from influential people in the city and in the neighboring places the city protects
 - Restoration of [[Locations/Neverwinter/Districts/Protectors Enclave|Protector's Enclave]]
 - Strengthened city defenses
 - Renewed trade partnerships
 
 ---
 
-## Current Era (1525 DR)
+## Current Era (1505 DR)
 **Campaign Start Date**
 
 *See: [[Lore/Current Era]] for detailed description*
 
 ### The State of the World
-**Year:** 1525 DR (Dale Reckoning)
+**Year:** 1505 DR (Dale Reckoning)
 **Era Status:** Period of relative peace and magical resurgence
 **Setting:** [[Locations/Neverwinter/Neverwinter|Neverwinter]], Sword Coast North, [[Lore/Faerun|Faerûn]]
 
 ### Current Situation in Neverwinter:
-- **Ruler:** [[NPCs/Renaer Neverember|Lord Renaer Neverember]] (5 years in power)
-- **Political Status:** Stable, recovering from decades of chaos
+- **Ruler:** [[NPCs/Renaer Neverember|Lord Renaer Neverember]] (2 years in power, age 44)
+- **Political Status:** Stable, recovering from a decade of chaos
 - **Population:** ~20,000 (estimate)
 - **Magical Climate:** Resurgence of magic following Spellplague recovery
 - **Tension Level:** Moderate - new threats emerging
@@ -133,7 +150,7 @@ The turmoil finally subsides with the rise of Dagult's estranged son, [[NPCs/Ren
 
 ---
 
-## Active Threats (1525 DR)
+## Active Threats (1505 DR)
 
 ### [[Quests/The Shadowy Force|The Shadowy Force]]
 **Campaign Hook - Current Crisis**
@@ -175,34 +192,42 @@ Ancient Past
 ~1451 DR
    └─ Cataclysm strikes Neverwinter
 
-~1495 DR
-   └─ Emperor of the Seas begins reign in Luskan
+1461 DR
+   └─ Renaer Neverember born
 
-1498 DR
+~1475 DR
+   └─ Emperor of the Seas begins his iron-grip reign in Luskan (outsiders see only lawlessness)
+
+1486 DR
+   └─ Dagult seals the Chasm
    └─ The powder discovered during the city's clean-up
 
-~1502 DR
-   └─ Dagult Neverember disappears
+1489 DR
+   └─ Dagult ousted as Open Lord of Waterdeep
+
+1492 DR
+   └─ The Waterdeep incident (Dragon Heist); Dagult barely holds Neverwinter
+
+1493 DR
+   └─ Dagult Neverember disappears (into the Neverneath)
    └─ Political chaos begins
 
-1502-1520 DR (18 years)
+1493-1503 DR (10 years)
    └─ "Dance of the Revolving Lords"
    └─ Six failed rulers
    └─ Guns perfected for the powder
    └─ City Guard demoralized
    └─ Trade disrupted
 
-1520 DR
-   └─ Lord Renaer Neverember becomes 7th ruler
+1503 DR
+   └─ Lord Renaer Neverember becomes 7th ruler (age 42)
    └─ Stability begins to return
 
-1520-1525 DR (5 years)
-   └─ Renaer's reforms take effect
-   └─ City Guard restored
-   └─ Trade recovers
-   └─ Peace and magical resurgence
+1503-1505 DR (2 years)
+   └─ Renaer's reforms begin
+   └─ Pushback from influential people and neighboring places
 
-1525 DR - CAMPAIGN START
+1505 DR - CAMPAIGN START
    └─ Current Year (Present Day)
    └─ The Shadowy Force emerges
    └─ Party investigation begins
@@ -210,9 +235,9 @@ Ancient Past
 
 ---
 
-## Key Living NPCs (1525 DR)
+## Key Living NPCs (1505 DR)
 
-- **[[NPCs/Renaer Neverember|Lord Renaer Neverember]]** - Ruler of Neverwinter (Age: Unknown, ruling 5 years)
+- **[[NPCs/Renaer Neverember|Lord Renaer Neverember]]** - Ruler of Neverwinter (age 44, born 1461; ruling 2 years)
 - **[[NPCs/Soren Ironwake|Guard Captain Soren Ironwake]]** - City Guard captain, Docks District
 - **[[NPCs/Ophala Cheldarstorn|Madam Ophala Cheldarstorn]]** - Owner of The Moonstone Mask (exact age/tenure unknown)
 
@@ -221,14 +246,14 @@ Ancient Past
 ## Notes for DM
 
 **Campaign Pacing:**
-- Current date: 1525 DR at campaign start
+- Current date: 1505 DR at campaign start
 - Track in-game dates as sessions progress
 - Major events should reference this timeline
 - Consider how current events relate to historical patterns
 
 **Potential Plot Threads:**
 - What happened to Dagult Neverember?
-- Are the failed rulers from 1502-1520 still alive? Resentful?
+- Are the failed rulers from 1493-1503 still alive? Resentful?
 - Connection between The Shadowy Force and past events?
 - How does the magical resurgence affect current threats?
 - Political enemies who preferred the chaos of the Dance?

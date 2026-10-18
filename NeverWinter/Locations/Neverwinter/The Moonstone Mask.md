@@ -90,7 +90,7 @@ The Moonstone Mask is one of Neverwinter's most prestigious festhalls, catering 
 - **Post-1451 DR**: Mask "fell on hard times" — financially and structurally damaged.
 - **Pre-1479 DR**: **Liset Cheldar** (presumed descendant of Ophala) approaches **Lord Dagult Neverember**. **Dagult personally sponsors the reopening.** This is a major canon plot tie — Dagult has direct, long-standing investment in the Mask.
 - **~1479 DR**: Liset commissions the **magic portal located near the Tarmalune Auction House.** This becomes the standard means of access. The unstable bridge presumably remains as backup or relic.
-- **By 1525 DR**: Ophala back in residence (and arguably the same woman who founded it — see her NPC file). Mask chained. Portal is the primary entry.
+- **By 1505 DR**: Ophala back in residence (and arguably the same woman who founded it — see her NPC file). Mask chained. Portal is the primary entry.
 
 **The chains / tethering:**
 - Heavy enough to hold a giant — physical AND magical anchoring
@@ -99,7 +99,7 @@ The Moonstone Mask is one of Neverwinter's most prestigious festhalls, catering 
 - This means the chains can fail again. **A campaign-level disaster waiting to happen.**
 
 **The Cheldar lineage:**
-- **Ophala (founder, ~1363 DR–present)** is the original. ~162+ years old by 1525 if she's the same woman.
+- **Ophala (founder, ~1363 DR–present)** is the original. ~142+ years old by 1505 if she's the same woman.
 - **Liset Cheldar (active ~1479 DR)** is canonically *"a presumed descendant of Ophala."* Filled in during Ophala's apparent absence after the 1451 Cataclysm.
 - The line is **headed by Ophala**, with Cheldar descendants serving as deputies / stand-ins during her periods of withdrawal.
 

@@ -71,7 +71,7 @@ Players need hope. Don't strip every faction of redeeming sub-elements at once.
 
 Recursion all the way down.
 
-## Application to *This* Campaign (Neverwinter, 1525 DR)
+## Application to *This* Campaign (Neverwinter, 1505 DR)
 
 The vault already has three named factions in `Factions/`. They map cleanly:
 

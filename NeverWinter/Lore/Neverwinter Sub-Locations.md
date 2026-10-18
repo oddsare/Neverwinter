@@ -10,11 +10,11 @@ tags: [supplemental, lore, locations, neverwinter, fan-content, era-1490s]
 # Neverwinter Sub-Locations (Interior Detail)
 
 > [!warning] Supplemental Material
-> Lifted and paraphrased from a fan-made guide describing Neverwinter as it stood in the **early 1490s DR** — roughly **30+ years before the campaign's 1525 DR start.** Treat as historical backdrop / DM resource. Many buildings will have changed hands, fallen further into ruin, or been rebuilt by 1525. Anything the guide presents as "current" is historical here.
+> Lifted and paraphrased from a fan-made guide describing Neverwinter as it stood in the **early 1490s DR** — roughly **12–15 years before the campaign's 1505 DR start.** Treat as historical backdrop / DM resource. Many buildings will have changed hands, fallen further into ruin, or been rebuilt by 1505. Anything the guide presents as "current" is historical here.
 
 > [!info] Campaign Year Note
-> - Dagult Neverember is **missing since 1502 DR** in vault canon. Any "Neverember-controlled" buildings below have, by 1525, passed to other hands, fallen into limbo, or been claimed during the Dance of the Revolving Lords (1502–1520).
-> - [[NPCs/Renaer Neverember]] ascended in 1520 DR and now sits over much of what his father built.
+> - Dagult Neverember is **missing since 1493 DR** in vault canon. Any "Neverember-controlled" buildings below have, by 1505, passed to other hands, fallen into limbo, or been claimed during the Dance of the Revolving Lords (1493–1503).
+> - [[NPCs/Renaer Neverember]] ascended in 1503 DR and now sits over much of what his father built.
 > - Use the descriptions below for **architecture, layout, and atmospheric detail** — adjust ownership and condition to taste.
 
 ---
@@ -36,8 +36,8 @@ A millennium-old structure perched on cliffs at the western end of the city, whe
 - **The Vault of the Nine.** Tomb of the nine bodyguards of Neverwinter's royal lineage. An outer chamber lit by everburning torches (with undead lurking in the shadows) gates an inner chamber sealed behind a great stone door bearing Neverwinter's sigil. The inner chamber holds nine marble coffins around a central throne. Visitors who long-rest within may wake to find the spirits of the Nine standing vigil over them.
 - **The Holes.** Restored dungeons beneath the castle, used by Lord Neverember as Neverwinter's prison. **Executions were held daily at noon**, typically two days after a prisoner's arrival (p. 6).
 
-> [!note] Status by 1525 DR
-> With Neverember gone since 1502, "The Holes" likely fell out of regular use as an execution site during the Revolving Lords years. [[NPCs/Renaer Neverember]] may or may not have resumed restoration work. The supernatural hazards (myconids, Neverneath, Hall of Mirrors, Vault of the Nine) almost certainly persist — none are tied to mortal politics.
+> [!note] Status by 1505 DR
+> With Neverember gone since 1493, "The Holes" likely fell out of regular use as an execution site during the Revolving Lords years. [[NPCs/Renaer Neverember]] may or may not have resumed restoration work. The supernatural hazards (myconids, Neverneath, Hall of Mirrors, Vault of the Nine) almost certainly persist — none are tied to mortal politics.
 
 ---
 
@@ -60,8 +60,8 @@ Devastated by Mount Hotenow in 1451 DR. **Loremaster Atlavast** — a dedicated 
 
 After the Chasm's sealing (1486 DR), the faithful of Oghma returned. By the 1490s the exterior was largely restored; interior reconstruction continued under the iron-fisted **Grand Scribe Spivey Liethennson**. Atlavast remained extremely protective of the collection.
 
-> [!note] Status by 1525 DR
-> Spivey would now be 30+ years older; Atlavast (already aged and unstable in the 1490s) is likely deceased or in deeper decline. A successor Grand Scribe is plausible. The library itself should still exist — likely with new gaps and new acquisitions reflecting the chaotic Revolving Lords era.
+> [!note] Status by 1505 DR
+> Spivey would now be 12–15 years older and is plausibly still Grand Scribe; Atlavast (already aged and unstable in the 1490s) is possibly deceased or in deeper decline. The library itself should still exist — likely with new gaps and new acquisitions reflecting the chaotic Revolving Lords era.
 
 ---
 
@@ -79,7 +79,7 @@ All levels are connected by a central spiral staircase. A pulley-operated cargo 
 
 Clientele runs the gamut: sailors, dockworkers, smugglers, thieves, **press gangs**. Brawling is common (and tends to get a patron tossed). Nautical slang dominates speech ("ballast" for a drunk, "privateer" for a newcomer). Neverember's people quietly monitor the place as a window into the city's underworld and rarely intervene (p. 11).
 
-> See [[Lore/Pre-1502 Supporting Cast]] for [[NPCs/Captain Harrag|Harrag]] and the full crew — they were the regulars circa 1490s. Status by 1525 is anyone's guess.
+> See [[Lore/Pre-1502 Supporting Cast]] for [[NPCs/Captain Harrag|Harrag]] and the full crew — they were the regulars circa 1490s. Status by 1505 is anyone's guess.
 
 ---
 
@@ -89,8 +89,8 @@ An upscale, expensive tavern in the northern docks — closer to a museum than a
 
 Run in the 1490s by **Madame Rosene** (then ~70). Secretly she had been leader of the **Sons of Alagondar / Graycloaks** during the 1479 events. By the 1490s the faction had largely made peace with Neverember; many former Graycloaks enlisted in the city army, preferring local soldiers to Mintarn mercenaries.
 
-> [!note] Status by 1525 DR
-> Madame Rosene would be ~100 years old — almost certainly deceased. The tavern likely persists under a successor; the relic collection alone makes it a Neverwinter institution.
+> [!note] Status by 1505 DR
+> Madame Rosene would be ~85 years old — possibly still alive, but very old. The tavern may be passing to a successor; the relic collection alone makes it a Neverwinter institution.
 
 ---
 
@@ -120,7 +120,7 @@ A wizard tower, citadel of the **Order of the Many-Starred Cloak**.
 
 **Orc Occupation.** The **Many-Arrows** tribe seized the tower and, against all expectations, held it without resistance. Neverember tolerated this because the tower was one of the most fortified positions in the city. The orcs eventually left of their own accord to assist their kin against the dwarves. The Many-Starred Cloak presumably reclaimed custody by the late 1480s, with senior members working with Neverember.
 
-> [!note] Status by 1525 DR
+> [!note] Status by 1505 DR
 > The Many-Starred Cloak's standing in the post-Neverember city is unclear — depends on which faction held Neverwinter during the Revolving Lords. The Pantograph rumor is too juicy to retire; treat as a hook still in play.
 
 ---

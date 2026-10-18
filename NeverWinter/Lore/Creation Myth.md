@@ -87,5 +87,5 @@ Their legacy lives on in:
 ---
 
 **Related:**
-- [[Current Era|The Current Era (1525 DR)]]
+- [[Current Era|The Current Era (1505 DR)]]
 - [[Faerun|Faerûn Overview]]

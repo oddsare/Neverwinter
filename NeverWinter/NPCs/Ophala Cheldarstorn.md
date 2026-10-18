@@ -69,7 +69,7 @@ Per the Forgotten Realms Wiki and 2e/3e/4e sourcebooks (Volo's Guide to the Nort
 
 - **Ophala Cheldarstorn FOUNDED the Moonstone Mask circa 1363 DR.** She is the original proprietor — *"seeking to run a friendly place she would like to stay in."*
 - **Liset Cheldar (1479 DR)** is described as **"a presumed descendant of Ophala,"** not the reverse. Liset filled in after the 1451 Cataclysm and the Mask's post-cataclysm hard times.
-- The most lore-friendly read in 1525 DR is that **Ophala is still the same woman** — making her ~162+ years old by campaign start. This is supported by her canonical wizard credentials (see below).
+- The most lore-friendly read in 1505 DR is that **Ophala is still the same woman** — making her ~142+ years old by campaign start. This is supported by her canonical wizard credentials (see below).
 
 **The Cheldar timeline (Ophala-led unless noted):**
 - **~1363 DR** — Ophala founds the Mask
@@ -80,11 +80,11 @@ Per the Forgotten Realms Wiki and 2e/3e/4e sourcebooks (Volo's Guide to the Nort
 - **~1451 DR (Mount Hotenow Cataclysm)** — quake didn't damage the Earthmote, but **the ropes/chains holding it SNAPPED.** The Mask drifted aimlessly over the ocean for months
 - **Post-1451 DR** — Mask "fell on hard times"
 - **Pre-1479 DR** — **Liset Cheldar** (presumed descendant of Ophala) approaches **Lord Dagult Neverember**, who sponsors the reopening
-- **~1479 DR** — Liset commissions the **magic portal** near the Tarmalune Auction House (still the standard access in 1525)
-- **1502 DR** — Dagult vanishes. Ophala (presumably back in residence by now) loses her direct patron.
-- **1502–1520 DR** — Dance of the Revolving Lords. Ophala survives six rulers.
-- **1520 DR** — Renaer ascends.
-- **1525 DR** — Campaign start. Ophala still Madam Cheldarstorn.
+- **~1479 DR** — Liset commissions the **magic portal** near the Tarmalune Auction House (still the standard access in 1505)
+- **1493 DR** — Dagult vanishes. Ophala (presumably back in residence by now) loses her direct patron.
+- **1493–1503 DR** — Dance of the Revolving Lords. Ophala survives six rulers.
+- **1503 DR** — Renaer ascends.
+- **1505 DR** — Campaign start. Ophala still Madam Cheldarstorn.
 
 ### Canon profile — Ophala is a powerful wizard
 
@@ -109,15 +109,15 @@ Ophala is one of the very few people who know that the Mask's cheerful seamstres
 
 ### Ophala's knowledge of Dagult's fate (LOCKED)
 
-Ophala **partially knows** what happened to Dagult in 1502 DR. Specifically:
+Ophala **partially knows** what happened to Dagult in 1493 DR. Specifically:
 
 - She knows Dagult was **trying to claim the Lost Crown to keep his city** — that his ambition wasn't pure self-aggrandizement but a desperate political survival play.
 - She knows he had specific intelligence on a **Luskan plot to assassinate him.**
-- She knows the city itself was turning against him in 1502.
+- She knows the city itself was turning against him in 1493.
 - She knows **he didn't believe the bloodline-lock legend was real** and was going to test it.
 - **She does NOT know exactly where he is now** — her scrying has failed to penetrate whatever's hiding him (likely the Neverneath's corrupted ward, which doesn't show up cleanly to outside divination).
 
-She has been **searching quietly for 23 years.** Her power has not been enough alone.
+She has been **searching quietly for 12 years.** Her power has not been enough alone.
 
 **The party becoming involved is probably what finally lets her find out** — they go places she can't, they have the right kind of luck, they trigger investigations she's been waiting to be triggered.
 
@@ -130,7 +130,7 @@ Canonical: **Dagult Neverember personally sponsored Liset's reopening of the Mas
 Plot-load-bearing implications for the campaign:
 - Dagult's stolen-Waterdeep-money may have flowed *to* the Mask's reconstruction (a direct embezzlement-laundering channel)
 - The Mask is one of the few institutions Dagult was *personally* invested in
-- Ophala likely knows *exactly* what happened to Dagult in 1502 DR — she had a Many-Starred Cloak mage's ability to scry, and a personal motive to track her patron
+- Ophala likely knows *exactly* what happened to Dagult in 1493 DR — she had a Many-Starred Cloak mage's ability to scry, and a personal motive to track her patron
 - **Ophala is the campaign's single most likely answer to "what happened to Dagult Neverember?"**
 
 ### Resolved questions (vs. earlier drafts)
@@ -147,7 +147,7 @@ Plot-load-bearing implications for the campaign:
 ### Still open (your design decisions, not canon)
 
 - Does Ophala publicly worship a god? (No canon devotion stated.) Personal devotion plausible options: **Mystra** (her wizardry), **Selûne** (the aesthetic), **Tymora** (her business luck), **Lliira** (joy), or **none** (pragmatic agnostic mage)
-- What does she want **now**, in 1525 DR? With Dagult gone, Renaer struggling, and Claugiyliamatar arriving — is she protecting Neverwinter? Looking for Dagult? Watching Old Gnawbone for Silverymoon? All three?
+- What does she want **now**, in 1505 DR? With Dagult gone, Renaer struggling, and Claugiyliamatar arriving — is she protecting Neverwinter? Looking for Dagult? Watching Old Gnawbone for Silverymoon? All three?
 - Is she still active in the Many-Starred Cloak, or estranged?
 
 ### Rebuilding After Disaster

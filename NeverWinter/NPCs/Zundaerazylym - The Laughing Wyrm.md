@@ -25,7 +25,7 @@ tags: [npc, dragon, steel-dragon, good, in-city, moonstone-mask, soft-claws, nev
 | Canon | This campaign |
 |---|---|
 | **Ancient** steel dragon, CR 15 | **Adult** steel dragon — roughly **CR 10–12** (build from an adult metallic statblock; DM to finalize). A 5e adult is 101–800 years old, so all her canon backstory still fits. |
-| Canon era ~1370s DR | Active in **1525 DR**; same long friendship with [[NPCs/Ophala Cheldarstorn|Ophala]] (who is also still alive) |
+| Canon era ~1370s DR | Active in **1505 DR**; same long friendship with [[NPCs/Ophala Cheldarstorn|Ophala]] (who is also still alive) |
 | Ophala called a "sorcerer" in the video | Ophala's class doesn't matter for now — see her note |
 
 ---

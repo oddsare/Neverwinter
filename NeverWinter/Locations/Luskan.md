@@ -250,6 +250,15 @@ Could [[Quests/The Shadowy Force|the disappearing ships]] be Luskan's doing?
 
 *Add your private DM notes about Luskan here*
 
+### Who really runs Luskan (Brodie, 2026-10-18)
+- **The Emperor of the Seas** has ruled for about **30 years (since ~1475 DR) with an iron grip.**
+  - Canon describes Luskan around 1480 as having no real government, just gangs and the five Ships. **That's what outsiders saw.** The Emperor was in control all along.
+- **The Arcane Brotherhood lied.** In canon they returned in 1486 promising to stay out of politics. In this campaign they're **always working behind the scenes**.
+- **Jarlaxle and Bregan D'aerthe** (the drow mercenary band) are **still behind the Ships**, as in canon. (Canon: Ship Kurth's captain Beniago Kurth is secretly a Bregan D'aerthe drow.)
+- **Open:** who answers to whom among the Emperor, the Brotherhood and Bregan D'aerthe.
+
+**Canon Luskan, 1480–1492** (Forgotten Realms Wiki): gangs and the five Ships split the city (~1480); city in disrepair, Ship Kurth run by Beniago (1483); after 1485 the High Captains run legitimate sea trade and raid the western isles; Host Tower rebuilt and the Brotherhood returns (1486); Archmage Arcane **Cashaan** with Overwizards Zelenn the White, Jendrick the Blue, Teyva the Gray and Druette the Raven (1489).
+
 ### The White Wyrm next door
 [[NPCs/Arveiaturace - The White Wyrm|Arveiaturace]], an ancient white dragon who preys on ships, lairs on **Ice Peak, off Luskan's coast**. Open question: how does a pirate city live beside her — tribute, an Arcane Brotherhood deal, or just losses? Her late mate Arauthator (dead since ~1489) had canon ties to the Brotherhood, and she's searching for a wizard who can bring her dead rider Meltharond back. The Brotherhood is the obvious bidder.
 

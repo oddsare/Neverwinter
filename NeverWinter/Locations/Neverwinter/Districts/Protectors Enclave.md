@@ -41,7 +41,7 @@ Towering above Neverwinter, Castle Never symbolizes the city's strength and endu
 - Built over a **millennium ago** (around 500 DR)
 - Survived countless challenges, including the devastating cataclysm of **1451 DR**
 - Ongoing restoration efforts under [[NPCs/Renaer Neverember|Lord Renaer Neverember]]
-- Lord Renaer's ascension in **1520 DR** brought hope for stability after years of political turmoil
+- Lord Renaer's ascension in **1503 DR** brought hope for stability after years of political turmoil
 
 **Current Status:**
 - Central to the city's rejuvenation

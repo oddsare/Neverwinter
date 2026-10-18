@@ -81,16 +81,16 @@ Recommend: **at least 3 vaults, in different districts.** One contains the Crown
 
 ## Campaign integration
 
-### What this means for Dagult Neverember's disappearance (1502 DR)
+### What this means for Dagult Neverember's disappearance (1493 DR)
 
 The single most useful inference: **Dagult vanished trying to open a vault.**
 
-- He spent 33 years (1467 onward) consolidating power as Lord Protector with the explicit goal of *eventually* claiming Alagondar legitimacy.
+- He spent 26 years (1467–1493) consolidating power as Lord Protector with the explicit goal of *eventually* claiming Alagondar legitimacy.
 - Bastard-line claim got him political power but not vault access.
 - He must have tried at least one vault. The vault rejected him.
-- Possible outcomes for 1502:
+- Possible outcomes for 1493:
   - **He's dead** — the ward killed him.
-  - **He's trapped** — the [[Lore/Neverwinter Sub-Locations|Neverneath]] caught him in an infinite loop; he may be **still alive** in there, 23 years later, slowly going mad.
+  - **He's trapped** — the [[Lore/Neverwinter Sub-Locations|Neverneath]] caught him in an infinite loop; he may be **still alive** in there, 12 years later, slowly going mad.
   - **He was abducted** — someone realized what he was doing and took him. Could be [[NPCs/Claugiyliamatar - Old Gnawbone|Claugiyliamatar]] (long-game leverage), the [[Factions/Arcane Brotherhood|Arcane Brotherhood]] (wanted to study the wards), or a true Alagondar heir who beat him to it.
 
 ### What this means for Renaer Neverember

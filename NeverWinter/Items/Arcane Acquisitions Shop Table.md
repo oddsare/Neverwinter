@@ -10,7 +10,7 @@ tags: [supplemental, items, magic-items, shop, fan-content, era-1490s]
 # Arcane Acquisitions — d12 Magic Item Table
 
 > [!warning] Supplemental Material
-> Lifted and paraphrased from a fan-made guide (Jacob Johnston, v1.6) set in the **early 1490s DR** — roughly **30+ years before the campaign's 1525 DR start.** The shop and its proprietor are **homebrew** in the original guide; treat the *items* as the durable contribution. Reskin or rename the shop/proprietor freely.
+> Lifted and paraphrased from a fan-made guide (Jacob Johnston, v1.6) set in the **early 1490s DR** — roughly **12–15 years before the campaign's 1505 DR start.** The shop and its proprietor are **homebrew** in the original guide; treat the *items* as the durable contribution. Reskin or rename the shop/proprietor freely.
 
 ## The Shop (Source PDF pp. 25–26)
 
@@ -20,8 +20,8 @@ tags: [supplemental, items, magic-items, shop, fan-content, era-1490s]
 
 **Backstory hook:** Before coming to Neverwinter, Flinar was among those who travelled to **Wave Echo Cave** outside Phandalin to study the **Forge of Spells** once adventurers cleared it of hostile forces. (p. 25)
 
-> [!note] Status by 1525 DR
-> If you carry the shop forward 30+ years: Flinar is a half-elf, so plausibly still alive (maybe semi-retired); Gigz, a goblin, is likely long dead and replaced. Easiest swap: rename the proprietor, keep the items.
+> [!note] Status by 1505 DR
+> If you carry the shop forward 12–15 years: Flinar is a half-elf, so plausibly still alive (maybe semi-retired); Gigz, a goblin, may still be around, or may have been replaced. Easiest swap: rename the proprietor, keep the items.
 
 ---
 

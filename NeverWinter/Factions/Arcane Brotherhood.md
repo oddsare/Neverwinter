@@ -201,6 +201,9 @@ Could the [[Quests/The Shadowy Force|disappearing ships]] be the work of the Arc
 
 *Add your private DM notes about the Arcane Brotherhood here*
 
+### They lied (Brodie, 2026-10-18)
+In canon the Brotherhood returned to Luskan in **1486 DR** (Host Tower magically rebuilt) and **promised to stay out of politics**. In this campaign **that was a lie**: they are **always working behind the scenes**. See [[Locations/Luskan]] for the Emperor of the Seas and Bregan D'aerthe.
+
 ### Possible lever: the White Wyrm
 [[NPCs/Arveiaturace - The White Wyrm|Arveiaturace]] wants a powerful wizard to bring her dead rider Meltharond back (likely as undead). A Brotherhood "Meltharond project" would put an ancient dragon on Luskan's side. In canon her late mate **Arauthator** (dead since ~1489) was tied to the Brotherhood and the Cult of the Dragon.
 

@@ -12,7 +12,7 @@ tags: [location, neverneath, castle-never, spellplague-corrupted, labyrinth, war
 
 **Location:** Magically protected catacombs beneath [[Locations/Neverwinter/Districts/Protectors Enclave|Castle Never]]
 **Also known as:** The Endless Maze
-**Status (1525 DR):** Active, sealed, untouched since the 1502 disappearance of [[NPCs/Dagult Neverember|Lord Dagult Neverember]]
+**Status (1505 DR):** Active, sealed, untouched since the 1493 disappearance of [[NPCs/Dagult Neverember|Lord Dagult Neverember]]
 **Threat level:** Lethal to anyone except a true Alagondar heir (and even they should bring backup)
 
 ---
@@ -93,14 +93,14 @@ Canon language frames the ward as **a sapient magical effect**, not a creature o
 
 ### Dagult Neverember IS in here, alive (LOCKED 2026-05-15)
 
-[[NPCs/Dagult Neverember|Lord Dagult Neverember]] entered the Neverneath alone in **1502 DR**, intending to claim the Lost Crown to lock in his rule against a rising tide of opposition — Sons of Alagondar agitation, a Luskan assassination plot, and Indrina Lamsensettle's exposé all closing in at once. **The Crown was about keeping his power, not protecting citizens.** He **didn't believe the bloodline-lock legend was real.**
+[[NPCs/Dagult Neverember|Lord Dagult Neverember]] entered the Neverneath alone in **1493 DR**, intending to claim the Lost Crown to lock in his rule against a rising tide of opposition — Sons of Alagondar agitation, a Luskan assassination plot, and Indrina Lamsensettle's exposé all closing in at once. **The Crown was about keeping his power, not protecting citizens.** He **didn't believe the bloodline-lock legend was real.**
 
-The corrupted ward caught him before he reached the Inner Vault. **23 years later he is still inside**, alive, aged but functional, lucid but changed. Halueth Never's residual protective magic has incidentally kept him fed, watered, and sane.
+The corrupted ward caught him before he reached the Inner Vault. **12 years later he is still inside**, alive, aged but functional, lucid but changed. Halueth Never's residual protective magic has incidentally kept him fed, watered, and sane.
 
-He has not become a better man in the dark. Twenty-three years alone with his thoughts has only deepened his bitterness. He still believes he is owed the throne. **He is a captive villain, not a victim to be rescued.**
+He has not become a better man in the dark. Twelve years alone with his thoughts has only deepened his bitterness. He still believes he is owed the throne. **He is a captive villain, not a victim to be rescued.**
 
 **He knows things the party needs:**
-- The 1502 Luskan assassination plot — names, dates, what was at stake (may still operate in 1525 with successors)
+- The 1493 Luskan assassination plot — names, dates, what was at stake (may still operate in 1505 with successors)
 - Where [[NPCs/Indrina Lamsensettle|Indrina Lamsensettle]]'s dossier is
 - The identities of rival Alagondar claimants he was hunting (some may still be alive)
 - What the ward told him on the way down
@@ -140,7 +140,7 @@ If the party can determine the ward is sentient and convince it they are not thr
 - [[Lore/Neverwinter Sub-Locations]] — Castle Never overview
 - [[Lore/The Lost Crown and Hidden Alagondar Vaults]] — the bloodline-locked vault system
 - [[Lore/The Alagondar Dynasty]] — the royal line whose regalia is sealed inside
-- [[NPCs/Dagult Neverember]] — almost certainly tried and failed to open the Inner Vault in 1502
+- [[NPCs/Dagult Neverember]] — almost certainly tried and failed to open the Inner Vault in 1493
 - [[NPCs/Renaer Neverember]] — son of Dagult; same bloodline problem
 - [[Lore/Ancient History]] — Halueth Never and the founding of Eigersstor
 - [[Lore/Three Cataclysms]] — the Spellplague that corrupted the ward

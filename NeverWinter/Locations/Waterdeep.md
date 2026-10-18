@@ -16,7 +16,7 @@ tags: [location, lords-alliance, canon]
 **Real power:** The secret council of Masked Lords, with the guilds and the nobility close behind
 **Lords' Alliance influence:** Highest. It leads the Alliance.
 
-> Canon reference only, as of about 1489–1492 DR. The campaign is set in 1525 DR, so who rules here now is Brodie's call. See [[Factions/Lords' Alliance]].
+> Canon reference only, as of about 1489–1492 DR. The campaign is set in 1505 DR, so who rules here now is Brodie's call. See [[Factions/Lords' Alliance]].
 
 ---
 
@@ -43,7 +43,7 @@ Waterdeep is ruled by masks. Only one Lord shows a face in public: the Open Lord
 - **Open Lords up to 1489 DR:** Ahghairon the Mage, Baeron Silmaeril, Lhestyn the Masked Lady, Piergeiron the Paladinson, Caladorn Cassalanter, Dagult Neverember, Laeral Silverhand.
 
 ### The Ruler: Laeral Silverhand
-- **Age:** born 765 DR, so about 724 in 1489 DR and 760 in 1525 DR. She is ageless, one of Mystra's Chosen.
+- **Age:** born 765 DR, so about 724 in 1489 DR and 740 in 1505 DR. She is ageless, one of Mystra's Chosen.
 - **Known for:**
   - She is the fifth of Mystra's **Seven Sisters**.
   - She was once the **Witch-Queen of the North**, enslaved by the Crown of Horns.
@@ -145,10 +145,10 @@ Crimes are split into four **Plaints**:
 - **Neverwinter:** Dagult was ousted as Open Lord in 1489 DR for spending Waterdeep's treasury on rebuilding Neverwinter. See [[NPCs/Dagult Neverember]].
 - **This campaign (1492 DR):** *Dragon Heist* went Manshoon's way. A party with Renaer foiled Manshoon's scheme by beating his [[NPCs/Manshoon's Simulacrum|simulacrum]] (they never faced [[NPCs/Manshoon|Manshoon]] himself), recovered Dagult's hidden hoard of 500,000 gold dragons from the Vault of Dragons, and returned it to Waterdeep. See [[Campaign Decisions]].
 
-## 1525 DR: Open Questions (Brodie)
+## 1505 DR: Open Questions (Brodie)
 - Is Laeral still Open Lord? (Also asked in [[NPCs/Arveiaturace - The White Wyrm|Arveiaturace]].)
 - Waterdeep got Dagult's hidden hoard back in 1492. Does it still want back what he spent rebuilding Neverwinter, and does it blame Neverwinter?
-- The simulacrum survived 1492 and Manshoon was never fought. Where are they in 1525? See [[NPCs/Manshoon]].
+- The simulacrum survived 1492 and Manshoon was never fought. Where are they in 1505? See [[NPCs/Manshoon]].
 - How does Waterdeep's smokepowder ban sit next to Neverwinter's powder houses?
 
 ---

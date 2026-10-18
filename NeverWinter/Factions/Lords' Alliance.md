@@ -14,9 +14,9 @@ status: active
 **Founded:** 1325 DR
 **Leader (canon):** Open Lord Laeral Silverhand of Waterdeep, 1488 DR to the end of published canon
 **Scope:** The Sword Coast, the North and the Western Heartlands
-**Status:** Active (canon). Its state in 1525 DR is Brodie's call.
+**Status:** Active (canon). Its state in 1505 DR is Brodie's call.
 
-> Canon reference only. Everything here comes from published Forgotten Realms material, mostly as summarized by the Forgotten Realms Wiki, and reflects **c. 1489 DR**. Most published canon covers the 1480s–1490s DR, and a few recent books reach about 1501–1505 DR. 1525 DR is past all of it. Who sits on the council in 1525 DR is not decided yet (see the open questions at the end).
+> Canon reference only. Everything here comes from published Forgotten Realms material, mostly as summarized by the Forgotten Realms Wiki, and reflects **c. 1489 DR**. Most published canon covers the 1480s–1490s DR, and a few recent books reach about 1501–1505 DR. 1525 DR is past all of it. Who sits on the council in 1505 DR is not decided yet (see the open questions at the end).
 
 ---
 
@@ -46,18 +46,18 @@ The Lords' Alliance is a partnership of free cities and towns. Waterdeep, Silver
 
 | City | Ruler / representative | Ruler's age | Size | Influence |
 |---|---|---|---|---|
-| [[Locations/Waterdeep|Waterdeep]] | Open Lord Laeral Silverhand | b. 765 DR: 724 in 1489, 760 in 1525 (ageless) | Metropolis, up to ~2,000,000 | **Highest** |
+| [[Locations/Waterdeep|Waterdeep]] | Open Lord Laeral Silverhand | b. 765 DR: 724 in 1489, 740 in 1505 (ageless) | Metropolis, up to ~2,000,000 | **Highest** |
 | [[Locations/Baldur's Gate|Baldur's Gate]] | Grand Duke Ulder Ravengard | Unconfirmed: b. 1440 DR per a fan wiki, ~49 in 1489 | Metropolis, ~125,000 (1492) | **High** |
 | [[Locations/Silverymoon|Silverymoon]] | High Mage Taern Hornblade | b. 1204 DR: 285 in 1489 (potions of longevity) | Metropolis | **High** |
-| [[Locations/Neverwinter/Neverwinter|Neverwinter]] | Lord Protector Dagult Neverember | b. 1429 DR: 60 in 1489, 96 in 1525 | City, ~23,000 (1372) | **High** |
+| [[Locations/Neverwinter/Neverwinter|Neverwinter]] | Lord Protector Dagult Neverember | b. 1429 DR: 60 in 1489, 76 in 1505 | City, ~23,000 (1372) | **High** |
 | [[Locations/Mirabar|Mirabar]] | Marchion Selin Ramur | Not given in canon | Small city, ~10,000–23,000 | **Moderate** |
 | [[Locations/Mithral Hall|Mithral Hall]] | Queen Dagnabbet Waybeard | Not given (dwarf) | Large town, ~5,000 (1372) | **Moderate** |
-| [[Locations/Yartar|Yartar]] | Waterbaron Nestra Ruthiol | In her fifties c. 1491 DR, so ~85–95 in 1525 | Small city, ~6,000 (1366) | **Moderate–Low** |
+| [[Locations/Yartar|Yartar]] | Waterbaron Nestra Ruthiol | In her fifties c. 1491 DR, so ~65–75 in 1505 | Small city, ~6,000 (1366) | **Moderate–Low** |
 | [[Locations/Daggerford|Daggerford]] | Duchess Morwen Daggerford (possibly an impostor, see her section) | About 40 c. 1485 DR, so ~44 in 1489 | Small town, ~1,200 (1485) | **Low** |
 | [[Locations/Longsaddle|Longsaddle]] | Spokesman Dowell Harpell | Not given | Hamlet, ~130 (1,100 in area) | **Low** (magically strong) |
 | [[Locations/Amphail|Amphail]] | Lord Warder Dauner Ilzimmer | Not given | Village, ~850 | **Low** |
 
-**Influence** is a rough read from canon facts: size, wealth, military and role in the Alliance. Ages in 1525 DR are plain arithmetic from canon birth years. Whether each ruler is still alive or in office is not decided.
+**Influence** is a rough read from canon facts: size, wealth, military and role in the Alliance. Ages in 1505 DR are plain arithmetic from canon birth years. Whether each ruler is still alive or in office is not decided.
 
 ---
 
@@ -73,7 +73,7 @@ The Lords' Alliance is a partnership of free cities and towns. Waterdeep, Silver
 - **Influence: Highest.** It is the most powerful member and its Open Lord leads the Alliance.
 
 **Ruler: Laeral Silverhand, Open Lord of Waterdeep**
-- **Age:** born 765 DR, which makes her 724 in 1489 DR and 760 in 1525 DR. As one of Mystra's Chosen, she doesn't age.
+- **Age:** born 765 DR, which makes her 724 in 1489 DR and 740 in 1505 DR. As one of Mystra's Chosen, she doesn't age.
 - **Known for:**
   - She is the fifth of the **Seven Sisters**, daughters of Mystra.
   - She was once the **Witch-Queen of the North**. While enslaved by the Crown of Horns she was forced to do terrible things.
@@ -83,7 +83,7 @@ The Lords' Alliance is a partnership of free cities and towns. Waterdeep, Silver
   - She is famously organized and friendly, and she often mediates with rogues and monsters, keeping a cover identity in Skullport.
   - Her magic has weakened since Mystra's death and rebirth.
   - 5e stats: chaotic good, 19th-level wizard.
-- Vault link: [[NPCs/Arveiaturace - The White Wyrm|Arveiaturace]] already asks whether Laeral is still Open Lord in 1525.
+- Vault link: [[NPCs/Arveiaturace - The White Wyrm|Arveiaturace]] already asks whether Laeral is still Open Lord in 1505.
 
 ---
 
@@ -97,7 +97,7 @@ The Lords' Alliance is a partnership of free cities and towns. Waterdeep, Silver
 - **Influence: High.** It was a major member historically, but its power was cut by the 1451 DR eruption.
 
 **Ruler (c. 1489): Dagult Neverember, Lord Protector**
-- **Age:** born 1429 DR, so 60 in 1489 DR and 96 in 1525 DR. This matches [[NPCs/Dagult Neverember|his vault note]].
+- **Age:** born 1429 DR, so 60 in 1489 DR and 76 in 1505 DR. This matches [[NPCs/Dagult Neverember|his vault note]].
 - **Known for:**
   - His nicknames are "Dagger" Neverember and "the Lord Pretender."
   - He claimed Alagondar descent and garrisoned Neverwinter with Mintarn mercenaries.
@@ -105,7 +105,7 @@ The Lords' Alliance is a partnership of free cities and towns. Waterdeep, Silver
   - He was ousted as Open Lord of Waterdeep for using its treasury to rebuild Neverwinter.
   - He is Renaer's father.
   - 5e stats: lawful neutral fighter.
-- **In this campaign:** Dagult is missing and [[NPCs/Renaer Neverember|Renaer]] rules. Neverwinter's seat in 1525 DR is not decided yet.
+- **In this campaign:** Dagult is missing and [[NPCs/Renaer Neverember|Renaer]] rules. Neverwinter's seat in 1505 DR is not decided yet.
 - **Date check:** the wiki says Laeral took over the Alliance in **1488 DR**, while the vault has Dagult ousted as Open Lord in **1489 DR**. Canon sources split the same way.
 
 ---
@@ -120,7 +120,7 @@ The Lords' Alliance is a partnership of free cities and towns. Waterdeep, Silver
 - **Influence: High.** It is the cultural and magical heart of the North. Its regional power base weakened when **Luruar** (the Silver Marches confederation) collapsed in 1488 DR.
 
 **Ruler (c. 1489): Taern "Thunderspell" Hornblade, High Mage**
-- **Age:** born 1204 DR, making him about 285 in 1489 DR and 321 in 1525 DR. The wiki chose 1204 as a compromise because sources conflict. He has stayed healthy with **potions of longevity**.
+- **Age:** born 1204 DR, making him about 285 in 1489 DR and 301 in 1505 DR. The wiki chose 1204 as a compromise because sources conflict. He has stayed healthy with **potions of longevity**.
 - **Known for:**
   - He succeeded Alustriel as High Mage.
   - In 3e he is an 18th-level evoker and lawful good.
@@ -144,7 +144,7 @@ The Lords' Alliance is a partnership of free cities and towns. Waterdeep, Silver
 - **Influence: High.** It is the Alliance's southern anchor and one of the richest merchant cities on the coast.
 
 **Ruler (c. 1489): Ulder Ravengard, Grand Duke and Marshal of the Flaming Fist**
-- **Age:** canon gives no birth year. A fan wiki says 1440 DR, which would make him about 49 in 1489 DR and 85 in 1525 DR. This is **unconfirmed**.
+- **Age:** canon gives no birth year. A fan wiki says 1440 DR, which would make him about 49 in 1489 DR and 65 in 1505 DR. This is **unconfirmed**.
 - **Known for:**
   - He was born poor in the Lower City and joined the Flaming Fist young.
   - He became Marshal in 1482 DR after Abdel Adrian died, and was elected Grand Duke before 1488 DR.
@@ -183,7 +183,7 @@ The Lords' Alliance is a partnership of free cities and towns. Waterdeep, Silver
 - **Influence: Moderate.** It has military weight and mithral, but the dwarves pulled out of Luruar in 1488 DR.
 
 **Ruler (from 1486): Queen Dagnabbet Waybeard**
-- **Age:** not given. Dwarves live for centuries, so she could plausibly still rule in 1525 DR.
+- **Age:** not given. Dwarves live for centuries, so she could plausibly still rule in 1505 DR.
 - **Known for:**
   - She is the **first queen** of Mithral Hall.
   - As King Connerad's general during the Darkening (1484 DR), she **turned back the first attack by the orcs of Many-Arrows** through sharp tactics.
@@ -201,7 +201,7 @@ The Lords' Alliance is a partnership of free cities and towns. Waterdeep, Silver
 - **Influence: Moderate to low.** It has wealth and connections but crime eats at it.
 
 **Ruler (c. 1491): Nestra Ruthiol, Waterbaron**
-- **Age:** in her fifties around 1491 DR (*Princes of the Apocalypse*), so roughly 85–95 in 1525 DR.
+- **Age:** in her fifties around 1491 DR (*Princes of the Apocalypse*), so roughly 65–75 in 1505 DR.
 - **Known for:**
   - She is **lawful evil**, cunning and vindictive.
   - She sees Alliance membership as vital to Yartar's survival.
@@ -222,7 +222,7 @@ The Lords' Alliance is a partnership of free cities and towns. Waterdeep, Silver
 - **Influence: Low.** Its value is as a voice on the council and a stop on the Trade Way.
 
 **Ruler (from c. 1486): Duchess Morwen Daggerford**
-- **Age:** about 40 c. 1485 DR, so roughly 44 in 1489 DR and 80 in 1525 DR.
+- **Age:** about 40 c. 1485 DR, so roughly 44 in 1489 DR and 60 in 1505 DR.
 - **Known for:**
   - She was Master of Arms and military commander of the castle, and she trains with the militia and visits Tempus's shrine.
   - Many thought her **a better ruler than her brother Duke Maldwyn**. She inherited the title when Daggerford suspended inheritance by the eldest son.
@@ -293,12 +293,12 @@ The Lords' Alliance is a partnership of free cities and towns. Waterdeep, Silver
 
 ---
 
-## 1525 DR: Open Questions (Brodie to decide)
+## 1505 DR: Open Questions (Brodie to decide)
 
-- Does the Alliance still exist in this form 30+ years after canon, and who leads it?
+- Does the Alliance still exist in this form 13+ years after canon, and who leads it?
 - Is Renaer's Neverwinter still a member, and who holds its seat while Dagult is missing?
 - Is Laeral still Open Lord? (Also asked in the Arveiaturace note.)
-- Which 1489 DR rulers are still alive or in office? Laeral, Taern and Dagnabbet could easily live to 1525. Ravengard, Morwen and Nestra would be about 80–95.
+- Which 1489 DR rulers are still alive or in office? Laeral, Taern and Dagnabbet could easily live to 1505. Ravengard, Morwen and Nestra would be about 60–75.
 - How does the Alliance view Neverwinter's four major houses and the powder? (See [[Campaign Decisions]] and [[Lore/The Powder]].)
 - Where does the Alliance fit in the [[Lore/3 Faction Rule|Three-Faction Rule]] for this campaign, if anywhere?
 

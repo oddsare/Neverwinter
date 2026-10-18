@@ -15,7 +15,7 @@ tags: [location, lords-alliance, canon]
 **Ruler (c. 1489 DR):** Grand Duke Ulder Ravengard, Marshal of the Flaming Fist
 **Lords' Alliance influence:** High. It is the Alliance's southern anchor.
 
-> Canon reference only, as of about 1489–1492 DR. *Baldur's Gate 3* (1492 DR) shook the city badly. The campaign is set in 1525 DR. See [[Factions/Lords' Alliance]].
+> Canon reference only, as of about 1489–1492 DR. *Baldur's Gate 3* (1492 DR) shook the city badly. The campaign is set in 1505 DR. See [[Factions/Lords' Alliance]].
 
 ---
 
@@ -48,7 +48,7 @@ The Gate has always stayed neutral. It defends trade, stays out of other powers'
 - **By tradition**, one Grand Duke is also Marshal of the **Flaming Fist**.
 
 ### The Ruler: Ulder Ravengard
-- **Age:** canon gives no birth year. A fan wiki says **1440 DR**, which would make him about 49 in 1489 DR and 85 in 1525 DR. This is **unconfirmed**.
+- **Age:** canon gives no birth year. A fan wiki says **1440 DR**, which would make him about 49 in 1489 DR and 65 in 1505 DR. This is **unconfirmed**.
 - **Titles:** Grand Duke, Marshal of the Flaming Fist. Formerly a *Blaze* (Fist officer) and Warden of the Wyrm's Rock fortress.
 - **Known for:**
   - He was born poor in the Lower City and joined the Fist young, rising on fighting skill and brains.
@@ -112,9 +112,9 @@ The Gate has always stayed neutral. It defends trade, stays out of other powers'
 - **1492 DR:** Elturel fell into Avernus while Ravengard was there.
 - **1492 DR:** the **Cult of the Absolute** marched on the city and an illithid **netherbrain** burst from the caves beneath it, wrecking several districts, the Upper City worst. Heroes either destroyed it or took control of it (*Baldur's Gate 3*).
 
-## 1525 DR: Open Questions (Brodie)
+## 1505 DR: Open Questions (Brodie)
 - Which ending of *Baldur's Gate 3* is canon for this campaign, and who sits on the Council of Four now?
-- Is Ravengard alive in his 80s? Does Wyll hold power?
+- Is Ravengard alive in his 60s? Does Wyll hold power?
 
 ---
 

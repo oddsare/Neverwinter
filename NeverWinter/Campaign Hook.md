@@ -1,6 +1,6 @@
 # Campaign Hook - The Shadowy Force
 
-**Campaign Start:** 1525 DR
+**Campaign Start:** 1505 DR
 **Location:** [[Locations/Neverwinter/Neverwinter|Neverwinter]], Sword Coast North
 
 ---

@@ -1,14 +1,14 @@
 ---
 type: NPC
 faction: Zhentarim (his own splinter sect)
-location: Waterdeep, Kolat Towers sanctum (as of 1492 DR); 1525 unknown
+location: Waterdeep, Kolat Towers sanctum (as of 1492 DR); 1505 unknown
 world: Neverwinter
 campaign: Neverwinter
 description: "Founder of the Zhentarim; the clone in Waterdeep whose 1492 Dragon Heist scheme the party foiled"
 race: Human (clone)
 gender: Male
 class: Wizard (archmage)
-status: Unknown in 1525 DR
+status: Unknown in 1505 DR
 tags: [npc, zhentarim, villain, waterdeep, dragon-heist, canon]
 ---
 # Manshoon
@@ -16,7 +16,7 @@ tags: [npc, zhentarim, villain, waterdeep, dragon-heist, canon]
 **Title:** Founder of the Zhentarim, former Lord of Zhentil Keep
 **What the Waterdeep one is:** a **clone** of the original Manshoon (canon, 1492 DR)
 **Base (1492 DR):** **Kolat Towers**, Southern Ward, Waterdeep, with an **extradimensional sanctum** reached through a teleportation circle
-**Status (1525 DR):** unknown. Brodie to decide.
+**Status (1505 DR):** unknown. Brodie to decide.
 **Simulacrum:** [[NPCs/Manshoon's Simulacrum]], which **survived 1492 and is the one the party fought**
 
 > Canon reference plus this campaign's decisions. Canon parts come from the Forgotten Realms Wiki and from guides to *Waterdeep: Dragon Heist*. Parts marked **This campaign** come from [[Campaign Decisions]].
@@ -121,8 +121,8 @@ tags: [npc, zhentarim, villain, waterdeep, dragon-heist, canon]
 ---
 
 ## Open Questions (Brodie)
-- Where is the real Manshoon in 1525? Alive, dead, imprisoned, or gone from the Sword Coast?
-- Why hasn't he cast *simulacrum* in 33 years? Recasting it would destroy the survivor.
+- Where is the real Manshoon in 1505? Alive, dead, imprisoned, or gone from the Sword Coast?
+- Why hasn't he cast *simulacrum* in 13 years? Recasting it would destroy the survivor.
 - Did the party take his ledger? Are Corylus Thann and Jelenn Urmbrusk free of him?
 - Does his splinter Zhentarim have any reach into Neverwinter, or into the powder trade?
 

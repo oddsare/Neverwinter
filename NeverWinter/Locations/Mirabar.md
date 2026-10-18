@@ -15,7 +15,7 @@ tags: [location, lords-alliance, canon]
 **Lords' Alliance influence:** Moderate. It is small in people but has great leverage through its ore.
 **Badge:** a deep red double-bladed axe on black
 
-> Canon reference only. Most detail comes from about 1367–1372 DR; the ruler is from about 1489 DR. The campaign is set in 1525 DR. See [[Factions/Lords' Alliance]].
+> Canon reference only. Most detail comes from about 1367–1372 DR; the ruler is from about 1489 DR. The campaign is set in 1505 DR. See [[Factions/Lords' Alliance]].
 
 ---
 
@@ -87,7 +87,7 @@ The two halves depend on each other, though they don't always get along. Mirabar
 - **1370 DR:** King Bruenor's visit and the Torgar affair.
 - **After 1485 DR:** Selin Ramur became Marchion.
 
-## 1525 DR: Open Questions (Brodie)
+## 1505 DR: Open Questions (Brodie)
 - Does the Council of Sparkling Stones still rule, and who leads it?
 - Mirabar sells ore to the North. Does it trade with Neverwinter's mining house or compete with it? (See [[Campaign Decisions]].)
 

@@ -14,7 +14,7 @@ tags: [location, lords-alliance, canon]
 **Ruler (c. 1491 DR):** Waterbaron Nestra Ruthiol
 **Lords' Alliance influence:** Moderate to low. It has wealth and connections, but crime holds it back.
 
-> Canon reference only, as of about 1491–1492 DR. The campaign is set in 1525 DR. See [[Factions/Lords' Alliance]].
+> Canon reference only, as of about 1491–1492 DR. The campaign is set in 1505 DR. See [[Factions/Lords' Alliance]].
 
 ---
 
@@ -39,7 +39,7 @@ Behind the honest trade lies a criminal underworld whose schemes have kept Yarta
 - **Seat:** the Waterbaron's Hall. The Waterbaron's barge is moored at the Shield Tower.
 
 ### The Ruler: Nestra Ruthiol
-- **Age:** **in her fifties around 1491 DR**, according to *Princes of the Apocalypse*. That puts her at roughly **85–95 in 1525 DR**.
+- **Age:** **in her fifties around 1491 DR**, according to *Princes of the Apocalypse*. That puts her at roughly **65–75 in 1505 DR**.
 - **Known for:**
   - She is a Tethyrian noblewoman, **shrewd and farseeing**, and also **cunning and vindictive** (*Storm King's Thunder*). She is **lawful evil**.
   - She believes membership in the **Lords' Alliance is vital** to Yartar's survival and prosperity.
@@ -88,8 +88,8 @@ Behind the honest trade lies a criminal underworld whose schemes have kept Yarta
 - **1491 DR:** the elemental cults abducted Yartar's poor and drunk to the Temple of Howling Hatred. The Hand stole a **devastation orb** from the vault of Triboar's Lord Protector and auctioned it.
 - **1492 DR:** a mind-flayer **nautiloid** ship attacked, destroying one of the tallest buildings and snatching citizens. Three **githyanki riding red dragons** forced it to teleport away.
 
-## 1525 DR: Open Questions (Brodie)
-- Is Nestra still alive at around 90, or did Drylund or the Kraken Society take the Waterbaron's seat?
+## 1505 DR: Open Questions (Brodie)
+- Is Nestra still alive at around 70, or did Drylund or the Kraken Society take the Waterbaron's seat?
 
 ---
 

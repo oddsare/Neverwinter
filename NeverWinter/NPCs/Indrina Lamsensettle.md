@@ -8,14 +8,14 @@ description: "Waterdhavian actress/aristocrat who canonically proved Dagult Neve
 race: Human (Waterdhavian)
 gender: Female
 class: Aristocrat / Performer
-status: unknown (may still be alive in 1525 DR; may have been silenced)
+status: unknown (may still be alive in 1505 DR; may have been silenced)
 tags: [npc, waterdeep, alagondar-claim-exposer, dagult-enemy]
 ---
 
 # Indrina Lamsensettle
 
 **Title:** Actress / Aristocrat of Waterdeep
-**Status (1525 DR):** Unknown — alive, hidden, silenced, or dead. DM's choice.
+**Status (1505 DR):** Unknown — alive, hidden, silenced, or dead. DM's choice.
 
 ---
 
@@ -47,16 +47,16 @@ A **genealogical dossier** disproving Dagult Neverember's claim of descent from 
 
 ---
 
-## Status by 1525 DR — options for the DM
+## Status by 1505 DR — options for the DM
 
 Indrina's fate is **not specified in canon**. Pick one:
 
 | Option | What it means | Plot use |
 |---|---|---|
 | **Still alive, in hiding** | Indrina has been off the public stage for 20+ years. Knows the truth, fears silencing. | Party may need to find her — and protect her. She has the dossier or knows where it is. |
-| **Silenced — quietly assassinated** | Dagult succeeded before he vanished in 1502. The dossier vanished with her. | Recovering the dossier requires going after Dagult's people who carried out the hit. |
+| **Silenced — quietly assassinated** | Dagult succeeded before he vanished in 1493. The dossier vanished with her. | Recovering the dossier requires going after Dagult's people who carried out the hit. |
 | **Silenced — publicly discredited** | Dagult ruined her reputation, made her seem an unhinged actress. She's alive but unbelievable. | Party must restore her credibility before the dossier can be used. |
-| **Aged and senile in 1525** | She survived but her mind is going. The dossier is somewhere; she remembers fragments. | Heartbreaking arc — race against memory loss. |
+| **Aged and senile in 1505** | She survived but her mind is going. The dossier is somewhere; she remembers fragments. | Heartbreaking arc — race against memory loss. |
 | **Dead of natural causes** | She survived Dagult, died old. Whether the dossier survived her is the question. | A descendant or apprentice has it now. |
 
 **Recommended (most plot-load-bearing):** alive, in hiding, dossier intact, terrified of being found.

@@ -41,7 +41,7 @@ tags: [npc, dragon, candidate, green-dragon, in-city]
 
 > **CANON STATES:** She fantasizes about being a "mysterious, alluring noblewoman whom all tongues dart with the news of her latest outrageous deeds."
 
-This means **the user's hook is essentially canon**, not extrapolation. Pivoting her primary city of interest from Waterdeep to Neverwinter is a one-line setting tweak, fully justifiable by Renaer's politically open rebuilding period and the noble-society vacancy left by 18 years of chaos.
+This means **the user's hook is essentially canon**, not extrapolation. Pivoting her primary city of interest from Waterdeep to Neverwinter is a one-line setting tweak, fully justifiable by Renaer's politically open rebuilding period and the noble-society vacancy left by 10 years of chaos.
 
 ### Allies / network
 - **Already operates a criminal gang inside Neverwinter** (canon). Humans and halflings. They stoke shortages, steal magic items, inflame noble-house rivalries.
@@ -201,7 +201,7 @@ This is the single most plot-mechanically useful detail MrRhexx adds. **Each of 
 - Have them craft the ritual for her out of loyalty.
 - **Hedging in parallel:** she is considering doing this in *multiple* locations at once. If one child turns on her or dies, others remain. If multiple succeed, she has a personal army of loyal wizards.
 
-**For a 1525 DR campaign, the project is recent — children would be young.** This is a beautiful campaign hook:
+**For a 1505 DR campaign, the project is recent — children would be young.** This is a beautiful campaign hook:
 - One of the party's allies (or even a PC's younger sibling, ward, or apprentice) is a Claugiyliamatar foster-child without knowing it.
 - The Sharran cult angle (if used) could be one of the children's "schools."
 - The party investigates a series of magically-gifted orphans being mysteriously adopted across the Sword Coast — and the trail leads to her.
@@ -316,7 +316,7 @@ This is gold for a political-intrigue spine. Notes:
 
 - "Permanent human form with dragon power retained" is **not standard polymorph** — it's a high-magic ritual / artifact / divine boon. That's a **quest seed** in itself: she needs a wizard, a priest, an artifact, or all three. The party can encounter her *as the patron seeking the ritual* before they ever know she's a dragon.
 - She is **already operating inside Neverwinter** — that means she's likely posing as a wealthy patron, a noblewoman, a merchant-princess, or a mysterious benefactor *right now*. The party meets her early, likes her, takes her gold. Then later: reveal.
-- "Because of the chaos" is a great in-fiction motive: the 18 years of Neverember's collapse and Renaer's fragile rebuild = power vacuum she's exploiting.
+- "Because of the chaos" is a great in-fiction motive: the 10 years of Neverember's collapse and Renaer's fragile rebuild = power vacuum she's exploiting.
 
 ## Why she fits the political-intrigue spine — strongly
 

@@ -27,9 +27,9 @@ They maintain order in the city, protect citizens, enforce laws, and defend agai
 
 ### Strengthened Under Lord Renaer
 
-One of [[NPCs/Renaer Neverember|Lord Renaer Neverember's]] key accomplishments during his [[Lore/Neverwinter History|five-year reign]] has been **strengthening the City Guard**.
+One of [[NPCs/Renaer Neverember|Lord Renaer Neverember's]] key accomplishments during his [[Lore/Neverwinter History|two-year reign]] has been **strengthening the City Guard**.
 
-After the chaos of the "Dance of the Revolving Lords" (1502-1520 DR), the Guard had become demoralized and ineffective. Lord Renaer has worked to:
+After the chaos of the "Dance of the Revolving Lords" (1493-1503 DR), the Guard had become demoralized and ineffective. Lord Renaer has worked to:
 - Improve training and discipline
 - Increase patrols
 - Root out corruption

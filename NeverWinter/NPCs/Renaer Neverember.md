@@ -15,20 +15,58 @@ class: Noble
 **Affiliation:** [[Locations/Neverwinter/Neverwinter|Neverwinter]] Government
 **Location:** Castle Never, [[Locations/Neverwinter/Districts/Protectors Enclave|Protector's Enclave]]
 **Role:** Ruler of Neverwinter
-**Status:** Active (1520 DR - Current/1525 DR)
-**Family:** Son of Lord Dagult Neverember (missing since 1502 DR — **actually alive and trapped in the [[Locations/Neverwinter/The Neverneath|Neverneath]]**, but Renaer doesn't know and doesn't want to know)
+**Status:** Active (1503 DR - Current/1505 DR)
+**Born:** 1461 DR. Age **18** in 1479 (*Blackstaff Tower*), **31** in 1492 (*Dragon Heist*), **42** when he took power in 1503, **44** at campaign start (1505).
+**Family:** Son of Lord Dagult Neverember (missing since 1493 DR — **actually alive and trapped in the [[Locations/Neverwinter/The Neverneath|Neverneath]]**, but Renaer doesn't know and doesn't want to know)
 
-> **Character (LOCKED 2026-05-15): Renaer is the GOOD GUY.** Where his father [[NPCs/Dagult Neverember|Dagult]] clung to power for its own sake, Renaer is genuinely **picking up the pieces of his father's mess and trying to do right by the citizens of Neverwinter.** He inherited a city beggared by his father's high taxes, divided by Dagult's persecution of Alagondar claimants, distrustful of foreign mercenaries, and skeptical of the Neverember name. He has spent five years trying to undo that damage.
+> **Character (LOCKED 2026-05-15): Renaer is the GOOD GUY.** Where his father [[NPCs/Dagult Neverember|Dagult]] clung to power for its own sake, Renaer is genuinely **picking up the pieces of his father's mess and trying to do right by the citizens of Neverwinter.** He inherited a city beggared by his father's high taxes, divided by Dagult's persecution of Alagondar claimants, distrustful of foreign mercenaries, and skeptical of the Neverember name. He has spent two years trying to undo that damage.
 >
-> He **knows nothing of his father's actual fate, and does not want to know.** Not from cowardice — from civic responsibility. He has built five years of stable rule on the assumption that Dagult is gone, won't return, and the question is closed. **Reopening that question threatens the rebuilding he is doing for the city.** If his father came back, Dagult would immediately reclaim power and undo everything Renaer has worked for. Renaer's reluctance to investigate is **protective of Neverwinter**, not protective of his own throne.
+> He **knows nothing of his father's actual fate, and does not want to know.** Not from cowardice — from civic responsibility. He has built two years of stable rule on the assumption that Dagult is gone, won't return, and the question is closed. **Reopening that question threatens the rebuilding he is doing for the city.** If his father came back, Dagult would immediately reclaim power and undo everything Renaer has worked for. Renaer's reluctance to investigate is **protective of Neverwinter**, not protective of his own throne.
 >
 > Players investigating Dagult's disappearance will find Renaer **a sympathetic but resistant ally** — he wants them to find the truth as long as it doesn't undo his work. He'll help quietly. He won't help publicly. If they recover Dagult alive and bring him back, **Renaer has the hardest decision of his life to make.**
 
 ---
 
+## Faith: Tymora (Brodie, 2026-10-18)
+- Renaer is a **follower of [[Lore/Pantheon of Faerun|Tymora]]**, goddess of luck.
+- **He is Tymora's Chosen**, whether he knows it or not.
+- *Canon gives him no patron deity, so this is campaign-only.*
+
+---
+
+## The Harpers (Brodie, 2026-10-18)
+- Renaer is **still a [[Factions/The Harpers|Harper]]**.
+- **The Harpers led him to Neverwinter.**
+- *Canon basis: the Forgotten Realms Wiki lists him as a member of the Harpers.*
+
+---
+
+## Stat Block (canon, *Waterdeep: Dragon Heist*)
+In *Waterdeep: Dragon Heist* (1492 DR), Renaer is a **chaotic good human swashbuckler**. Full stat block: *Dragon Heist* Appendix B, pp. 215–216 (same swashbuckler as *Volo's Guide to Monsters*). Numbers below are from memory; check them against the book.
+
+| AC | HP | Speed | CR |
+|---|---|---|---|
+| 17 (leather armor + Suave Defense) | 66 (12d8 + 12) | 30 ft. | 3 (700 XP) |
+
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 12 (+1) | 18 (+4) | 12 (+1) | 14 (+2) | 11 (+0) | 15 (+2) |
+
+- **Skills:** Acrobatics +8, Athletics +5, Persuasion +6
+- **Senses:** passive Perception 10
+- **Lightfooted:** can Dash or Disengage as a bonus action.
+- **Suave Defense:** adds his Charisma to AC while in light or no armor and without a shield.
+- **Multiattack:** three attacks: one dagger and two rapier.
+- **Rapier:** +6 to hit, 1d8 + 4 piercing.
+- **Dagger:** +6 to hit (melee or thrown 20/60 ft.), 1d4 + 4 piercing.
+
+*Tymora's Chosen benefits (if any): to be decided.*
+
+---
+
 ## Overview
 
-**Lord Renaer Neverember** is the current ruler of [[Locations/Neverwinter/Neverwinter|Neverwinter]], having ascended to power in **1520 DR** as the 7th ruler following his father's mysterious disappearance.
+**Lord Renaer Neverember** is the current ruler of [[Locations/Neverwinter/Neverwinter|Neverwinter]], having ascended to power in **1503 DR** at age 42, young for a ruler, as the 7th ruler following his father's mysterious disappearance.
 
 He is the estranged son of **Lord Dagult Neverember**, the previous ruler whose disappearance triggered [[Lore/Neverwinter History|"The Dance of the Revolving Lords"]].
 
@@ -66,7 +104,7 @@ Renaer was the **estranged son** of Lord Dagult Neverember, suggesting a difficu
 *Details of the estrangement can be developed as needed*
 
 ### Rise to Power
-Following his father's mysterious disappearance in **~1502 DR**, Neverwinter endured the reign of **six failed rulers** over the course of nearly two decades.
+Following his father's mysterious disappearance in **1493 DR**, Neverwinter endured the reign of **six failed rulers** over the course of a decade.
 
 Each ruler was undone by:
 - Political intrigue
@@ -74,13 +112,13 @@ Each ruler was undone by:
 - Hostile factions
 - Their own failures
 
-Renaer became the **7th ascension** in **1520 DR**.
+Renaer became the **7th ascension** in **1503 DR**.
 
 ---
 
-## Current Reign (1520 DR - 1525 DR)
+## Current Reign (1503 DR - 1505 DR)
 
-Lord Renaer has ruled for **5 years**, bringing much-needed stability to [[Locations/Neverwinter/Neverwinter|Neverwinter]].
+Lord Renaer has ruled for **2 years**, bringing much-needed stability to [[Locations/Neverwinter/Neverwinter|Neverwinter]]. It's not much time to get everything done, and he faces **pushback from influential people in the city and in the neighboring places the city protects**.
 
 ### Accomplishments
 - Ended the chaos of the revolving lords
@@ -110,7 +148,8 @@ Lord Dagult Neverember's disappearance remains unsolved. Possible explanations i
 
 ## Relationships
 
-- **Lord Dagult Neverember (father)** - Estranged, disappeared ~1502 DR
+- **Lord Dagult Neverember (father)** - Estranged, disappeared 1493 DR
+- **[[NPCs/Laraelra Harsard|Laraelra Harsard]]** - Trusted friend and advisor he brought with him to Neverwinter; the Blackstaff's Heir; companion since 1479 (*Blackstaff Tower*)
 - **[[Factions/City Guard|The City Guard]]** - His enforcement arm
 - **[[NPCs/Soren Ironwake|Guard Captain Soren Ironwake]]** - Investigating the current crisis
 - **The Noble Houses** - Complex political relationships
@@ -120,7 +159,7 @@ Lord Dagult Neverember's disappearance remains unsolved. Possible explanations i
 
 ## Political Situation
 
-Despite 5 years of stability, [[Lore/Neverwinter History|whispers persist]] that **dissenters still linger in the shadows**, waiting for their moment to strike.
+Despite 2 years of stability, [[Lore/Neverwinter History|whispers persist]] that **dissenters still linger in the shadows**, waiting for their moment to strike.
 
 Possible threats:
 - Factions that benefited from the chaos

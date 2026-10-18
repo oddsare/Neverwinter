@@ -1,14 +1,14 @@
 ---
 type: NPC
 faction: Zhentarim (Manshoon's sect)
-location: Unknown in 1525 DR (fled the Vault of Dragons, 1492 DR)
+location: Unknown in 1505 DR (fled the Vault of Dragons, 1492 DR)
 world: Neverwinter
 campaign: Neverwinter
 description: "Manshoon's snow-and-ice duplicate; the one the party fought in 1492. It survived, but it can never regain a spell slot."
 race: Simulacrum (of a human)
 gender: Male
 class: Wizard (archmage duplicate)
-status: Survived 1492 DR. Status in 1525 is Brodie's call.
+status: Survived 1492 DR. Status in 1505 is Brodie's call.
 tags: [npc, zhentarim, simulacrum, villain, stat-block, waterdeep, dragon-heist]
 ---
 # Manshoon's Simulacrum
@@ -85,7 +85,7 @@ tags: [npc, zhentarim, simulacrum, villain, stat-block, waterdeep, dragon-heist]
 | 4th | **1 of 3** | greater invisibility, polymorph, fire shield |
 | 5th | **1 of 3** | wall of force, Bigby's hand, scrying |
 
-**Four slots left out of eighteen.** It can still cast a lower-level spell with a higher slot, for example *counterspell* with its 5th-level slot. Any slots it used between 1492 and 1525 come off this total. That's Brodie's call.
+**Four slots left out of eighteen.** It can still cast a lower-level spell with a higher slot, for example *counterspell* with its 5th-level slot. Any slots it used between 1492 and 1505 come off this total. That's Brodie's call.
 
 ### My best guess at how it spent the other 14 slots in 1492
 **During the year, before the final fight:**
@@ -125,10 +125,10 @@ tags: [npc, zhentarim, simulacrum, villain, stat-block, waterdeep, dragon-heist]
 ---
 
 ## Open Questions (Brodie)
-- Where is it in 1525? Who is it obeying if the real Manshoon is gone?
-- Did it spend any of its last four slots between 1492 and 1525?
+- Where is it in 1505? Who is it obeying if the real Manshoon is gone?
+- Did it spend any of its last four slots between 1492 and 1505?
 - How many hit points does it have? Has anyone paid to repair it?
-- Why has the real Manshoon not cast *simulacrum* in 33 years? Doing so would destroy this one. See [[NPCs/Manshoon]].
+- Why has the real Manshoon not cast *simulacrum* in 13 years? Doing so would destroy this one. See [[NPCs/Manshoon]].
 
 ---
 

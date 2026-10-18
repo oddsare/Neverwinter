@@ -2,12 +2,12 @@
 type: lore
 world: Neverwinter
 campaign: Neverwinter
-description: "1525 DR - period of peace and magical resurgence"
+description: "1505 DR - period of peace and magical resurgence"
 category: Timeline
 ---
-# The Current Era - 1525 DR
+# The Current Era - 1505 DR
 
-**Year:** 1525 DR (Dale Reckoning)
+**Year:** 1505 DR (Dale Reckoning)
 **Era Status:** Period of relative peace and magical resurgence
 **Tension Level:** High - the world stands on the precipice of great change
 
@@ -15,7 +15,7 @@ category: Timeline
 
 ## Original Text (As Written)
 
-The current year in Faerûn is 1525 DR (Dale Reckoning). This places us in a period of relative peace, though remnants of the Spellplague still linger in isolated Plaguelands, affecting those who venture within. The realm has largely recovered from past calamities, with magic and divine power flowing more strongly than ever through the land.
+The current year in Faerûn is 1505 DR (Dale Reckoning). This places us in a period of relative peace, though remnants of the Spellplague still linger in isolated Plaguelands, affecting those who venture within. The realm has largely recovered from past calamities, with magic and divine power flowing more strongly than ever through the land.
 
 This resurgence of magical energy has led to unprecedented developments in arcane studies, with rumors circulating of powerful wizard enclaves on the verge of unlocking tenth-level spells. The gods, too, have become more active in mortal affairs, their influence more directly felt across Faerûn. There is a palpable tension in the air, as if the world stands on the precipice of another great change.
 

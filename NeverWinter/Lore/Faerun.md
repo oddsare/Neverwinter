@@ -7,7 +7,7 @@ category: Geography
 ---
 # Faerûn - The Forgotten Realms
 
-**Current Year:** [[Current Era|1525 DR]] (Dale Reckoning)
+**Current Year:** [[Current Era|1505 DR]] (Dale Reckoning)
 **Primary Setting:** Sword Coast North
 **Campaign Location:** [[Locations/Neverwinter/Neverwinter|Neverwinter]]
 
@@ -32,7 +32,7 @@ The origins of Faerûn are detailed in the [[Creation Myth|Records of Time]], wh
 
 ## The Current Age
 
-The year [[Current Era|1525 DR]] represents a unique time in Faerûn's history:
+The year [[Current Era|1505 DR]] represents a unique time in Faerûn's history:
 
 - **Recovery** from the Spellplague
 - **Resurgence** of magical power
@@ -76,7 +76,7 @@ The [[Current Era|current resurgence]] of magical power has led to rumors of **t
 
 Faerûn uses **Dale Reckoning (DR)** as its primary calendar system, counting years from the founding of the Dales civilization.
 
-**Current Year:** 1525 DR
+**Current Year:** 1505 DR
 
 ---
 

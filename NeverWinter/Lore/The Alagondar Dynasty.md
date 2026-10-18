@@ -135,9 +135,9 @@ According to historical records:
 
 **Official Position:** No Alagondars survived.
 
-**Rumors and Speculation (1525 DR):**
+**Rumors and Speculation (1505 DR):**
 
-However, over the 74 years since the eruption, various rumors have persisted:
+However, over the 54 years since the eruption, various rumors have persisted:
 
 ### The Hidden Heir Theory
 - Some believe a distant Alagondar relative survived
@@ -178,7 +178,7 @@ If a legitimate Alagondar heir exists:
 
 ---
 
-## The Alagondar Legacy (1525 DR)
+## The Alagondar Legacy (1505 DR)
 
 ### What They're Remembered For
 

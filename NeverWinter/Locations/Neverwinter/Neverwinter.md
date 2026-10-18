@@ -9,7 +9,7 @@ location_type: City
 
 **Also Known As:** The Jewel of the North
 **Location:** Sword Coast North, [[Lore/Faerun|Faerûn]]
-**Current Ruler:** [[NPCs/Renaer Neverember|Lord Renaer Neverember]] (1520 DR - Present)
+**Current Ruler:** [[NPCs/Renaer Neverember|Lord Renaer Neverember]] (1503 DR - Present)
 **Population:** ~20,000 (estimate)
 
 ---
@@ -44,7 +44,7 @@ Nestled along the **Sword Coast North**, Neverwinter stands as a beacon of resil
 
 ## Recent History
 
-Neverwinter has endured significant turmoil in recent decades. See [[Lore/Neverwinter History|Neverwinter - Recent History]] for the full story of the **"Dance of the Revolving Lords"** (1502-1520 DR) and the rise of [[NPCs/Renaer Neverember|Lord Renaer Neverember]].
+Neverwinter has endured significant turmoil in recent decades. See [[Lore/Neverwinter History|Neverwinter - Recent History]] for the full story of the **"Dance of the Revolving Lords"** (1493-1503 DR) and the rise of [[NPCs/Renaer Neverember|Lord Renaer Neverember]].
 
 ---
 
@@ -102,4 +102,4 @@ Neverwinter's ancient graveyard and burial ground, a sprawling necropolis filled
 **Related:**
 - [[Lore/Neverwinter History|Recent History]]
 - [[NPCs/Renaer Neverember|Lord Renaer Neverember]]
-- [[Lore/Current Era|The Current Era (1525 DR)]]
+- [[Lore/Current Era|The Current Era (1505 DR)]]
