@@ -2,6 +2,8 @@
 
 A chronological history of events relevant to the Neverwinter Campaign.
 
+*Year names and the month calendar: [[Lore/Calendar of Harptos]]*
+
 ---
 
 ## Ancient History
@@ -22,6 +24,7 @@ A devastating cataclysm struck Neverwinter, causing massive destruction. The cit
 
 - Protector's Enclave faced significant damage
 - Ongoing restoration under [[NPCs/Renaer Neverember|Lord Renaer Neverember]]
+- Lava that cooled in the riverbed and streets still holds Maegera's fire: the source of [[Lore/The Powder|the powder]]
 
 ---
 
@@ -36,6 +39,16 @@ The "Emperor of the Seas" begins his reign over Luskan, establishing supreme rul
 
 ---
 
+### 1498 DR - The Powder Discovered
+**Location:** [[Locations/Neverwinter/Neverwinter|Neverwinter]]
+
+The deposits of [[Lore/The Powder|the powder]] are found. It took until 1498 because of the clean-up of the city after the Cataclysm.
+
+- Next came figuring out what it was and refining it
+- Then making guns to be able to use it
+
+---
+
 ### ~1502 DR - Dagult Neverember Disappears
 **The Beginning of Chaos**
 
@@ -44,6 +57,7 @@ Lord Dagult Neverember, ruler of Neverwinter, mysteriously disappears. This even
 - Father of [[NPCs/Renaer Neverember|Renaer Neverember]]
 - Circumstances of disappearance remain mysterious
 - His absence creates a power vacuum
+- Secret, only the DM knows this: Dagult disappeared mostly because of the powder. Someone else wanted the powder for themselves. They used Dagult's shady dealings to remove him. Who that person is has not been decided yet.
 
 ---
 
@@ -62,6 +76,7 @@ Following Dagult Neverember's disappearance, Neverwinter endures the reign of si
   - Political turmoil and rapid succession of power
   - City reputation suffered
   - Trade and stability compromised
+- **Guns perfected** for use with [[Lore/The Powder|the powder]]
 
 ### Key Figures Affected:
 - **[[NPCs/Renaer Neverember|Renaer Neverember]]** - Son of disappeared ruler, estranged during this period
@@ -163,6 +178,9 @@ Ancient Past
 ~1495 DR
    └─ Emperor of the Seas begins reign in Luskan
 
+1498 DR
+   └─ The powder discovered during the city's clean-up
+
 ~1502 DR
    └─ Dagult Neverember disappears
    └─ Political chaos begins
@@ -170,6 +188,7 @@ Ancient Past
 1502-1520 DR (18 years)
    └─ "Dance of the Revolving Lords"
    └─ Six failed rulers
+   └─ Guns perfected for the powder
    └─ City Guard demoralized
    └─ Trade disrupted
 
@@ -226,4 +245,5 @@ Ancient Past
 - [[Campaign Home]]
 - [[Lore/Neverwinter History]]
 - [[Lore/Current Era]]
+- [[Lore/Calendar of Harptos]]
 - [[NPCs/Renaer Neverember]]

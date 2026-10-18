@@ -19,8 +19,15 @@
       "output_tokens": 0,
       "files": 54,
       "note": "incremental update \u2014 Neverneath + Dagult + Indrina + Alagondar canon + supplementals"
+    },
+    {
+      "date": "2026-10-18T02:47:54.268818+00:00",
+      "input_tokens": 340550,
+      "output_tokens": 0,
+      "files": 25,
+      "note": "incremental update (2026-10-17): 25 new/edited notes. input_tokens = total subagent tokens (input+output not split)."
     }
   ],
-  "total_input_tokens": 0,
+  "total_input_tokens": 340550,
   "total_output_tokens": 0
 }

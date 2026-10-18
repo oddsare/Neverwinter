@@ -1,426 +1,425 @@
-# Graph Report - F:\This_thing\Neverwinter_Obsidian\NeverWinter  (2026-05-15)
+# Graph Report - .  (2026-10-17)
 
 ## Corpus Check
-- Large corpus: 54 files · ~878,170 words. Semantic extraction will be expensive (many Claude tokens). Consider running on a subfolder, or use --no-semantic to run AST-only.
+- Large corpus: 74 files · ~883,924 words. Semantic extraction will be expensive (many Claude tokens). Consider running on a subfolder, or use --no-semantic to run AST-only.
 
 ## Summary
-- 543 nodes · 768 edges · 54 communities detected
-- Extraction: 87% EXTRACTED · 11% INFERRED · 1% AMBIGUOUS · INFERRED: 88 edges (avg confidence: 0.76)
-- Token cost: 0 input · 0 output
+- 879 nodes · 1583 edges · 50 communities detected
+- Extraction: 91% EXTRACTED · 7% INFERRED · 2% AMBIGUOUS · INFERRED: 115 edges (avg confidence: 0.74)
+- Token cost: 340,550 input · 0 output
 
 ## Community Hubs (Navigation)
-- [[_COMMUNITY_Wizards, Dragons & Magical Antagonists|Wizards, Dragons & Magical Antagonists]]
-- [[_COMMUNITY_Alagondar Dynasty & Castle Never|Alagondar Dynasty & Castle Never]]
-- [[_COMMUNITY_Claugiyliamatar's Empire & Schemes|Claugiyliamatar's Empire & Schemes]]
-- [[_COMMUNITY_Waterdeep, House Neverember & Far North|Waterdeep, House Neverember & Far North]]
-- [[_COMMUNITY_Neverwinter Surface & Shadowy Force|Neverwinter Surface & Shadowy Force]]
-- [[_COMMUNITY_Luskan & City Foundations|Luskan & City Foundations]]
-- [[_COMMUNITY_SharSelune & Northern Wilds|Shar/Selune & Northern Wilds]]
-- [[_COMMUNITY_Pantheon & Clergy|Pantheon & Clergy]]
-- [[_COMMUNITY_Sons of Alagondar & Ashmadai|Sons of Alagondar & Ashmadai]]
-- [[_COMMUNITY_Magic Items Shop (Arcane Acquisitions)|Magic Items Shop (Arcane Acquisitions)]]
-- [[_COMMUNITY_Helm's Hold & Religious Orders|Helm's Hold & Religious Orders]]
-- [[_COMMUNITY_Arcane Brotherhood & Magical Resurgence|Arcane Brotherhood & Magical Resurgence]]
-- [[_COMMUNITY_Cosmology & Abolethic Threat|Cosmology & Abolethic Threat]]
-- [[_COMMUNITY_Neverneath & Bloodline Mystery|Neverneath & Bloodline Mystery]]
-- [[_COMMUNITY_Ancient History, Eigersstor & Fey|Ancient History, Eigersstor & Fey]]
+- [[_COMMUNITY_Neverwinter Core & Renaer|Neverwinter Core & Renaer]]
+- [[_COMMUNITY_Dragons & Cult of the Dragon|Dragons & Cult of the Dragon]]
+- [[_COMMUNITY_Lords' Alliance & Northern Cities|Lords' Alliance & Northern Cities]]
+- [[_COMMUNITY_Waterdeep, Manshoon & Zhentarim|Waterdeep, Manshoon & Zhentarim]]
+- [[_COMMUNITY_Aboleths, Ashmadai & Helm's Hold|Aboleths, Ashmadai & Helm's Hold]]
+- [[_COMMUNITY_Pantheon, Alustriel & Spellplague|Pantheon, Alustriel & Spellplague]]
+- [[_COMMUNITY_Ancient Fey & Neverwinter Wood|Ancient Fey & Neverwinter Wood]]
+- [[_COMMUNITY_Silverymoon & Three-Faction Rule|Silverymoon & Three-Faction Rule]]
+- [[_COMMUNITY_Daggerford & the Succubus Plot|Daggerford & the Succubus Plot]]
+- [[_COMMUNITY_Dagult & the Alagondar Claim|Dagult & the Alagondar Claim]]
+- [[_COMMUNITY_Netheril, Shar & Gray Wolves|Netheril, Shar & Gray Wolves]]
+- [[_COMMUNITY_Baldur's Gate & Flaming Fist|Baldur's Gate & Flaming Fist]]
+- [[_COMMUNITY_Magic Item Pricing|Magic Item Pricing]]
+- [[_COMMUNITY_Thay & the Dead Rats|Thay & the Dead Rats]]
+- [[_COMMUNITY_Yartar & Kraken Society|Yartar & Kraken Society]]
+- [[_COMMUNITY_Neverneath & Castle Never Depths|Neverneath & Castle Never Depths]]
+- [[_COMMUNITY_Arcane Acquisitions Shop|Arcane Acquisitions Shop]]
 - [[_COMMUNITY_Beached Leviathan Crew|Beached Leviathan Crew]]
-- [[_COMMUNITY_Many-Starred Cloak & Seven Sisters|Many-Starred Cloak & Seven Sisters]]
-- [[_COMMUNITY_High Forest Wilds & Sentient Trees|High Forest Wilds & Sentient Trees]]
-- [[_COMMUNITY_Harpells & Lords' Alliance|Harpells & Lords' Alliance]]
+- [[_COMMUNITY_Longsaddle & the Harpells|Longsaddle & the Harpells]]
+- [[_COMMUNITY_Luskan's Five High Captains|Luskan's Five High Captains]]
+- [[_COMMUNITY_Cloak Tower & Many-Arrows|Cloak Tower & Many-Arrows]]
 - [[_COMMUNITY_Campaign Guide Index|Campaign Guide Index]]
-- [[_COMMUNITY_Northern Tribes & Citadels|Northern Tribes & Citadels]]
+- [[_COMMUNITY_Fires Below Cult|Fires Below Cult]]
 - [[_COMMUNITY_Seldra's Fake-Crown Plot (1479)|Seldra's Fake-Crown Plot (1479)]]
-- [[_COMMUNITY_Misc 22|Misc 22]]
-- [[_COMMUNITY_Misc 23|Misc 23]]
-- [[_COMMUNITY_Misc 24|Misc 24]]
-- [[_COMMUNITY_Misc 25|Misc 25]]
-- [[_COMMUNITY_Misc 26|Misc 26]]
-- [[_COMMUNITY_Misc 27|Misc 27]]
-- [[_COMMUNITY_Misc 28|Misc 28]]
-- [[_COMMUNITY_Misc 29|Misc 29]]
-- [[_COMMUNITY_Misc 30|Misc 30]]
-- [[_COMMUNITY_Misc 31|Misc 31]]
-- [[_COMMUNITY_Misc 32|Misc 32]]
-- [[_COMMUNITY_Misc 33|Misc 33]]
-- [[_COMMUNITY_Misc 34|Misc 34]]
-- [[_COMMUNITY_Misc 35|Misc 35]]
-- [[_COMMUNITY_Misc 36|Misc 36]]
-- [[_COMMUNITY_Misc 37|Misc 37]]
-- [[_COMMUNITY_Misc 38|Misc 38]]
-- [[_COMMUNITY_Misc 39|Misc 39]]
-- [[_COMMUNITY_Misc 40|Misc 40]]
-- [[_COMMUNITY_Misc 41|Misc 41]]
-- [[_COMMUNITY_Misc 42|Misc 42]]
-- [[_COMMUNITY_Misc 43|Misc 43]]
-- [[_COMMUNITY_Misc 44|Misc 44]]
-- [[_COMMUNITY_Misc 45|Misc 45]]
-- [[_COMMUNITY_Misc 46|Misc 46]]
-- [[_COMMUNITY_Misc 47|Misc 47]]
-- [[_COMMUNITY_Misc 48|Misc 48]]
-- [[_COMMUNITY_Misc 49|Misc 49]]
-- [[_COMMUNITY_Misc 50|Misc 50]]
-- [[_COMMUNITY_Misc 51|Misc 51]]
-- [[_COMMUNITY_Misc 52|Misc 52]]
-- [[_COMMUNITY_Misc 53|Misc 53]]
+- [[_COMMUNITY_Castle Never Atrium|Castle Never Atrium]]
+- [[_COMMUNITY_The Alagondar Crown|The Alagondar Crown]]
+- [[_COMMUNITY_Seal of Neverwinter|Seal of Neverwinter]]
+- [[_COMMUNITY_Chapter 3 Factions and Foes|Chapter 3: Factions and Foes]]
+- [[_COMMUNITY_Chapter 4 Gazetteer|Chapter 4: Gazetteer]]
+- [[_COMMUNITY_Old Owl Well|Old Owl Well]]
+- [[_COMMUNITY_Shade Enclave|Shade Enclave]]
+- [[_COMMUNITY_Surcross|Surcross]]
+- [[_COMMUNITY_Shadowfell Road|Shadowfell Road]]
+- [[_COMMUNITY_Dreamthief Doll|Dreamthief Doll]]
+- [[_COMMUNITY_Umberlee (Sea Goddess)|Umberlee (Sea Goddess)]]
+- [[_COMMUNITY_Lolth (Drow Goddess)|Lolth (Drow Goddess)]]
+- [[_COMMUNITY_Laduguer (Duergar God)|Laduguer (Duergar God)]]
+- [[_COMMUNITY_Nasher Takes Throne (1329 DR)|Nasher Takes Throne (1329 DR)]]
+- [[_COMMUNITY_The Wailing Death (1372 DR)|The Wailing Death (1372 DR)]]
+- [[_COMMUNITY_Dagult Neverember Born (1429 DR)|Dagult Neverember Born (1429 DR)]]
+- [[_COMMUNITY_The Chasm Sealed (1486 DR)|The Chasm Sealed (1486 DR)]]
+- [[_COMMUNITY_Dagult Neverember Disappears (1502 DR)|Dagult Neverember Disappears (1502 DR)]]
+- [[_COMMUNITY_Renaer Ascends (1520 DR)|Renaer Ascends (1520 DR)]]
+- [[_COMMUNITY_Castle Never Hall of Mirrors|Castle Never Hall of Mirrors]]
+- [[_COMMUNITY_Vault of the Nine|Vault of the Nine]]
+- [[_COMMUNITY_Lylorn (City)|Lylorn (City)]]
+- [[_COMMUNITY_Fisher's Float|Fisher's Float]]
+- [[_COMMUNITY_Grand Scribe Spivey Liethennson|Grand Scribe Spivey Liethennson]]
+- [[_COMMUNITY_Loremaster Atlavast|Loremaster Atlavast]]
+- [[_COMMUNITY_Alethea Brandarth|Alethea Brandarth]]
 
 ## God Nodes (most connected - your core abstractions)
-1. `Neverwinter` - 51 edges
-2. `Claugiyliamatar (Old Gnawbone)` - 32 edges
-3. `Castle Never` - 22 edges
-4. `Waterdeep` - 21 edges
-5. `Docks District` - 20 edges
-6. `Pantheon of Faerun` - 20 edges
-7. `Dagult Neverember` - 18 edges
-8. `The Moonstone Mask` - 17 edges
-9. `Ophala Cheldarstorn` - 16 edges
-10. `Chasm District` - 15 edges
+1. `Neverwinter` - 77 edges
+2. `Waterdeep` - 56 edges
+3. `Lords' Alliance` - 44 edges
+4. `Silverymoon` - 37 edges
+5. `Dagult Neverember` - 32 edges
+6. `Claugiyliamatar (Old Gnawbone)` - 32 edges
+7. `Neverwinter Campaign (Campaign Home)` - 30 edges
+8. `Mithral Hall` - 30 edges
+9. `Manshoon` - 30 edges
+10. `Renaer Neverember` - 29 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `Location Template` --semantically_similar_to--> `Neverwinter`  [INFERRED] [semantically similar]
-  _Templates/Location Template.md → Lore/Sword Coast Reference.md
+  _Templates/Location Template.md → Campaign Home.md
 - `Neverwinter City Walls` --part_of--> `Neverwinter`  [INFERRED]
-  Maps/NeverwinterMapLabels-scaled.png → Lore/Sword Coast Reference.md
+  Maps/NeverwinterMapLabels-scaled.png → Campaign Home.md
 - `Fisher's Feast` --located_in--> `Docks District`  [INFERRED]
-  Maps/NeverwinterMapLabels-scaled.png → Lore/Neverwinter Sub-Locations.md
+  Maps/NeverwinterMapLabels-scaled.png → Campaign Home.md
 - `Beached Leviathan` --located_in--> `Docks District`  [INFERRED]
-  Maps/NeverwinterMapLabels-scaled.png → Lore/Neverwinter Sub-Locations.md
-- `Fallen Tower` --located_in--> `Tower District`  [INFERRED]
-  Maps/NeverwinterMapLabels-scaled.png → Lore/Neverwinter Sub-Locations.md
+  Maps/NeverwinterMapLabels-scaled.png → Campaign Home.md
+- `Fallen Tower` --located_in--> `Tower/River District`  [INFERRED]
+  Maps/NeverwinterMapLabels-scaled.png → Campaign Home.md
 
 ## Hyperedges (group relationships)
-- **The Neverember Fraud Apparatus** — dagult_neverember, vers_never, mirtria_ember, indrina_lamsensettle, alethea_brandarth, house_neverember [EXTRACTED 0.95]
-- **The Neverneath Threats** — neverneath_ward, neverneath_gargoyles, twelve_animated_swords, neverneath_animated_statues, ruining_ghosts [EXTRACTED 0.95]
-- **Alagondar Regalia Bloodline Locks** — alagondar_crown, seal_of_neverwinter, inner_vault, bloodline_lock, sigil_of_neverwinter [EXTRACTED 0.90]
-- **The Tumult of 1479 DR** — seldra_false_crown_plot_1479dr, shard_cleansing_1479dr, vargas_ashmadai_disaster_1479dr, dagult_neverember, seldra_tylmarande, lady_jasmine, elden_vargas [EXTRACTED 0.95]
-- **Sons of Alagondar Split** — sons_of_alagondar, the_nashers, the_graycloaks_faction, madame_rosene, dagult_neverember [EXTRACTED 0.95]
-- **The Covenant Founding the School of Wizardry** — aganazzar, ilyykur, presper, grimwald, school_of_wizardry, the_covenant_wizards [EXTRACTED 1.00]
-- **The Beached Leviathan Crew** — captain_harrag, andrella, feng, tabnab, len_jes, umi, bobrik_highmantle, markul, ettain, korin [EXTRACTED 1.00]
-- **Halueth Never's Tomb Complex** — halueth_never, tomb_of_halueth_never, halueth_stone_slab, twelve_animated_swords, neverneath_ward [EXTRACTED 1.00]
-- **Dagult Disappearance Suspects** — dagult_neverember, the_neverneath, claugiyliamatar_old_gnawbone, arcane_brotherhood, iniarbor_the_lich, alagondar_crown [INFERRED 0.70]
+- **Lords' Alliance Member Cities (c. 1489 DR)** — waterdeep, neverwinter, silverymoon, baldurs_gate, mirabar, mithral_hall, yartar, daggerford, longsaddle, amphail, lords_alliance [EXTRACTED 1.00]
+- **Campaign Magic Item Pricing System** — sane_magical_prices, rhexx_magic_items, sane_magic_market, house_magic_item_prices, magic_item_price_comparison, rhexx_enchantments_reference [EXTRACTED 1.00]
+- **Waterdeep: Dragon Heist Outcome (1492 DR, winter branch)** — dragon_heist_party, renaer_neverember, manshoons_simulacrum, manshoon, dagults_hidden_hoard, vault_of_dragons, laeral_silverhand, waterdeep_dragon_heist [EXTRACTED 1.00]
+- **Three-Faction Mapping of the Shadowy Force Investigation** — three_faction_rule, city_guard, arcane_brotherhood, the_harpers, shadowy_force [EXTRACTED 1.00]
+- **Dragon Heist 1492 DR Outcome (Simulacrum Beaten, Hoard Returned)** — dragon_heist, manshoon, manshoons_simulacrum, renaer_neverember, dagults_hoard, vault_of_dragons, waterdeep [EXTRACTED 1.00]
+- **Neverwinter Succession Crisis (1502-1520 DR)** — dagult_disappearance, dance_of_the_revolving_lords, renaer_ascension, the_powder, city_guard [EXTRACTED 1.00]
 
 ## Communities
 
-### Community 0 - "Wizards, Dragons & Magical Antagonists"
-Cohesion: 0.05
-Nodes (52): Addemios Three-Dawn (Traitor), Adimond Kroskas (Cult of the Dragon), Aganazzar, Arklem Greeth, Ashmadai (Cult of Asmodeus), Asmodeus, Asmodeus Scepter (Ashmadai Relic), Bregan D'aerthe (+44 more)
+### Community 0 - "Neverwinter Core & Renaer"
+Cohesion: 0.04
+Nodes (128): The Arcane Brotherhood, Beached Leviathan, Blacklake District, Bluelake (formerly Blacklake), Bluelake District, Calendar of Harptos, Campaign Decisions, Neverwinter Campaign (Campaign Home) (+120 more)
 
-### Community 1 - "Alagondar Dynasty & Castle Never"
-Cohesion: 0.06
-Nodes (50): The Alagondar Dynasty, King Bann Alagondar, Castle Never, Arched Bridge / Skybridge, Central Spire (Tallest Tower), Curtain Wall / Battlements, Riverside Dock, Eastern Bridge / Causeway (+42 more)
+### Community 1 - "Dragons & Cult of the Dragon"
+Cohesion: 0.03
+Nodes (95): Air Spores (Woolsour's tool), Arauthator (Old White Death), Arveiaturace - The White Wyrm, Augathra the Mad, Balagos (red dragon rival), The House Brokengulf Con (Claugiyliamatar's playbook), Candlekeep, The Candlekeep Incident (+87 more)
 
-### Community 2 - "Claugiyliamatar's Empire & Schemes"
-Cohesion: 0.05
-Nodes (49): Air Spores (Woolsour's tool), Balagos (red dragon rival), The House Brokengulf Con (Claugiyliamatar's playbook), Claugiyliamatar (Old Gnawbone), Crooked Forest, Deeping Cave, Emerald Gemstone Golem (lair guardian), Endracritar (rival green dragon) (+41 more)
+### Community 2 - "Lords' Alliance & Northern Cities"
+Cohesion: 0.03
+Nodes (93): Agrathan Hardhammer, AideDD Faerûn Interactive Map, Amphail, Amphail the Just, Auril, Axe of Mirabar, Banak Brawnanvil, Barri Baram (+85 more)
 
-### Community 3 - "Waterdeep, House Neverember & Far North"
-Cohesion: 0.05
-Nodes (47): Amphail, Auril the Frostmaiden, Blackstaff Tower, Brandarth Hall (Waterdeep), Bryn Shander, Council of Sparkling Stones, Daggerford, Disappearance of Dagult Neverember (1502 DR) (+39 more)
+### Community 3 - "Waterdeep, Manshoon & Zhentarim"
+Cohesion: 0.04
+Nodes (78): Agorn Fuoco, Ahghairon the Mage, Amath Sercent, Arveiaturace's Portal Battle, Bane, Blackstaff Tower, Brandath Mausoleum, City Watch of Waterdeep (+70 more)
 
-### Community 4 - "Neverwinter Surface & Shadowy Force"
-Cohesion: 0.1
-Nodes (39): Beached Leviathan, Neverwinter Campaign Home, Campaign Hook / Introduction, Campaign Hook - The Shadowy Force, Neverwinter City Guard, The Dance of the Revolving Lords (1502-1520 DR), Docks District, Faction Template (+31 more)
+### Community 4 - "Aboleths, Ashmadai & Helm's Hold"
+Cohesion: 0.04
+Nodes (58): Abeir (Twin World), Abolethic Sovereignty, Addemios Three-Dawn (Traitor), Alisara Callum (Chief Speaker), Ashmadai (Cult of Asmodeus), Ashmadai Cultists, Asmodeus, Bregan D'aerthe (+50 more)
 
-### Community 5 - "Luskan & City Foundations"
+### Community 5 - "Pantheon, Alustriel & Spellplague"
 Cohesion: 0.07
-Nodes (36): Barri Baram, Beniago Kurth, Blacklake District, Records of Time - The Creation Myth, Dagmaer Suljack, Dale Reckoning (Calendar), Dead Rats Gang, Emperor of the Seas (Luskan ruler) (+28 more)
+Nodes (39): Alustriel Silverhand, Atlavast (Library Caretaker), King Bann Alagondar, Bhaal - Lord of Murder, Brother Anthus (Late Priest of Oghma), Brother Vartan (Priest of Oghma), Chauntea, Corellon - Protector of the Elves (+31 more)
 
-### Community 6 - "Shar/Selune & Northern Wilds"
+### Community 6 - "Ancient Fey & Neverwinter Wood"
+Cohesion: 0.05
+Nodes (38): Ancient History of Neverwinter, Crown Wars, Dire Wood, Dread Ring (Thay), Eigersstor (Original Name), Eigersstor Founded (87 DR), Evermeet, Favria (Ashmadai Leader) (+30 more)
+
+### Community 7 - "Silverymoon & Three-Faction Rule"
 Cohesion: 0.08
-Nodes (28): Agatha (Elven Banshee), Bey of Runlatha, Clariburnus Tanthul (Prince of Shade), Conyberry, Gray Wolf Uthgardt Tribe, Gray Wolf Uthgardt Tribe, Ioulaum (Archmage), Jurden Splitlip (Gray Wolf Werewolf) (+20 more)
+Nodes (37): Alustriel, Argent Legion, Bad Faction, Church of Cyric Outlawed (Silverymoon), Citadel Adbar, Council of the Marches, Dissolution of Luruar (1488 DR), Duchy of Riverfell (+29 more)
 
-### Community 7 - "Pantheon & Clergy"
-Cohesion: 0.09
-Nodes (27): Atlavast (Library Caretaker), Bane - Lord Bane, Bhaal - Lord of Murder, Brother Anthus (Late Priest of Oghma), Brother Vartan (Priest of Oghma), Chauntea, Corellon - Protector of the Elves, Cyric - Prince of Lies (+19 more)
-
-### Community 8 - "Sons of Alagondar & Ashmadai"
+### Community 8 - "Daggerford & the Succubus Plot"
 Cohesion: 0.08
-Nodes (25): Arlon Bladeshaper (Nashers Leader), Ashmadai Cultists, Bluelake (formerly Blacklake), Bluelake District, Cymril (Harper, Sons of Alagondar), The Driftwood Tavern, Elden Vargas, Graycloaks (Sons of Alagondar Faction) (+17 more)
+Nodes (33): Ambergul Blade, Baazka, Christos Tellum, Clan Ironeater, Council of Guilds (Daggerford), Cromm's Hold, Daggerford, Compulsory Militia Service (Daggerford) (+25 more)
 
-### Community 9 - "Magic Items Shop (Arcane Acquisitions)"
+### Community 9 - "Dagult & the Alagondar Claim"
+Cohesion: 0.07
+Nodes (32): The Alagondar Dynasty, Arlon Bladeshaper (Nashers Leader), Brandarth Hall (Waterdeep), Cymril, Disappearance of Dagult Neverember (1502 DR), Dagult Neverember, Dalakhar, Dunfield (Town Watch Captain) (+24 more)
+
+### Community 10 - "Netheril, Shar & Gray Wolves"
+Cohesion: 0.08
+Nodes (29): Agatha (Elven Banshee), Anauroch, Beorunna's Well, Bey of Runlatha, Black Lion Tribe (Uthgardt), Clariburnus Tanthul (Prince of Shade), Conyberry, Group Opposing the Gods' Overreach (+21 more)
+
+### Community 11 - "Baldur's Gate & Flaming Fist"
+Cohesion: 0.1
+Nodes (28): Abdel Adrian, Amn, Avernus, Baldur's Gate, Baldur's Gate 3, Baldur's Gate Code of Law, The Watch (Baldur's Gate), Council of Four (+20 more)
+
+### Community 12 - "Magic Item Pricing"
+Cohesion: 0.17
+Nodes (26): Abundant Magic (campaign decision), Amulet of Proof against Detection and Location, Arcane Acquisitions, Bag of Holding, Bind Spell (Rhexx enchantment), Boots of the Winterlands, Critical Role Campaign 4 (Araman), Defensive Enhancement (Rhexx enchantment) (+18 more)
+
+### Community 13 - "Thay & the Dead Rats"
 Cohesion: 0.09
-Nodes (23): Airy Leather Armor, Arcane Acquisitions (Shop), Babel Earring, Bartender's Boots, Deerstalker Hat, Defensive Cleaver, Enraged Dagger, Extra-Light Longbow (+15 more)
+Nodes (26): Adimond Kroskas (Cult of the Dragon), Aganazzar, Arklem Greeth, Asmodeus Scepter (Ashmadai Relic), Dead Rats Gang, Dread Ring, Drizzt Do'Urden, Grimwald (+18 more)
 
-### Community 10 - "Helm's Hold & Religious Orders"
+### Community 14 - "Yartar & Kraken Society"
 Cohesion: 0.12
-Nodes (20): Alisara Callum (Chief Speaker), Brother Satarin (Helm's Cathedral), Chartilifax (Green Dragon), Crypts of the Vigilant Eye, Doloran Bard (Helm's Hold Councilman), Dragon's Gauntlet (Town Hall), Dunfield (Town Watch Captain), Heartward Plaza (+12 more)
+Nodes (24): Alahar Khaumfros, Belleethe Kheldorna, Caladorn Cassalanter, Devastation Orb, Elemental Evil Crisis (1491 DR), Evermoor Way, Hand of Yartar, Happy Hall of Fortuitous Happenstance (+16 more)
 
-### Community 11 - "Arcane Brotherhood & Magical Resurgence"
-Cohesion: 0.14
-Nodes (18): Arcane Brotherhood, Cloak Tower, Cloak Tower Vanishing (1385 DR), The Current Era - Magical Resurgence, Fallen Tower, Halavar's Universal Pantograph, Llomnauvel 'Firehands' Oloadhin, Magical Academies of Tower District (+10 more)
-
-### Community 12 - "Cosmology & Abolethic Threat"
-Cohesion: 0.12
-Nodes (17): Abeir (Twin World), Abolethic Sovereignty, Earthmote (Floating Island), Kelemvor - God of the Dead, Mind Flayers of Gauntlgrym, Neverdeath District, Neverdeath Graveyard, Noble Section (Neverdeath) (+9 more)
-
-### Community 13 - "Neverneath & Bloodline Mystery"
+### Community 15 - "Neverneath & Castle Never Depths"
 Cohesion: 0.15
 Nodes (17): Alagondar Bloodline Lock, Crypt of the Neverwinter Nine, Halueth Never Settles Region (-10 DR), Halueth Never, Halueth Never's Stone Slab, Illusk (Ancient Ruin), Inner Vault (Castle Never), Maerin (Mage of Illusk) (+9 more)
 
-### Community 14 - "Ancient History, Eigersstor & Fey"
+### Community 16 - "Arcane Acquisitions Shop"
 Cohesion: 0.12
-Nodes (17): Ancient History of Neverwinter, Crown Wars, Dark Fey Enclave, Eigersstor (Original Name), Eigersstor Founded (87 DR), Evermeet, Feywild, Iliyanbruen (+9 more)
+Nodes (17): Airy Leather Armor, Arcane Acquisitions (Shop), Babel Earring, Bartender's Boots, Deerstalker Hat, Defensive Cleaver, Enraged Dagger, Extra-Light Longbow (+9 more)
 
-### Community 15 - "Beached Leviathan Crew"
+### Community 17 - "Beached Leviathan Crew"
 Cohesion: 0.13
 Nodes (16): Andrella (Mate), Bobrik Highmantle (Bosun), Captain Harrag, Ettain (Caulker), Feng (Bouncer), Harrag's Animated Sentient Shadow, Korin (Chanteyman), Len-jes (Harbormaster) (+8 more)
 
-### Community 16 - "Many-Starred Cloak & Seven Sisters"
+### Community 18 - "Longsaddle & the Harpells"
+Cohesion: 0.21
+Nodes (15): Ardanac Harpell, Bidderdoo Harpell, The Bidderdoos, Blue Sigil Mercenary Company, Catti-brie, Dowell Harpell, Harpell Family, Ivy Mansion (+7 more)
+
+### Community 19 - "Luskan's Five High Captains"
 Cohesion: 0.29
-Nodes (8): Alustriel Silverhand, League of the Silver Marches (Luruar), Many-Starred Cloak, The Seven Sisters, Silverymoon (Gem of the North), Sundabar, The Evermoors, War of the Silver Marches (1484 DR)
+Nodes (7): Emperor of the Seas, The Five High Captains, Ship Baram, Ship Kurth, Ship Rethnor, Ship Suljack, Ship Taerl
 
-### Community 17 - "High Forest Wilds & Sentient Trees"
-Cohesion: 0.33
-Nodes (6): Dire Wood, High Forest (Great Everwood), Lurkwood, Star Mounts, Turlang the Treant, Turlang's Wood
+### Community 20 - "Cloak Tower & Many-Arrows"
+Cohesion: 0.29
+Nodes (7): Cloak Tower Vanishing (1385 DR), Halavar's Universal Pantograph, Llomnauvel 'Firehands' Oloadhin, Many-Arrows Tribe, The Cloak Tower, The Fallen Tower (Tavern), Vagdru One-Ear
 
-### Community 18 - "Harpells & Lords' Alliance"
-Cohesion: 0.5
-Nodes (4): Harpell Family of Wizards, Longsaddle, Lords' Alliance, Yartar
-
-### Community 19 - "Campaign Guide Index"
+### Community 21 - "Campaign Guide Index"
 Cohesion: 0.67
 Nodes (3): Neverwinter Campaign Setting Guide, Chapter 1: Jewel of the North, Chapter 2: Character Options
 
-### Community 20 - "Northern Tribes & Citadels"
+### Community 22 - "Fires Below Cult"
 Cohesion: 0.67
-Nodes (3): Beorunna's Well, Black Lion Uthgardt Tribe, Citadel Felbarr
+Nodes (3): Gommoth (Fire Giant), Qalthus (Shadovar Mage), The Fires Below (Cult)
 
-### Community 21 - "Seldra's Fake-Crown Plot (1479)"
+### Community 23 - "Seldra's Fake-Crown Plot (1479)"
 Cohesion: 0.67
 Nodes (3): Replica Crown of Neverwinter, Seldra's False-Crown Plot (1479 DR), Seldra Tylmarande
 
-### Community 22 - "Misc 22"
-Cohesion: 1.0
-Nodes (2): AideDD Faerûn Interactive Map, Sword Coast Reference
-
-### Community 23 - "Misc 23"
-Cohesion: 1.0
-Nodes (2): Baldur's Gate, Grand Duke Ulder Ravengard
-
-### Community 24 - "Misc 24"
+### Community 24 - "Castle Never Atrium"
 Cohesion: 1.0
 Nodes (2): Atrium Myconids, Castle Never Atrium
 
-### Community 25 - "Misc 25"
+### Community 25 - "The Alagondar Crown"
 Cohesion: 1.0
 Nodes (1): The Alagondar Crown
 
-### Community 26 - "Misc 26"
+### Community 26 - "Seal of Neverwinter"
 Cohesion: 1.0
 Nodes (1): Seal of Neverwinter
 
-### Community 27 - "Misc 27"
+### Community 27 - "Chapter 3: Factions and Foes"
 Cohesion: 1.0
 Nodes (1): Chapter 3: Factions and Foes
 
-### Community 28 - "Misc 28"
+### Community 28 - "Chapter 4: Gazetteer"
 Cohesion: 1.0
 Nodes (1): Chapter 4: Gazetteer
 
-### Community 29 - "Misc 29"
+### Community 29 - "Old Owl Well"
 Cohesion: 1.0
 Nodes (1): Old Owl Well
 
-### Community 30 - "Misc 30"
+### Community 30 - "Shade Enclave"
 Cohesion: 1.0
 Nodes (1): Shade Enclave
 
-### Community 31 - "Misc 31"
+### Community 31 - "Surcross"
 Cohesion: 1.0
 Nodes (1): Surcross
 
-### Community 32 - "Misc 32"
+### Community 32 - "Shadowfell Road"
 Cohesion: 1.0
 Nodes (1): Shadowfell Road
 
-### Community 33 - "Misc 33"
+### Community 33 - "Dreamthief Doll"
 Cohesion: 1.0
 Nodes (1): Dreamthief Doll
 
-### Community 34 - "Misc 34"
+### Community 34 - "Umberlee (Sea Goddess)"
 Cohesion: 1.0
 Nodes (1): Umberlee (Sea Goddess)
 
-### Community 35 - "Misc 35"
+### Community 35 - "Lolth (Drow Goddess)"
 Cohesion: 1.0
 Nodes (1): Lolth (Drow Goddess)
 
-### Community 36 - "Misc 36"
+### Community 36 - "Laduguer (Duergar God)"
 Cohesion: 1.0
 Nodes (1): Laduguer (Duergar God)
 
-### Community 37 - "Misc 37"
-Cohesion: 1.0
-Nodes (1): Myrkul (Old God of Death)
-
-### Community 38 - "Misc 38"
-Cohesion: 1.0
-Nodes (1): Citadel Adbar
-
-### Community 39 - "Misc 39"
-Cohesion: 1.0
-Nodes (1): Triboar
-
-### Community 40 - "Misc 40"
-Cohesion: 1.0
-Nodes (1): Anauroch
-
-### Community 41 - "Misc 41"
+### Community 37 - "Nasher Takes Throne (1329 DR)"
 Cohesion: 1.0
 Nodes (1): Nasher Takes Throne (1329 DR)
 
-### Community 42 - "Misc 42"
+### Community 38 - "The Wailing Death (1372 DR)"
 Cohesion: 1.0
 Nodes (1): The Wailing Death (1372 DR)
 
-### Community 43 - "Misc 43"
+### Community 39 - "Dagult Neverember Born (1429 DR)"
 Cohesion: 1.0
 Nodes (1): Dagult Neverember Born (1429 DR)
 
-### Community 44 - "Misc 44"
+### Community 40 - "The Chasm Sealed (1486 DR)"
 Cohesion: 1.0
 Nodes (1): The Chasm Sealed (1486 DR)
 
-### Community 45 - "Misc 45"
+### Community 41 - "Dagult Neverember Disappears (1502 DR)"
 Cohesion: 1.0
 Nodes (1): Dagult Neverember Disappears (1502 DR)
 
-### Community 46 - "Misc 46"
+### Community 42 - "Renaer Ascends (1520 DR)"
 Cohesion: 1.0
 Nodes (1): Renaer Ascends (1520 DR)
 
-### Community 47 - "Misc 47"
+### Community 43 - "Castle Never Hall of Mirrors"
 Cohesion: 1.0
 Nodes (1): Castle Never Hall of Mirrors
 
-### Community 48 - "Misc 48"
+### Community 44 - "Vault of the Nine"
 Cohesion: 1.0
 Nodes (1): Vault of the Nine
 
-### Community 49 - "Misc 49"
+### Community 45 - "Lylorn (City)"
 Cohesion: 1.0
 Nodes (1): Lylorn (City)
 
-### Community 50 - "Misc 50"
+### Community 46 - "Fisher's Float"
 Cohesion: 1.0
 Nodes (1): Fisher's Float
 
-### Community 51 - "Misc 51"
+### Community 47 - "Grand Scribe Spivey Liethennson"
 Cohesion: 1.0
 Nodes (1): Grand Scribe Spivey Liethennson
 
-### Community 52 - "Misc 52"
+### Community 48 - "Loremaster Atlavast"
 Cohesion: 1.0
 Nodes (1): Loremaster Atlavast
 
-### Community 53 - "Misc 53"
+### Community 49 - "Alethea Brandarth"
 Cohesion: 1.0
 Nodes (1): Alethea Brandarth
 
 ## Ambiguous Edges - Review These
+- `Neverwinter` → `Zhentarim`  [AMBIGUOUS]
+  NPCs/Manshoon.md · relation: conceptually_related_to
 - `Luskan` → `The Shadowy Force`  [AMBIGUOUS]
   Locations/Luskan.md · relation: investigates
-- `Ophala Cheldarstorn` → `Mystra`  [AMBIGUOUS]
+- `Dagult Neverember` → `Zundaerazylym (The Laughing Wyrm)`  [AMBIGUOUS]
+  NPCs/Zundaerazylym - The Laughing Wyrm.md · relation: conceptually_related_to
+- `Madam Ophala Cheldarstorn` → `Mystra`  [AMBIGUOUS]
   NPCs/Ophala Cheldarstorn.md · relation: ally_of
-- `Claugiyliamatar (Old Gnawbone)` → `Shar - Mistress of the Night`  [AMBIGUOUS]
+- `Claugiyliamatar (Old Gnawbone)` → `Shar`  [AMBIGUOUS]
   NPCs/Selune and Shar - Sister Goddesses.md · relation: ally_of
-- `Emperor of the Seas (Luskan ruler)` → `Arcane Brotherhood`  [AMBIGUOUS]
+- `Emperor of the Seas` → `The Arcane Brotherhood`  [AMBIGUOUS]
   Factions/Arcane Brotherhood.md · relation: controls
-- `Arcane Brotherhood` → `The Shadowy Force`  [AMBIGUOUS]
-  Factions/Arcane Brotherhood.md · relation: investigates
-- `Sharran Cult / Cells` → `Permanent Human-Form Ritual (Claugiyliamatar's goal)`  [AMBIGUOUS]
+- `The Harpers` → `Zundaerazylym (The Laughing Wyrm)`  [AMBIGUOUS]
+  NPCs/Zundaerazylym - The Laughing Wyrm.md · relation: enemy_of
+- `The Arcane Brotherhood` → `The Shadowy Force`  [AMBIGUOUS]
+  Lore/3 Faction Rule.md · relation: conceptually_related_to
+- `The Arcane Brotherhood` → `Kurtulmak's Chosen`  [AMBIGUOUS]
+  Lore/3 Faction Rule.md · relation: allied_with
+- `Cult of the Dragon` → `Cult of Myrkul`  [AMBIGUOUS]
+  Lore/Adventure - Sleeping Dragon's Wake.md · relation: conceptually_related_to
+- `Sharran Cult` → `Permanent Human-Form Ritual (Claugiyliamatar's goal)`  [AMBIGUOUS]
   NPCs/Selune and Shar - Sister Goddesses.md · relation: ally_of
-- `Mount Hotenow Cataclysm (1451 DR)` → `Abolethic Sovereignty`  [AMBIGUOUS]
+- `Mere of Dead Men` → `Iniarv`  [AMBIGUOUS]
+  Lore/Sword Coast Reference.md · relation: located_in
+- `Cataclysm of 1451 DR (Mount Hotenow Eruption)` → `Abolethic Sovereignty`  [AMBIGUOUS]
   Lore/The Three Cataclysms.md · relation: caused
+- `Sword Mountains` → `Kurtulmak's Chosen`  [AMBIGUOUS]
+  Lore/Sword Coast Reference.md · relation: located_in
 - `Mordai Vell (Ashmadai Leader)` → `Rohini the Prophet`  [AMBIGUOUS]
   Lore/Campaign_Guide/Chapter_4_Gazetteer.md · relation: ally_of
 - `Vers Never (Alleged Bastard Son)` → `House Neverember`  [AMBIGUOUS]
   NPCs/Dagult Neverember.md · relation: allegedly_founded_by
+- `Amphail` → `House Ilzimmer`  [AMBIGUOUS]
+  Locations/Amphail.md · relation: rules
+- `Amphail` → `House Amcathra`  [AMBIGUOUS]
+  Locations/Amphail.md · relation: rules
+- `Amphail` → `House Roaringhorn`  [AMBIGUOUS]
+  Locations/Amphail.md · relation: rules
 - `The Cloak Tower` → `Halavar's Universal Pantograph`  [AMBIGUOUS]
   Lore/Neverwinter Sub-Locations.md · relation: located_in
+- `Neverwinter Mining House` → `The Powder`  [AMBIGUOUS]
+  Campaign Decisions.md · relation: conceptually_related_to
+- `The Powder` → `Manshoon`  [AMBIGUOUS]
+  NPCs/Manshoon.md · relation: conceptually_related_to
+- `The 1492 Dragon Heist Party` → `Manshoon's Ledger`  [AMBIGUOUS]
+  Campaign Decisions.md · relation: conceptually_related_to
+- `The 1492 Dragon Heist Party` → `Jelenn Urmbrusk`  [AMBIGUOUS]
+  Campaign Decisions.md · relation: allied_with
+- `Hand of Yartar` → `Kaidrod Palyr`  [AMBIGUOUS]
+  Locations/Yartar.md · relation: conceptually_related_to
+- `Selin Ramur` → `Elastul Raurym`  [AMBIGUOUS]
+  Locations/Mirabar.md · relation: conceptually_related_to
+- `Neverneath` → `Zundaerazylym (The Laughing Wyrm)`  [AMBIGUOUS]
+  NPCs/Zundaerazylym - The Laughing Wyrm.md · relation: conceptually_related_to
 
 ## Knowledge Gaps
-- **261 isolated node(s):** `Balagos (red dragon rival)`, `Endracritar (rival green dragon)`, `Smergadas (young red dragon)`, `Hyrix Greentree (wizard)`, `King Uth VII of Uthtower` (+256 more)
+- **336 isolated node(s):** `Balagos (red dragon rival)`, `Endracritar (rival green dragon)`, `Smergadas (young red dragon)`, `Hyrix Greentree (wizard)`, `King Uth VII of Uthtower` (+331 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **Thin community `Misc 22`** (2 nodes): `AideDD Faerûn Interactive Map`, `Sword Coast Reference`
+- **Thin community `Castle Never Atrium`** (2 nodes): `Atrium Myconids`, `Castle Never Atrium`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 23`** (2 nodes): `Baldur's Gate`, `Grand Duke Ulder Ravengard`
+- **Thin community `The Alagondar Crown`** (1 nodes): `The Alagondar Crown`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 24`** (2 nodes): `Atrium Myconids`, `Castle Never Atrium`
+- **Thin community `Seal of Neverwinter`** (1 nodes): `Seal of Neverwinter`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 25`** (1 nodes): `The Alagondar Crown`
+- **Thin community `Chapter 3: Factions and Foes`** (1 nodes): `Chapter 3: Factions and Foes`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 26`** (1 nodes): `Seal of Neverwinter`
+- **Thin community `Chapter 4: Gazetteer`** (1 nodes): `Chapter 4: Gazetteer`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 27`** (1 nodes): `Chapter 3: Factions and Foes`
+- **Thin community `Old Owl Well`** (1 nodes): `Old Owl Well`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 28`** (1 nodes): `Chapter 4: Gazetteer`
+- **Thin community `Shade Enclave`** (1 nodes): `Shade Enclave`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 29`** (1 nodes): `Old Owl Well`
+- **Thin community `Surcross`** (1 nodes): `Surcross`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 30`** (1 nodes): `Shade Enclave`
+- **Thin community `Shadowfell Road`** (1 nodes): `Shadowfell Road`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 31`** (1 nodes): `Surcross`
+- **Thin community `Dreamthief Doll`** (1 nodes): `Dreamthief Doll`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 32`** (1 nodes): `Shadowfell Road`
+- **Thin community `Umberlee (Sea Goddess)`** (1 nodes): `Umberlee (Sea Goddess)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 33`** (1 nodes): `Dreamthief Doll`
+- **Thin community `Lolth (Drow Goddess)`** (1 nodes): `Lolth (Drow Goddess)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 34`** (1 nodes): `Umberlee (Sea Goddess)`
+- **Thin community `Laduguer (Duergar God)`** (1 nodes): `Laduguer (Duergar God)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 35`** (1 nodes): `Lolth (Drow Goddess)`
+- **Thin community `Nasher Takes Throne (1329 DR)`** (1 nodes): `Nasher Takes Throne (1329 DR)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 36`** (1 nodes): `Laduguer (Duergar God)`
+- **Thin community `The Wailing Death (1372 DR)`** (1 nodes): `The Wailing Death (1372 DR)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 37`** (1 nodes): `Myrkul (Old God of Death)`
+- **Thin community `Dagult Neverember Born (1429 DR)`** (1 nodes): `Dagult Neverember Born (1429 DR)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 38`** (1 nodes): `Citadel Adbar`
+- **Thin community `The Chasm Sealed (1486 DR)`** (1 nodes): `The Chasm Sealed (1486 DR)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 39`** (1 nodes): `Triboar`
+- **Thin community `Dagult Neverember Disappears (1502 DR)`** (1 nodes): `Dagult Neverember Disappears (1502 DR)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 40`** (1 nodes): `Anauroch`
+- **Thin community `Renaer Ascends (1520 DR)`** (1 nodes): `Renaer Ascends (1520 DR)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 41`** (1 nodes): `Nasher Takes Throne (1329 DR)`
+- **Thin community `Castle Never Hall of Mirrors`** (1 nodes): `Castle Never Hall of Mirrors`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 42`** (1 nodes): `The Wailing Death (1372 DR)`
+- **Thin community `Vault of the Nine`** (1 nodes): `Vault of the Nine`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 43`** (1 nodes): `Dagult Neverember Born (1429 DR)`
+- **Thin community `Lylorn (City)`** (1 nodes): `Lylorn (City)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 44`** (1 nodes): `The Chasm Sealed (1486 DR)`
+- **Thin community `Fisher's Float`** (1 nodes): `Fisher's Float`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 45`** (1 nodes): `Dagult Neverember Disappears (1502 DR)`
+- **Thin community `Grand Scribe Spivey Liethennson`** (1 nodes): `Grand Scribe Spivey Liethennson`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 46`** (1 nodes): `Renaer Ascends (1520 DR)`
+- **Thin community `Loremaster Atlavast`** (1 nodes): `Loremaster Atlavast`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 47`** (1 nodes): `Castle Never Hall of Mirrors`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 48`** (1 nodes): `Vault of the Nine`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 49`** (1 nodes): `Lylorn (City)`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 50`** (1 nodes): `Fisher's Float`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 51`** (1 nodes): `Grand Scribe Spivey Liethennson`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 52`** (1 nodes): `Loremaster Atlavast`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Misc 53`** (1 nodes): `Alethea Brandarth`
+- **Thin community `Alethea Brandarth`** (1 nodes): `Alethea Brandarth`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
+- **What is the exact relationship between `Neverwinter` and `Zhentarim`?**
+  _Edge tagged AMBIGUOUS (relation: conceptually_related_to) - confidence is low._
 - **What is the exact relationship between `Luskan` and `The Shadowy Force`?**
   _Edge tagged AMBIGUOUS (relation: investigates) - confidence is low._
-- **What is the exact relationship between `Ophala Cheldarstorn` and `Mystra`?**
+- **What is the exact relationship between `Dagult Neverember` and `Zundaerazylym (The Laughing Wyrm)`?**
+  _Edge tagged AMBIGUOUS (relation: conceptually_related_to) - confidence is low._
+- **What is the exact relationship between `Madam Ophala Cheldarstorn` and `Mystra`?**
   _Edge tagged AMBIGUOUS (relation: ally_of) - confidence is low._
-- **What is the exact relationship between `Claugiyliamatar (Old Gnawbone)` and `Shar - Mistress of the Night`?**
+- **What is the exact relationship between `Claugiyliamatar (Old Gnawbone)` and `Shar`?**
   _Edge tagged AMBIGUOUS (relation: ally_of) - confidence is low._
-- **What is the exact relationship between `Emperor of the Seas (Luskan ruler)` and `Arcane Brotherhood`?**
+- **What is the exact relationship between `Emperor of the Seas` and `The Arcane Brotherhood`?**
   _Edge tagged AMBIGUOUS (relation: controls) - confidence is low._
-- **What is the exact relationship between `Arcane Brotherhood` and `The Shadowy Force`?**
-  _Edge tagged AMBIGUOUS (relation: investigates) - confidence is low._
-- **What is the exact relationship between `Sharran Cult / Cells` and `Permanent Human-Form Ritual (Claugiyliamatar's goal)`?**
-  _Edge tagged AMBIGUOUS (relation: ally_of) - confidence is low._
-- **What is the exact relationship between `Mount Hotenow Cataclysm (1451 DR)` and `Abolethic Sovereignty`?**
-  _Edge tagged AMBIGUOUS (relation: caused) - confidence is low._
+- **What is the exact relationship between `The Harpers` and `Zundaerazylym (The Laughing Wyrm)`?**
+  _Edge tagged AMBIGUOUS (relation: enemy_of) - confidence is low._

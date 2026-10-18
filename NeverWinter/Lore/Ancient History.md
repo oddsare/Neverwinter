@@ -23,6 +23,8 @@ Illefarn was vast, encompassing much of what is now:
 - The region around modern Neverwinter
 - Lands extending south toward present-day Waterdeep
 
+The elves originally called Neverwinter Wood **Llewyrrwood**.
+
 ### Culture
 - Advanced elven civilization
 - Centers of magic and learning
@@ -76,6 +78,7 @@ As Iliyanbruen weakened from orc invasions, a new settlement emerged:
 
 The site had natural advantages:
 - **Geothermal Heat:** Warmth from [[Locations/Neverwinter/Neverwinter|Mount Hotenow]] heated the Neverwinter River
+  - The ancient dwarves called the river **Nethlur** (*Dwarves Deep*, 1990).
 - **Natural Harbor:** Protected bay ideal for trade
 - **Warm Winters:** Gardens could bloom year-round
 - **Defensible Position:** Rivers and terrain provided natural barriers
