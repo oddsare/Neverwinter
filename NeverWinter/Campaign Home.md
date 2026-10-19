@@ -32,6 +32,7 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 - [[Lore/Creation Myth|Records of Time - The Creation Myth]]
 - [[Lore/Current Era|The Current Era (1505 DR)]]
 - [[Lore/Neverwinter History|Neverwinter - Recent History]]
+- [[Lore/Ed Greenwood - Secrets of Neverwinter|Ed Greenwood - Secrets of Neverwinter]]
 - [[Lore/Calendar of Harptos|Calendar of Harptos & Roll of Years (1492–1530 DR)]]
 - [[Lore/Pantheon of Faerun|Pantheon of Faerûn]]
 - [[Lore/Code Legal of Neverwinter|The Code Legal of Neverwinter]]
