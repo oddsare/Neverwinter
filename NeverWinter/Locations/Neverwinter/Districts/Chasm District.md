@@ -2,7 +2,7 @@
 type: location
 world: Neverwinter
 campaign: Neverwinter
-description: "Dangerous Spellplague-damaged area - unstable magic, treacherous terrain"
+description: "Dangerous area around the sealed Chasm - unstable magic, treacherous terrain"
 district: Chasm District
 location_type: District
 ---
@@ -28,20 +28,28 @@ After the Chasm was sealed, lawlessness found its way to the area. Citizen refer
 
 ## Overview
 
-The **Chasm District** is a dangerous, partially destroyed area of [[Locations/Neverwinter/Neverwinter|Neverwinter]] created by a catastrophic event known as the **Spellplague**.
+The **Chasm District** is a dangerous, partially destroyed area of [[Locations/Neverwinter/Neverwinter|Neverwinter]], torn open by a disaster whose cause people still argue about (see below).
 
-This district features unstable magical energies and treacherous terrain that most citizens avoid. It stands as a grim reminder of the destructive power of wild magic unleashed.
+This district features unstable magical energies and treacherous terrain that most citizens avoid. It stands as a grim reminder of the disaster.
 
 ---
 
-## The Spellplague's Scar
+## What caused the Chasm? (disputed)
 
-The Chasm District bears the most visible scars of the **Spellplague** that once ravaged [[Lore/Faerun|Faerûn]].
+**Brodie, 2026-10-19:** in the world, **different people say different things.** The DM truth is not decided.
 
-See [[Lore/Current Era|The Current Era]] for more about the Spellplague's lingering effects across the realm.
+What people in Neverwinter say:
+- **The Spellplague.** The blue fire of 1385 tore it open.
+- **The 1451 eruption.** Mount Hotenow and the primordial Maegera split the earth when the volcano blew. This is what the 4e *Neverwinter Campaign Setting* says.
+- **Devils, or Asmodeus himself.**
+- **The Abolethic Sovereignty**, the aboleths in the Underdark below.
+- **An evil wizard.**
+- **The gods**, angry at Neverwinter.
+
+The last four come from Ed Greenwood (see [[Lore/Ed Greenwood - Secrets of Neverwinter]]).
 
 ### The Chasm Itself
-A massive tear in the earth that splits this district, created when the Spellplague struck. The chasm features:
+A massive tear in the earth that splits this district. The chasm features:
 - **Unstable edges** prone to collapse
 - **Strange magical emanations** from within
 - **Unnatural sounds** echoing from the depths
@@ -78,7 +86,7 @@ Those who venture into the Chasm District face:
 Despite the dangers, some brave (or foolish) souls venture into the Chasm District:
 
 - **Treasure hunters** seeking valuables left in abandoned buildings
-- **Arcane researchers** studying the lingering Spellplague effects
+- **Arcane researchers** studying the Chasm's lingering magic
 - **Criminals** hiding from the [[Factions/City Guard|City Guard]]
 - **Cultists** performing dark rituals
 - **Adventurers** hunting monsters or investigating rumors
@@ -155,4 +163,6 @@ An old building patched together to make a bar for the Thieves Cove area.
 **Related:**
 - [[Locations/Neverwinter/Neverwinter|Neverwinter Overview]]
 - [[Lore/Current Era|The Current Era - Spellplague Legacy]]
+- [[Lore/The Three Cataclysms]]
+- [[Lore/Ed Greenwood - Secrets of Neverwinter]]
 - [[Lore/Creation Myth|The Weave and Mystryl]]

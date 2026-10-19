@@ -91,7 +91,7 @@ The Lords' Alliance is a partnership of free cities and towns. Waterdeep, Silver
 **The City of Skilled Hands, the Jewel of the North**
 
 - **Stands for:** craftsmanship and gardens, and rebuilding after the Mount Hotenow disaster. Volo called it the most cosmopolitan and civilized city in Faerûn. It is a member in good standing that **always sides with Waterdeep** and stands against [[Locations/Luskan|Luskan]] and the orcs.
-- **People:** humans and half-elves with a dwarf minority (c. 1372 DR). By c. 1479 DR there were also dragonborn, eladrin, tieflings, orcs and half-orcs. Population was 23,192 in 1372 DR (the vault estimates ~20,000). Faiths include Asmodeus, Bahamut, Helm, Kelemvor, Oghma, Selûne, Torm, Tyr and Waukeen.
+- **People:** humans and half-elves with a dwarf minority (c. 1372 DR). By c. 1479 DR there were also dragonborn, eladrin, tieflings, orcs and half-orcs. Population was 23,192 in 1372 DR (the vault sets ~50,000 for 1505 DR). Faiths include Asmodeus, Bahamut, Helm, Kelemvor, Oghma, Selûne, Torm, Tyr and Waukeen.
 - **Government:** a lordship. In earlier eras it was a monarchy under the Alagondars.
 - **Economy:** exports crafts (notably water clocks and coloured-glass lamps), fish, garden produce, timber and magical innovations. It imports crafters and mercenaries.
 - **Influence: High.** It was a major member historically, but its power was cut by the 1451 DR eruption.

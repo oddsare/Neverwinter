@@ -89,10 +89,17 @@ See [[NPCs/Dagult Neverember]].
 ## Pronunciation
 - **Mount Hotenow** sounds like "**hotel-now**", not "hot-enough".
 
-## Notes vs. the vault (Brodie decides)
-- Ed treats Dagult as **still active** in the video's present. In [[TIMELINE]], **Dagult vanishes in 1493 DR** and [[NPCs/Renaer Neverember|Renaer]] rules from 1503.
-- Ed describes the hidden kin in relation to **Dagult**. With Dagult gone in the vault's timeline, how they relate to **Renaer** isn't settled.
-- Ed says the Chasm was **patched and no trace remains** after the rebuild. The vault still has a [[Locations/Neverwinter/Districts/Chasm District|Chasm District]] described as dangerous and partly destroyed.
+## How this fits the vault
+**Decided (Brodie, 2026-10-19; see [[Campaign Decisions]] §7):**
+- **Dagult:** the vault uses **Ed's version** of his character (see [[NPCs/Dagult Neverember]]).
+- **The campaign takes place after the period Ed describes, so the vault's own lore stays.**
+  - Dagult has been trapped in the Neverneath since 1493 DR, and [[NPCs/Renaer Neverember|Renaer]] rules from 1503.
+  - The [[Locations/Neverwinter/Districts/Chasm District|Chasm District]] stays as Brodie wrote it: a wall, a seal that stories say weakens every year, Thieves Cove and Gutter's End. That's true even though Ed says no trace of the Chasm remains.
+- **Murthra and [[NPCs/Zundaerazylym - The Laughing Wyrm|Zundaerazylym]] are both in the campaign, as different characters.** The party may meet one, both or neither.
+- **What caused the Chasm is disputed in the world.** Different people say different things; the options are listed in the Chasm District note.
+
+**Still open:**
+- Ed describes the hidden kin in relation to **Dagult**. How they relate to **Renaer** isn't settled.
 - Unthra's age ("probably in her 30s") is given for the video's present, with no year stated.
 
 ## Related

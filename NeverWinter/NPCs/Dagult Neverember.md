@@ -75,13 +75,21 @@ tags: [npc, missing, alagondar-claimant, fraud, dagult, neverember-line, waterde
 
 ---
 
-## Character — clinging villain
+## Character — Ed Greenwood's version
 
-**Dagult is a bad person.** Not a desperate hero in over his head. Not a misunderstood reformer. A petty, vain, power-hungry man whose entire identity is wrapped around ruling Neverwinter. The city is all he has left — his father's name is dust, his Waterdeep position is gone, his wife is dead, his son hates him. Without the throne he is nothing, and he knows it. **He will do anything to keep it.**
+**Brodie, 2026-10-19:** use Ed Greenwood's take on Dagult (see [[Lore/Ed Greenwood - Secrets of Neverwinter]]). This replaces the earlier "clinging villain" write-up.
 
-His public framing — that he restored Neverwinter, that the rebuilding was for the people, that he was a benevolent Lord Protector — is **self-justification.** Citizens benefitted from the Neverwinter Reconstruction Fund as a side effect of his power-consolidation, not because he cared about them. He cared about being the man who restored Neverwinter and was therefore owed its throne.
+- **A successful politician, which in Ed's words means a very good con man.**
+- Part of why he's so good at it: **he believes in what he's doing, and he does good things.**
+- **The end justifies the means.** If you stand in his way, he may trample you.
+- He is **not** the kind of tyrant who slaughters, maims or tortures people to build a perfect society.
+- His real flaw: **he sees nothing wrong with getting rich by doing good.**
 
-His murders of rival Alagondar claimants are not the acts of a man trying to save a city. They are the acts of a man eliminating threats to his rule.
+How the facts in this note line up with that:
+- **Doing good:** the rebuilding of Neverwinter really happened, and he believed in it.
+- **Getting rich and powerful doing it:** he paid for the rebuilding with Waterdeep's money and kept the power it brought him.
+- **The con man:** the forged lineage, paid scribes and burned books.
+- **Trampling whoever is in the way:** removing rival Alagondar claimants.
 
 ## Disappearance — 1493 DR (LOCKED)
 
@@ -101,7 +109,7 @@ By 1493 DR, Dagult was a man cornered on three fronts:
 
 He did not. **He clung.**
 
-Dagult's plan: **claim the Lost Crown of Neverwinter** to silence every challenge at once. Crown-bearer rules unchallenged. The mythic legitimacy would override Indrina's evidence, neutralize the Sons of Alagondar, and deter the Luskan plot — and most importantly to him, it would *guarantee he kept the throne.* The Crown was about keeping power, not protecting citizens.
+Dagult's plan: **claim the Lost Crown of Neverwinter** to silence every challenge at once. Crown-bearer rules unchallenged. The mythic legitimacy would override Indrina's evidence, neutralize the Sons of Alagondar, and deter the Luskan plot — and it would *guarantee he kept the throne.*
 
 He **didn't believe the bloodline-lock legend was real.** He thought it was folk-myth woven by old loyalists to discourage usurpers — exactly the kind of story a fraudulent claimant of any era would dismiss. **A better man might have questioned his own claim when faced with that legend. Dagult did not.**
 
@@ -114,7 +122,7 @@ He entered the [[Locations/Neverwinter/The Neverneath|Neverneath]] alone (or wit
 - **Sane, mostly** — and still bitter. Twelve years alone with his thoughts has not made him a better man. He believes he is still owed the throne. He may even still believe his Alagondar claim is real — that the ward was *wrong about him*, not that he was a fraud.
 - **Still in possession of his memories** — Luskan plot intel, names of suppressed evidence, archive locations, the rivals he killed.
 
-**Recovering Dagult is a campaign-defining choice, not a triumph.** He is the most valuable witness in Neverwinter. He is also a vindictive old usurper who will immediately attempt to reclaim his throne the moment he is free. The party will have to decide what to do with him:
+**Recovering Dagult is a campaign-defining choice, not a triumph.** He is the most valuable witness in Neverwinter. He is also an old con man who will try to reclaim his throne the moment he is free. The party will have to decide what to do with him:
 
 - Turn him over to [[NPCs/Renaer Neverember|Renaer]] (who doesn't want him back)
 - Hand him to Waterdeep for the embezzlement trial that was decades overdue
@@ -128,7 +136,7 @@ He may know:
 - The identities of rival Alagondar heirs he was hunting (some may still be alive)
 - What the ward told him about the bloodline test
 
-**He will share none of it freely.** He'll bargain. He'll lie. He'll demand restoration to power as the price. He is not a sympathetic prisoner — he is a captive villain.
+**He will share none of it freely.** He'll bargain. He'll lie. He'll demand restoration to power as the price. He is a con man to the end.
 
 ---
 

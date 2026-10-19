@@ -73,3 +73,26 @@ Recorded 2026-10-18.
 - **1503–1505:** Renaer's rule is **stable for 2 years**, then the story picks up. Not much time to get everything done, and he faces **pushback from influential people in the city and in the neighboring places the city protects**.
 
 See [[TIMELINE]], [[Lore/Neverwinter History]].
+
+## 7. Ed Greenwood's Neverwinter lore
+Recorded 2026-10-19. Source: [[Lore/Ed Greenwood - Secrets of Neverwinter]].
+- **Dagult uses Ed's version.** He's a con man who believes in what he does and does good things. The end justifies the means, so he may trample anyone in his way. His flaw is that he sees nothing wrong with getting rich by doing good. This replaces the "clinging villain" write-up.
+- **The campaign takes place after the period Ed describes, so the vault's own lore stays.** Dagult has been trapped in the Neverneath since 1493.
+- **The Chasm District stays as Brodie wrote it, not Ed's version.** It has a wall, a magical seal that stories say weakens every year, Thieves Cove and Gutter's End. Ed says no trace of the Chasm remains; the vault doesn't follow that.
+- **Both disguised dragons are in the campaign, as different characters:** [[NPCs/Zundaerazylym - The Laughing Wyrm|Zundaerazylym]] (steel dragon, seamstress) and Ed's Murthra "Manytongues" Alaerin (brass dragon, House of Tongues). The party may meet one, both or neither.
+- **What caused the Chasm is disputed in the world.** Different people say different things: the Spellplague, the 1451 eruption, devils or Asmodeus, the Abolethic Sovereignty, an evil wizard, or angry gods. The DM truth is not decided.
+
+See [[NPCs/Dagult Neverember]], [[Locations/Neverwinter/Districts/Chasm District]].
+
+## 8. Population of Neverwinter
+Recorded 2026-10-19.
+- **Neverwinter has about 50,000 people in 1505 DR**, roughly twice its old size. That puts it in the range of Mulmaster, Suzail and Saerloon.
+- **How it got there:**
+  - About 23,000 lived there before 1451.
+  - About half died in the eruption (~11,500 survivors). Fewer than 5,000 stayed in the ruins; the rest fled.
+  - Refugees started coming back after Dagult arrived in 1467.
+- **Who lives there now:** about **15,000** come from pre-1451 families (survivors and their descendants). About **35,000** are newcomers or their children, so roughly 1 in 3 people is "old Neverwinter."
+- That number fits inside the walls on the city map at a busy-city density.
+- Still to decide (Brodie): **why so many newcomers came.**
+
+See [[Locations/Neverwinter/Neverwinter]], [[Lore/The Three Cataclysms]], [[TIMELINE]].

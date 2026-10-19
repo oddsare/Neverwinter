@@ -29,7 +29,7 @@ This places [[Faerun|Faerûn]] in a period of **relative peace**, though the sca
 
 Remnants of the **Spellplague** still linger in isolated **Plaguelands**, affecting those who venture within. However, the realm has largely recovered from past calamities.
 
-The [[Locations/Neverwinter/Districts/Chasm District|Chasm District]] in [[Locations/Neverwinter/Neverwinter|Neverwinter]] stands as a stark reminder of the Spellplague's destructive power.
+The [[Locations/Neverwinter/Districts/Chasm District|Chasm District]] in [[Locations/Neverwinter/Neverwinter|Neverwinter]] is a stark reminder of past disasters. Some people in Neverwinter blame the Spellplague for the Chasm; others blame the 1451 eruption, devils, aboleths, an evil wizard or the gods.
 
 ---
 

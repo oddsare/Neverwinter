@@ -123,7 +123,7 @@ The period between the Spellplague (1385 DR) and the eruption (1451 DR) saw:
 
 ### The Great Rupture
 
-The eruption created the **Chasm** - a massive tear in the earth that split the city:
+After the eruption, the **Chasm** split the city: a massive tear in the earth. Many blame the eruption itself, but people still argue about the cause (see [[Locations/Neverwinter/Districts/Chasm District|Chasm District]]).
 - Hundreds of feet deep
 - Unstable magic at its heart
 - Reality seems warped near its edges
@@ -142,7 +142,7 @@ The eruption killed the ruling [[NPCs/Renaer Neverember|Alagondar family]]:
 
 ### The Refugee Crisis
 
-- Population dropped from 23,000 to fewer than 5,000
+- Population dropped from 23,000 to fewer than 5,000. About half died in the eruption, and most survivors fled
 - Survivors fled to:
   - Port Llast
   - Waterdeep
@@ -207,7 +207,7 @@ These three disasters fundamentally changed Neverwinter:
 - Reputation: Unshakeable peace and prosperity
 
 ### After the Cataclysms (1451-1505 DR)
-- Population: Reduced, slowly recovering
+- Population: fell below 5,000, then grew to ~50,000 by 1505 as refugees returned and newcomers arrived
 - Status: Struggling to rebuild
 - Economy: Dependent on external support
 - Reputation: Resilient but scarred
@@ -281,7 +281,7 @@ As of 1505 DR:
 - The Chasm still splits the city
 - Reconstruction continues under [[NPCs/Renaer Neverember|Lord Renaer Neverember]]
 - Some areas remain abandoned and dangerous
-- The city has ~20,000 inhabitants (approaching pre-eruption numbers)
+- The city has ~50,000 inhabitants, about twice its pre-eruption size: roughly 15,000 from pre-1451 families and 35,000 newcomers
 - Mount Hotenow is closely watched for signs of activity
 
 ---

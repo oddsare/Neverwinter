@@ -167,7 +167,7 @@ These can't be bought in Neverwinter. They come only as treasure or plot:
 
 ## Neverwinter house rule (suggested)
 
-Neverwinter (~20,000 people) counts as a city, so by Rhexx's rule almost anything is for sale. For an intrigue campaign, consider:
+Neverwinter (~50,000 people) counts as a city, so by Rhexx's rule almost anything is for sale. For an intrigue campaign, consider:
 - **Common and uncommon:** shops all over the city.
 - **Rare and above:** only from **specific sellers**, which makes each purchase a hook.
 

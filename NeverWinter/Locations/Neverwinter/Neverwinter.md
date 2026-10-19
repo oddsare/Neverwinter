@@ -10,7 +10,7 @@ location_type: City
 **Also Known As:** The Jewel of the North
 **Location:** Sword Coast North, [[Lore/Faerun|Faerûn]]
 **Current Ruler:** [[NPCs/Renaer Neverember|Lord Renaer Neverember]] (1503 DR - Present)
-**Population:** ~20,000 (estimate)
+**Population:** ~50,000 (1505 DR), about twice its pre-eruption size
 
 ---
 
@@ -28,7 +28,7 @@ The city is broken up into 6 districts
 
 **Bluelake District** - The Bluelake District is an upscale residential area centered around a beautiful lake, known for its high-end shops, elegant restaurants, and the homes of Neverwinter's wealthy citizens
 
-**The Chasm District** - The Chasm District is a dangerous, partially destroyed area of the city created by a catastrophic event known as the Spellplague, featuring unstable magical energies and treacherous terrain that most citizens avoid.
+**The Chasm District** - The Chasm District is a dangerous, partially destroyed area of the city around the sealed Chasm, whose cause people still argue about, featuring unstable magical energies and treacherous terrain that most citizens avoid.
 
 **Neverdeath District** - The Neverdeath District is Neverwinter's ancient graveyard and burial ground, a sprawling necropolis filled with centuries-old tombs, mausoleums, and memorials to the city's departed.
 
@@ -67,7 +67,7 @@ A historic area featuring ancient architecture, magical academies, and noble est
 An upscale residential area centered around a beautiful lake, known for high-end shops, elegant restaurants, and the homes of Neverwinter's wealthy citizens.
 
 ### 5. [[Districts/Chasm District|The Chasm District]]
-A dangerous, partially destroyed area created by the catastrophic **Spellplague**. Features unstable magical energies and treacherous terrain that most citizens avoid.
+A dangerous, partially destroyed area around the sealed **Chasm**. What caused the Chasm is disputed (see the district note). Features unstable magical energies and treacherous terrain that most citizens avoid.
 
 ### 6. [[Districts/Neverdeath District|Neverdeath District]]
 Neverwinter's ancient graveyard and burial ground, a sprawling necropolis filled with centuries-old tombs, mausoleums, and memorials to the city's departed.

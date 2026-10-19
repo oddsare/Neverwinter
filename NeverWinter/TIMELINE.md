@@ -136,7 +136,7 @@ The turmoil finally subsides with the rise of Dagult's estranged son, [[NPCs/Ren
 ### Current Situation in Neverwinter:
 - **Ruler:** [[NPCs/Renaer Neverember|Lord Renaer Neverember]] (2 years in power, age 44)
 - **Political Status:** Stable, recovering from a decade of chaos
-- **Population:** ~20,000 (estimate)
+- **Population:** ~50,000, about twice its pre-eruption size
 - **Magical Climate:** Resurgence of magic following Spellplague recovery
 - **Tension Level:** Moderate - new threats emerging
 
