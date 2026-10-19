@@ -46,6 +46,7 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 - [[Factions/City Guard|Neverwinter City Guard]]
 - [[Factions/The Harpers|The Harpers]]
 - [[Factions/Arcane Brotherhood|The Arcane Brotherhood]]
+- [[Factions/House Cyl|House Cyl]]
 
 ### Quests
 - [[Quests/The Shadowy Force|The Shadowy Force]]
