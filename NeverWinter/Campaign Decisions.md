@@ -25,6 +25,10 @@ See [[Lore/The Powder]].
 - **Shar and Selûne are a major part** of the campaign.
 - **A group that thinks the gods are overstepping.** It uses Shar's tactics openly and blames her for what it does.
 - Still to decide (Brodie): the group's goals, how far along they are, what people have noticed, where the story goes.
+- **Shar's arc in the [[Lore/3 Faction Rule|Three-Faction Rule]]** (Brodie, 2026-10-19): **she starts as the Ugly, then turns Bad.**
+  - **Now, as the Ugly:** she's the neutral swing side who can **help or hurt the heroes' party**. She's unpredictable ("crazy") and may back either side. She is still evil; she just isn't the enemy yet.
+  - **Later:** once the **first evil threat is defeated**, she **turns Bad**.
+- **There is a fane of Shar in the Chasm** (Brodie, 2026-10-19): a place where Shar has strengthened the Shadow Weave (Ed Greenwood's term; see [[Lore/Ed Greenwood - Fanes of Shar]]). What it's like is not decided.
 
 Ties to [[Lore/Current Era]]: the gods have become more active in mortal affairs.
 

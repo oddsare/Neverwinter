@@ -9,6 +9,8 @@ tags: [deity, locked, selune, shar, parallel-thread, intrigue]
 
 > **STATUS (updated 2026-05-15):** LOCKED as a parallel thread per user's "breathing world" design. The sisters' cosmic conflict expresses through their **clergies in Neverwinter** — Sharran cells (likely tied to the Shadowy Force on moonless nights) versus Selûnite presence (Moonstone Mask, Ophala Cheldarstorn). The goddesses themselves are weather, not antagonists; the clergy are the playable faces.
 
+> **Decided (Brodie, 2026-10-19):** in the Three-Faction Rule, Shar's side **starts as the Ugly** (the swing side that can help or hurt the heroes) and **turns Bad** once the first evil threat is defeated. There is also a **fane of Shar in the Chasm**; what it's like isn't decided yet. See [[Campaign Decisions]] §2.
+
 ## Canon snapshot (Forgotten Realms)
 
 - **Selûne** — goddess of the moon, light in darkness, navigators, good lycanthropes, mystery, the silvered path. Lawful good / chaotic good aligned faithful.
@@ -72,3 +74,8 @@ This is the **first candidate** that *unifies* multiple floating threads rather 
 
 - **Do not integrate yet.** Council this when the user wants to lock in.
 - Recommend councilling **Selûne/Shar alongside the dragon-glut question** — because adopting Shar likely simplifies the dragon question (we pick Claugiyliamatar, drop the others, and Shar becomes the cosmic spine the dragon serves).
+
+## Related
+
+- [[Lore/Ed Greenwood - Fanes of Shar]]: canon fanes of Shar (Ed Greenwood)
+- [[Lore/Ed Greenwood - Seven Stars of Selune|Ed Greenwood - Seven Stars of Selûne]]: the seven holy stars of Selûne (Ed Greenwood)

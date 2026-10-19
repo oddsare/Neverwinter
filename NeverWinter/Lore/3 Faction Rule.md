@@ -93,7 +93,7 @@ The vault already has three named factions in `Factions/`. They map cleanly:
 
 - **Claugiyliamatar** and her son's Cult of the Dragon (tier-3 capstone).
 - **The Two Black Brothers** in the Mere — ugly outside faction with their own agenda.
-- **The Sharran cult** — hidden bad uber-faction with fingers in multiple subs.
+- **The Sharran cult** — hidden uber-faction with fingers in multiple subs. **Starts as the Ugly** (the swing side that can help or hurt the heroes), then **turns Bad** once the first evil threat is defeated (Brodie, 2026-10-19; see [[Campaign Decisions]] §2).
 - **Kurtulmak's Chosen** — an entirely parallel three-faction system underground that runs on its own clock.
 
 ## DM Notes

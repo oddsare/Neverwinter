@@ -156,7 +156,7 @@ An old building patched together to make a bar for the Thieves Cove area.
 
 ## DM Notes
 
-*Add your private DM notes about this district here*
+- **A fane of Shar lies in the Chasm** (Brodie, 2026-10-19): a place where Shar has strengthened the Shadow Weave. What it's like is not decided. This doesn't decide what caused the Chasm. See [[Campaign Decisions]] §2 and [[Lore/Ed Greenwood - Fanes of Shar]].
 
 ---
 
