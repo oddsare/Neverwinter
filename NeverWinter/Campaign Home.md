@@ -36,6 +36,7 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 - [[Lore/Ed Greenwood - Fanes of Shar|Ed Greenwood - Fanes of Shar]]
 - [[Lore/Ed Greenwood - Seven Stars of Selune|Ed Greenwood - Seven Stars of Selûne]]
 - [[Lore/Ed Greenwood - Szass Tam's Schemes|Ed Greenwood - Szass Tam's Schemes]]
+- [[Lore/Ed Greenwood - Netheril|Ed Greenwood - Netheril]]
 - [[Lore/Calendar of Harptos|Calendar of Harptos & Roll of Years (1492–1530 DR)]]
 - [[Lore/Pantheon of Faerun|Pantheon of Faerûn]]
 - [[Lore/Code Legal of Neverwinter|The Code Legal of Neverwinter]]
