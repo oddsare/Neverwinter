@@ -78,6 +78,7 @@ tags: [lore, canon, ed-greenwood, lolth, drow, underdark, draegloth, villain, tr
 - **The goal:** make the World Above **fear and worship Lolth properly**, and give the Dark Queen her promised kingdom, with Lolth's **yochlol spies** watching everywhere in it.
 
 ## How this fits the vault (Brodie decides)
+- **Maybe (Brodie, 2026-10-19):** the Dark Queen **might be used** in the campaign; not decided. See [[Campaign Decisions]] §10.
 - **The Sword Coast is the target region.** Her surface stage aims at wild ruins and caverns near the **Sword Coast and Heartlands trade routes**. The Neverwinter region has plenty of those: Neverwinter Wood, the Crags, and Gauntlgrym, where the 4e Campaign Guide already has **drow plotting** (see [[Lore/Campaign_Guide/Chapter_3_Factions_and_Foes]]).
 - **Timing:** this is Ed's late-1490s present. **Whether her surface forays have begun by 1505**, and whether they reach Neverwinter, is open.
 - **Skullport** is where the rumor comes from, and it's Laeral's secret haunt as "Irusyl Eraneth" (see [[NPCs/Laeral Silverhand]]).

@@ -127,3 +127,11 @@ Recorded 2026-10-19. Source: [[Lore/Ed Greenwood - Thay Today]].
   - How does this reach Neverwinter, and the party?
 
 See [[Lore/Ed Greenwood - Thay Today]], [[Lore/Ed Greenwood - Szass Tam's Schemes]].
+
+## 10. Lolth's Dark Queen (maybe)
+Recorded 2026-10-19. Source: [[Lore/Ed Greenwood - Lolth's Dark Queen]].
+- **Maybe (Brodie, 2026-10-19):** Lolth's Dark Queen, **Ryelahavdra Faentalach**, and her push toward the surface **might be used** in the campaign. Not decided.
+- In Ed's late-1490s present, her plan is to set up surface bases in **wild ruins and caverns near the Sword Coast and Heartlands trade routes**, then take weakened towns for a surface kingdom.
+- Still to decide (Brodie): whether to use her at all; if so, how far her plan has got by 1505, and whether it reaches the Neverwinter region.
+
+See [[Lore/Ed Greenwood - Lolth's Dark Queen]].
