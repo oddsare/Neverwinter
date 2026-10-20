@@ -143,6 +143,7 @@ tags: [lore, canon, ed-greenwood, thay, szass-tam, red-wizards, bane, cormyr, tr
   - **one Szass Tam's only blood heir**.
 
 ## How this fits the vault (Brodie decides)
+- **Decided (Brodie, 2026-10-19): the campaign uses the hidden-heirs plot.** Brantarra's two sons, the bastard heir to Cormyr and Szass Tam's only blood heir, are in the campaign. The open questions (where they are, how Azoun's son is still alive at about 152, who's hunting them, how it reaches Neverwinter) are in [[Campaign Decisions]] §9.
 - **Thay in Neverwinter, 1505:** by Ed's account Thay works abroad through **spies**, its trade enclaves are **abandoned**, and Tam's attention is on the east. That supports the idea that Thay's presence in Neverwinter would be **spies, not armies** (see [[Lore/Ed Greenwood - Szass Tam's Schemes]]). The vault's earlier Thayan enclave in Neverwinter (after the Shadow War) would be long abandoned.
 - **Slavery:** the handoff's Thay summary mentions a **huge slave population** (wiki, c. 1479). Ed says that by about 1500 **most slaves have been replaced by undead** (see [[_Neverwinter Handoff]]).
 - **Hidden heirs** are a theme the vault already uses: the **lost Alagondar heirs** Dagult hunted (see [[Lore/The Lost Crown and Hidden Alagondar Vaults]], [[NPCs/Dagult Neverember]]).

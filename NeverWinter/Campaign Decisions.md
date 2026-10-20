@@ -101,3 +101,29 @@ Recorded 2026-10-19.
 - Still to decide (Brodie): **why so many newcomers came.**
 
 See [[Locations/Neverwinter/Neverwinter]], [[Lore/The Three Cataclysms]], [[TIMELINE]].
+
+## 9. Szass Tam's hidden heirs (Brantarra's sons)
+Recorded 2026-10-19. Source: [[Lore/Ed Greenwood - Thay Today]].
+- **The campaign uses Ed Greenwood's hidden-heirs plot.**
+  - **Brantarra**, the Red Wizardess of Murbant, slept with **King Azoun IV of Cormyr** in 1352 DR, as part of a Thayan plot to put Azoun's son on the Dragon Throne under her mind control, and hers under Szass Tam's.
+  - She fled Thay. **Several Chosen of Mystra** helped her hide herself and her sons from **Szass Tam** and from Cormyr's royal magician **Vangerdahast**.
+  - She has **two sons**, now grown men living under other names and guises:
+    - **a bastard heir to Cormyr's Dragon Throne** (Azoun IV's son);
+    - **Szass Tam's only blood heir.** Tam destroyed every other member of his family and doesn't know this son exists.
+- **Age problem to solve:** **Azoun's son** was conceived in 1352 DR, so he was born **about 1353** and is **about 152 in 1505**. **Szass Tam's son's birth year isn't given**, so he could be younger. Ed calls them both "adult men" in his present but doesn't say how Azoun's son has lived so long.
+- **Maybe (Brodie, 2026-10-19): one of the sons could be a lich.** That would explain the age. Which son is not decided. Points to weigh:
+  - A lich is a powerful spellcaster who chose undeath by a dark ritual, with a soul-holding phylactery (in 5e, fed with souls).
+  - The Chosen of Mystra who protected him might turn against him if he became one.
+  - A non-evil version exists in the Realms: an archlich (the elven form is a baelnorn).
+  - Szass Tam's son as a lich would mirror his father. Azoun's son as a lich would be an undead claimant to Cormyr's throne.
+- **Idea, probably not (Brodie, 2026-10-19): the claimant could be Azoun's son's son** instead of the son himself.
+  - **For:** he's Azoun IV's grandson (Queen Raedra is a great-great-granddaughter), has the Obarskyr blood the law requires, could be a normal age (no 150-year problem), and might not know who he is.
+  - **Against:** the line is still illegitimate, it began as a Thayan plot, and Cormyr already has a working queen. Unseating Raedra would risk civil war.
+- Still to decide (Brodie):
+  - Where are the two sons in 1505, under what names, and do they know who their fathers are?
+  - How has Azoun's son lived so long (and Tam's son, if he's that old too)?
+  - Is Brantarra alive?
+  - Who is hunting them now (Thay, Cormyr's War Wizards, others)?
+  - How does this reach Neverwinter, and the party?
+
+See [[Lore/Ed Greenwood - Thay Today]], [[Lore/Ed Greenwood - Szass Tam's Schemes]].
