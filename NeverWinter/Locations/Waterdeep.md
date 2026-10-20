@@ -35,6 +35,7 @@ Waterdeep is ruled by masks. Only one Lord shows a face in public: the Open Lord
 ### The Lords of Waterdeep
 - A mostly anonymous council that has governed since **1032 DR** (Ahghairon's coup). A full council is about **20 Lords**, but the number has ranged from 16 to 29 (16 in 1368 DR, 21 in 1372 DR). Some Lords are kept secret even from the city's records.
 - **Masked Lords** appear in public only when sitting in the Lord's Court, or every four years at the **Shieldmeet Council**, where the Lords' Rule is reaffirmed. They know each other's identities. Anonymity is meant to protect them from coercion and to let Lords come from any class.
+  - *Ed Greenwood differs:* the **Open Lord** knows every Lord's identity, but Lords **usually share theirs only with close friends** who are fellow Lords. Full detail in [[Lore/Ed Greenwood - The Masked Lords of Waterdeep]].
 - **The Open Lord** is the only Lord whose identity is public. Titles: Warden of Waterdeep, Overmaster of the Guilds, Commander of the Watch. They are the city's chief diplomat. Powers reserved to the Open Lord:
   - vetting and choosing new Lords
   - naming the next Open Lord
@@ -43,6 +44,8 @@ Waterdeep is ruled by masks. Only one Lord shows a face in public: the Open Lord
 - **Open Lords up to 1489 DR:** Ahghairon the Mage, Baeron Silmaeril, Lhestyn the Masked Lady, Piergeiron the Paladinson, Caladorn Cassalanter, Dagult Neverember, Laeral Silverhand.
 
 ### The Ruler: Laeral Silverhand
+> **Full profile from Ed Greenwood:** [[NPCs/Laeral Silverhand]]. Ed differs from two lines below: she and Khelben **never formally wed** (the city just called her Lady Arunsun). And "**Witch Queen of the North**" was a respectful title from her reign over Stornanter; her Crown of Horns years were when she was called the "**Wild Woman**" and "**Witch of the North**."
+
 - **Age:** born 765 DR, so about 724 in 1489 DR and 740 in 1505 DR. She is ageless, one of Mystra's Chosen.
 - **Known for:**
   - She is the fifth of Mystra's **Seven Sisters**.

@@ -274,7 +274,7 @@ tags: [reference, geography, sword-coast, locations]
 
 **Map coords:** x:2299, y:1301
 
-**Campaign relevance:** City of Splendors. Khelben Blackstaff's seat. Held Dagult's hidden hoard (500,000 gold dragons, in the Vault of Dragons) until 1492 DR. That year a party with Renaer foiled Manshoon's scheme, beating his simulacrum, and returned the hoard to the city (see [[Campaign Decisions]]). The money Dagult spent rebuilding Neverwinter was not part of it. Canonically Claugiyliamatar's primary target city.
+**Campaign relevance:** City of Splendors. Seat of the Blackstaff (Khelben died in 1374 DR; Vajra Safahr holds the title). Held Dagult's hidden hoard (500,000 gold dragons, in the Vault of Dragons) until 1492 DR. That year a party with Renaer foiled Manshoon's scheme, beating his simulacrum, and returned the hoard to the city (see [[Campaign Decisions]]). The money Dagult spent rebuilding Neverwinter was not part of it. Canonically Claugiyliamatar's primary target city.
 
 **Canon (from AideDD Faerûn Map):**
 

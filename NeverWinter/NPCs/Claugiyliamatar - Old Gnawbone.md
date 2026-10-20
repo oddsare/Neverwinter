@@ -51,7 +51,7 @@ This means **the user's hook is essentially canon**, not extrapolation. Pivoting
 
 ### Enemies / rivals
 - **Balagos** — red dragon rival who openly mocks her ("a twisted, crabbed thing given to petty silliness").
-- **Khelben "Blackstaff" Arunsun** (Waterdeep) — major canonical enemy.
+- **Khelben "Blackstaff" Arunsun** (Waterdeep) — major canonical enemy, **dead since 1374 DR**. The Blackstaff today is **Vajra Safahr** (see [[Lore/The Blackstaff]]).
 - **Mages of Silverymoon** — feed her false scrying images to misdirect her.
 - Killed the rival green **Endracritar** by manipulating Waterdeep's forces into doing it for her.
 - Killed the young red **Smergadas** by dropping **Lance Rock** on him.
@@ -237,7 +237,7 @@ This is the single most plot-mechanically useful detail MrRhexx adds. **Each of 
 
 ### Her known vulnerability (MrRhexx flags it)
 - *"She probably wouldn't be able to survive Forrest Gray from Waterdeep hunting her down."* Even MrRhexx admits there are Waterdhavian heroes who could clearly kill her if they tried. Her safety is built on **misdirection and the belief that she is dead or elsewhere**, not on raw invulnerability.
-- **For the party:** at high tier, gathering allies from Waterdeep (Khelben Blackstaff's apparatus, Force Gray) is a legitimate path to victory. She is not unkillable; she is *hidden*.
+- **For the party:** at high tier, gathering allies from Waterdeep (the Blackstaff Vajra Safahr, Force Grey) is a legitimate path to victory. She is not unkillable; she is *hidden*.
 
 ### MrRhexx's "supplemental material" pitch
 - He spends ~2 minutes pitching his own Kickstarter, **"Sands of Doom"** — an unrelated 5e campaign about an undead army and a mummy king. **Not relevant to running Claugiyliamatar.** Noted here only because the user asked what he recommended.

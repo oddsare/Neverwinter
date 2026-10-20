@@ -72,7 +72,7 @@ Indrina's fate is **not specified in canon**. Pick one:
   - Personal grievance (Dagult wronged her family / friend)
   - Romantic resentment (rejected suitor, betrayed lover)
   - Civic conscience (couldn't stand the fraud)
-  - **Patronage** (someone *hired* her to do it — possibly Khelben Blackstaff's apparatus, possibly a genuine Alagondar heir, possibly the Harpers)
+  - **Patronage** (someone *hired* her to do it — possibly the Blackstaff (Vajra Safahr), possibly a genuine Alagondar heir, possibly the Harpers)
 
 The last option is the richest: **Indrina was a Harper agent or asset.** That would explain the resources, the access, and her successful survival of Dagult's wrath (the Harpers protect their own).
 
@@ -89,7 +89,7 @@ A Waterdhavian contact, an old letter, a Harper introduction. She's hidden in a 
 The dossier may be:
 - In her personal possession (high risk for her).
 - In a Harper safe-house (their basement under the [[Lore/Neverwinter Sub-Locations|House of a Thousand Faces]] is a candidate).
-- In a Waterdhavian vault (Khelben Blackstaff's apparatus, or Brandarth Hall's *private* archive).
+- In a Waterdhavian vault (Blackstaff Tower, or Brandarth Hall's *private* archive).
 - In multiple copies, distributed for survival.
 
 ### The leverage
@@ -107,7 +107,7 @@ Once obtained, the dossier is the campaign's most powerful single political docu
 
 - [[NPCs/Dagult Neverember|Dagult Neverember]] — her target, her would-be killer
 - [[NPCs/Renaer Neverember|Renaer Neverember]] — collateral damage if she goes public
-- **Khelben Blackstaff** — possible patron / protector
+- **The Blackstaff (Vajra Safahr)** — possible patron / protector. *(Khelben died in 1374 DR.)*
 - [[Factions/The Harpers|The Harpers]] — possible employer / shield
 - **Waterdhavian noble society** — her former social world
 

@@ -96,7 +96,7 @@ Per the Forgotten Realms Wiki and 2e/3e/4e sourcebooks (Volo's Guide to the Nort
 - Many-Starred Cloak membership ties her directly to:
   - **Alustriel Silverhand of Silverymoon** (canon ally; the same Alustriel that Claugiyliamatar obsessively scries on)
   - **The Silverymoon decoy operation** that's feeding Claugiyliamatar fake soap-opera scrying images
-  - **Khelben "Blackstaff" Arunsun's Waterdeep apparatus** (allied magical circles)
+  - **The Blackstaff's Waterdeep apparatus** (Vajra Safahr; allied magical circles)
 - Implication: **Ophala is one of the most powerful single people in Neverwinter and almost nobody in the city knows it.**
 
 ### Best friend: Zundaerazylym, the steel dragon

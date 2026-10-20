@@ -55,4 +55,4 @@ tags: [lore, waterdeep, blackstaff, magic, canon]
 
 ## Campaign notes
 - In this campaign, **Laraelra is still the Heir** while serving as [[NPCs/Renaer Neverember|Renaer]]'s advisor in Neverwinter (Brodie, 2026-10-18).
-- **Corrects an older vault error:** Khelben died in 1374, so he couldn't have helped oust Dagult in 1489. The [[NPCs/Dagult Neverember|Dagult]] and [[NPCs/Indrina Lamsensettle|Indrina]] notes still say he did.
+- **Corrects an older vault error:** Khelben died in 1374, so he couldn't have helped oust Dagult in 1489. The [[NPCs/Dagult Neverember|Dagult]] and [[NPCs/Indrina Lamsensettle|Indrina]] notes were updated on 2026-10-19 (Brodie: Khelben is dead).

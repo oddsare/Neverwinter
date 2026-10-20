@@ -39,6 +39,7 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 - [[Lore/Ed Greenwood - Netheril|Ed Greenwood - Netheril]]
 - [[Lore/Ed Greenwood - Elves|Ed Greenwood - Elves (star elves, gestures, funerals)]]
 - [[Lore/Ed Greenwood - The Monster Man|Ed Greenwood - The Monster Man]]
+- [[Lore/Ed Greenwood - The Masked Lords of Waterdeep|Ed Greenwood - The Masked Lords of Waterdeep]]
 - [[Lore/Calendar of Harptos|Calendar of Harptos & Roll of Years (1492–1530 DR)]]
 - [[Lore/Pantheon of Faerun|Pantheon of Faerûn]]
 - [[Lore/Code Legal of Neverwinter|The Code Legal of Neverwinter]]
@@ -49,12 +50,14 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 - [[NPCs/Ophala Cheldarstorn|Madam Ophala Cheldarstorn]]
 - [[NPCs/Unsung Heroes of the Realms|Unsung Heroes of the Realms]] (Lady Ghost, Arggoth, Lurs Thult)
 - [[NPCs/Volothamp Geddarm (Volo)|Volothamp "Volo" Geddarm]]
+- [[NPCs/Laeral Silverhand|Laeral Silverhand, Open Lord of Waterdeep]]
 
 ### Factions
 - [[Factions/City Guard|Neverwinter City Guard]]
 - [[Factions/The Harpers|The Harpers]]
 - [[Factions/Arcane Brotherhood|The Arcane Brotherhood]]
 - [[Factions/House Cyl|House Cyl]]
+- [[Factions/House Crownrood|House Crownrood (Cormyr)]]
 
 ### Quests
 - [[Quests/The Shadowy Force|The Shadowy Force]]

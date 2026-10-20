@@ -83,6 +83,7 @@ Recorded 2026-10-19. Source: [[Lore/Ed Greenwood - Secrets of Neverwinter]].
 - **Dagult uses Ed's version.** He's a con man who believes in what he does and does good things. The end justifies the means, so he may trample anyone in his way. His flaw is that he sees nothing wrong with getting rich by doing good. This replaces the "clinging villain" write-up.
 - **The campaign takes place after the period Ed describes, so the vault's own lore stays.** Dagult has been trapped in the Neverneath since 1493.
 - **The Chasm District stays as Brodie wrote it, not Ed's version.** It has a wall, a magical seal that stories say weakens every year, Thieves Cove and Gutter's End. Ed says no trace of the Chasm remains; the vault doesn't follow that.
+- **Khelben "Blackstaff" Arunsun is dead**, as in canon (Brodie, 2026-10-19). He died in 1374 DR (see [[Lore/The Blackstaff]]) and had no part in Dagult's fall. Vajra Safahr is the Blackstaff. Notes that treated him as alive were updated.
 - **Both disguised dragons are in the campaign, as different characters:** [[NPCs/Zundaerazylym - The Laughing Wyrm|Zundaerazylym]] (steel dragon, seamstress) and Ed's Murthra "Manytongues" Alaerin (brass dragon, House of Tongues). The party may meet one, both or neither.
 - **What caused the Chasm is disputed in the world.** Different people say different things: the Spellplague, the 1451 eruption, devils or Asmodeus, the Abolethic Sovereignty, an evil wizard, or angry gods. The DM truth is not decided.
 

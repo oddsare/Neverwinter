@@ -158,7 +158,7 @@ If recovered alive (e.g., from the Neverneath):
 - **Alethea Brandarth (deceased)** — his wife. Left her wealth to Renaer.
 - [[NPCs/Indrina Lamsensettle|Indrina Lamsensettle]] — actress/aristocrat in Waterdeep who exposed his fraudulent claim. He almost certainly tried to silence her.
 - [[NPCs/Ophala Cheldarstorn|Ophala Cheldarstorn]] — canonically sponsored Liset Cheldar's reopening of the Moonstone Mask. They have a 25+ year working relationship. **Ophala may have known about the fraud and not said.**
-- **Khelben "Blackstaff" Arunsun** — Waterdeep's Open Lord apparatus. Adversarial relationship; Khelben helped engineer Dagult's 1489 ouster.
+- **Khelben "Blackstaff" Arunsun** — **dead since 1374 DR** (see [[Lore/The Blackstaff]]), so he had no part in Dagult's fall. The **Masked Lords** ousted Dagult in 1489, nudged by Mystra (see [[Lore/Ed Greenwood - The Masked Lords of Waterdeep]]). The Blackstaff in Dagult's later years was **Vajra Safahr** (from 1479).
 - **The Sons of Alagondar** — saw him as a usurper; conspired against him.
 - [[NPCs/Claugiyliamatar - Old Gnawbone|Claugiyliamatar]] — possible. Old Gnawbone scries on cities; she would have watched a fraudulent Alagondar claimant with great interest. *Did she have a hand in his 1493 disappearance?*
 
