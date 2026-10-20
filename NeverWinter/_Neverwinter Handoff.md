@@ -5,7 +5,7 @@ tags:
   - neverwinter
   - handoff
 created: 2026-10-18
-updated: 2026-10-18
+updated: 2026-10-20
 ---
 
 # Neverwinter Campaign — Handoff
@@ -20,7 +20,68 @@ updated: 2026-10-18
 
 ## Recent sessions
 
-### 2026-10-18 — canon research (this session)
+### 2026-10-18 to 10-20 — desktop: timeline rework, Renaer's circle, races, lore videos
+**Timeline rework** ([[Campaign Decisions]] §6, applied across the vault):
+- **Campaign starts 1505 DR** (was 1525). Canon's "present" is **1492 DR** (*Dragon Heist*); everything after is campaign territory.
+- **Renaer** born **1461**; 18 in 1479 (*Blackstaff Tower*), 31 in 1492, **took power 1503 at 42**, **44 at start**. Stable for 2 years, then pushback from influential people in the city and the places it protects.
+- **Dagult:** ousted from Waterdeep **1489**; barely held Neverwinter after **1492**; **vanished 1493** into the Neverneath. The powder (found **1486**, the year he sealed the Chasm) gave him and his **Mintarn** mercenaries a path to military might, but the weapons came too slowly, so he gambled on the Lost Crown. Trapped **12 years**, age **76**.
+- **Dance of the Revolving Lords: 1493–1503**, 10 years, 6 rulers (names later). Ophala has searched 12 years.
+- **Chasm sealing stays 1486 DR.** Canon gives no exact year; the wiki's 1484 and 1485 are editors' estimates.
+- A helper swept ~33 reference notes for 1525→1505 and recomputed ages; NPC status wording updated to fit (Brodie chose "update descriptions," not "make younger").
+
+**Renaer and his circle:**
+- **Tymora's Chosen**, whether he knows it or not; Chosen benefits to decide.
+- **Still a Harper; the Harpers led him to Neverwinter.**
+- *Dragon Heist* swashbuckler stat block added (from memory; check the book).
+- New note [[NPCs/Laraelra Harsard]]: his **trusted friend and advisor**, brought with him, and **still the Blackstaff's Heir**. Harper status: Brodie decides later.
+- New canon note [[Lore/The Blackstaff]].
+
+**Luskan** ([[Locations/Luskan]]):
+- The **Emperor of the Seas** has ruled with an iron grip **since ~1475**. Canon's lawless Luskan (~1480) is what outsiders saw.
+- The **Arcane Brotherhood lied** about staying out of politics.
+- **Jarlaxle and Bregan D'aerthe** are still behind the Ships.
+
+**Neverwinter** ([[Campaign Decisions]] §11): the **City of Skilled Hands**, where it's said **the gods marvel at their craft**, and the city is **green all year**.
+
+**Races** ([[Campaign Decisions]] §12, [[Lore/Races and Alignment]]):
+- 3.5-style leans: every 3.5 evil race, plus monsters now playable, leans evil. **God and nature first**, then culture. Trauma, a god or a choice can change them.
+- **Drow and orc PCs are allowed.** The world is cautious but willing to open up.
+- **Half-orcs:** lineage and culture.
+- **Tieflings:** from **demon pacts**.
+- **Half-orcs, tieflings and dragonborn ~1 in 100** each (about 500 apiece in Neverwinter).
+
+**Mystra** ([[Campaign Decisions]] §3, [[Lore/Pantheon of Faerun]]):
+- Mystryl died in -339 DR and **Mystra forbade 10th-level+ spells**, so the enclaves near 10th-level are defying her. Brodie: "works perfectly."
+- **Reminder below.**
+
+**Fixes:**
+- [[Lore/Sword Coast Reference]]: the Mintarn garrison was **Dagult's**.
+- Pantheon: Mystra/Mystryl.
+
+**Lore notes added (reference only; connections are open threads):**
+- [[Lore/MrRhexx - History of the Realms]]
+- [[Lore/Ed Greenwood - Alaundo's Prophecies]]
+- [[Lore/Ed Greenwood - Bestsellers of the Realms]]
+- [[Lore/Ed Greenwood - The Smiling Mask]]
+- [[Lore/Ed Greenwood - Roleplaying Elminster]]
+- [[Lore/Ed Greenwood - Secrets of Baldur's Gate]]
+- [[Lore/MrRhexx - Lolth and the Drow]]
+- [[Lore/MrRhexx - Lolth's Power and the Demonweb]]
+- [[Lore/MrRhexx - Kobolds]]
+- [[Lore/MrRhexx - World-Breaking Artifacts]]
+
+All are linked from [[Campaign Home]].
+
+**Talked about, not decided:**
+- Starting the players at **Candlekeep** and moving to Neverwinter. *Candlekeep Mysteries* is set ~1492; it would conflict with the original Neverwinter text "you've lived here your entire lives."
+- Brainstormed **patterns from the videos** (prophecy that steers people, books as intrigue weapons, a front business hiding neutral ground, a bound primordial sending dreams, dragons investing in a city, advisors steering several houses), at Brodie's request. None adopted.
+
+**Git:**
+- Commits `216b08b` and `9960d12` are pushed.
+- **The nine lore notes, Campaign Home links and this handoff are not yet committed** at time of writing.
+- Brodie's **AWS study edits and Job Search folder** on the desktop stay uncommitted on purpose.
+
+### 2026-10-18 — canon research (laptop)
 - Brodie asked about canon only and said **"look them up, don't use my notes."** Findings are in *Canon research* below. No campaign notes were changed except this handoff.
 - Everything that was uncommitted from the Oct 13–17 sessions was committed and pushed with this note.
 
@@ -33,13 +94,23 @@ updated: 2026-10-18
 - Brodie asked what the campaign needs before it can start. The biggest gap: **the vault never says what the Shadowy Force actually is.**
 
 ### 2026-10-13/14 — The Powder
-- Reworked [[Lore/The Powder]]. Added powder entries to [[TIMELINE]]: found in 1498 DR, guns perfected 1502–1520, and a DM-only secret about Dagult's disappearance.
+- Reworked [[Lore/The Powder]]. Added powder entries to [[TIMELINE]]: found in 1498 DR, guns perfected 1502–1520, and a DM-only secret about Dagult's disappearance. *(Since moved by the timeline rework: found 1486, Dance 1493–1503.)*
 - [[Campaign Decisions]] §4 (Dagult sealed the Chasm, restored Bluelake). [[Lore/Ancient History]]: Llewyrrwood and Nethlur.
 
 ## Open questions (Brodie decides — don't fill these in)
 - **REMINDER (2026-10-20): what will Mystra and her Chosen do** about the enclaves pushing toward 10th-level spells, which Mystra forbade? See [[Campaign Decisions]] §3.
 - **What is the Shadowy Force?**
-- **Who removed Dagult for the powder?** ([[TIMELINE]] says this is undecided.)
+- **Dagult's old DM secret:** [[TIMELINE]] (1493 entry) still has the older line that "someone else wanted the powder" and used his shady dealings to remove him, next to Brodie's newer reason (he gambled on the Lost Crown because the weapons came too slowly). Keep both (someone pushed him), or drop the old one? If kept: who?
+- **The four noble houses:** 3 bad, 1 good; one known for crafting and using the powder, one for mining it; no single family controls it. Names, values and members are Brodie's to set. (He rejected Claude's proposals; don't pitch unless asked.)
+- **The six failed rulers of the Dance** (1493–1503): names and fates.
+- **The powder:** the current note says it's **cooled 1451 lava in the city's riverbed and streets**. Earlier decisions (brimstone, natural vs. crafted crystals that get used up) were dropped from the note. Does any of that still apply? Also open: armor and weapons, why the world needs it.
+- **The anti-god group** using Shar's tactics openly: goals, how far along, what people have noticed.
+- **Renaer as Tymora's Chosen:** what benefits, and does he know?
+- **Laraelra:** Harper or not; her age.
+- **Luskan:** who answers to whom among the Emperor, the Arcane Brotherhood and Bregan D'aerthe.
+- **The King-Killer Star** (the Dracorage Mythal): when it last appeared and when it's next due. It would drive every dragon in the campaign mad.
+- **Starting point:** Neverwinter locals (original text) or a Candlekeep start?
+- **Indrina Lamsensettle's 1505 status.**
 - **What is everyone in Neverwinter fighting over?** This was suggested on 2026-10-18 as a way into the intrigue; Brodie hasn't answered.
 - From [[Campaign Decisions]] §5: where the real Manshoon is in 1505 and why he hasn't recast *simulacrum*; where the simulacrum is and who it obeys; how Dagult reacted to 1492; who the 1492 party was; the ledger and Jelenn Urmbrusk's favour.
 
@@ -99,10 +170,11 @@ The kinds of power these settings mix: bloodline, money, force, faith, magic, cr
 - **Thay around 1500 DR** (Ed Greenwood): about 7 million people, **most slaves now replaced by undead**, Bane as near state religion, and Szass Tam's hidden heirs. See [[Lore/Ed Greenwood - Thay Today]].
 - **D&D movie lore is ignored** in this campaign (Brodie, 2026-10-18).
 
-### Canon vs. vault (Brodie's call; not changed)
-- The wiki says the Chasm was sealed **around 1484 DR**. [[Campaign Decisions]] §4 has **1486 DR**.
+### Canon vs. vault
+- **Settled (2026-10-18): the Chasm sealing stays 1486 DR.** The wiki's pages give 1484, 1485, "before 1485" and "late 1480s," all citing *SCAG* p. 51 and *Storm King's Thunder* p. 101, which give no exact year.
 
 ## Tooling notes
 - The Forgotten Realms Fandom wiki returns **HTTP 402 to WebFetch**. Instead, open `forgottenrealms.fandom.com` in the built-in browser and call the MediaWiki API from the page, e.g. `fetch('/api.php?action=parse&format=json&prop=text&page=Thay')`.
-- Claude's local memory folder for this project is empty. The preferences are in `CLAUDE.md`.
+- Claude's local memory folder is empty on the **laptop** but has files on the **desktop**. The shared preferences are in `CLAUDE.md` either way.
+- Long YouTube transcripts: Brodie pastes them; save as `Lore/Ed Greenwood - <topic>.md` or `Lore/MrRhexx - <topic>.md`, summarized in Claude's own words (no long quotes), canon reference plus open-thread campaign connections, and link them from [[Campaign Home]].
 - Git branch: `neverwinter-city-build` (pushed to `origin`).
