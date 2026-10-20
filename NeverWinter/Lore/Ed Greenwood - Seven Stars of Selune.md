@@ -38,7 +38,7 @@ tags: [lore, canon, ed-greenwood, selune, stars, navigation, transcript]
 - **The bound red dragon:**
   - Centuries ago Selûne defeated an **ancient red dragon** *(name garbled)*. He had attacked her to try to win enough divine power for immortality.
   - Rather than slay him, she **bound him to the star**, whose energies **heal and invigorate him forever**. He was very grateful.
-  - He soon found eternal life boring. He's kept the boredom off by **sponsoring mortal adventurers in Faerûn to work against anyone who threatens dragonkind**. That includes **Szass Tam**, who sees certain dragon princes *(where garbled)* as his next foes.
+  - He soon found eternal life boring. He's kept the boredom off by **sponsoring mortal adventurers in Faerûn to work against anyone who threatens dragonkind**. That includes **Szass Tam**, who sees the **Dragon Princes of Murghôm** as his next foes and acts accordingly. Ed's Szass Tam video confirms this; see [[Lore/Ed Greenwood - Szass Tam's Schemes]].
   - **He and Selûne are working together on spells her clergy can cast to thwart dragons without harming them**, using what he knows of draconic nature.
   - **Be warned:** he will use his adventurers to **destroy anyone who gains such a spell and is not sworn to Selûne**.
 

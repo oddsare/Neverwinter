@@ -94,7 +94,8 @@ The kinds of power these settings mix: bloodline, money, force, faith, magic, cr
   - She built the **Dread Ring** in Neverwinter Wood for Szass Tam's godhood ritual. Drizzt, Dahlia and Entreri beat her in 1463, and her champion Jestry killed her.
   - **Valindra Shadowmantle** (lich) took over, worked to restore the Dread Ring, and led the **1479 Siege of Neverwinter**.
   - Earlier, a Thayan trade enclave operated in Neverwinter after the Shadow War.
-- *Honor Among Thieves* (2023 movie): Red Wizard **Sofina** (undead, Szass Tam's apprentice) backs **Forge Fitzwilliam** as Lord of Neverwinter in the 1490s. Her plan to turn the High Sun Games crowd into undead was stopped.
+- **Szass Tam's current schemes** (Ed Greenwood, late 1490s): eastern expansion, a personal spy network in place of the trade enclaves, and a plot to control Gilgeam of Unther. See [[Lore/Ed Greenwood - Szass Tam's Schemes]].
+- **D&D movie lore is ignored** in this campaign (Brodie, 2026-10-18).
 
 ### Canon vs. vault (Brodie's call; not changed)
 - The wiki says the Chasm was sealed **around 1484 DR**. [[Campaign Decisions]] §4 has **1486 DR**.
