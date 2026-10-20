@@ -38,6 +38,8 @@ See [[NPCs/Selune and Shar - Sister Goddesses]].
 - **Magic is abundant.** Reference: Critical Role campaign 4 (Aramán), where magic runs through institutions and the noble houses are a threat you can't just fight.
 - **Heads of houses are around level 10–15.**
 - **There may be no magic shops** as such.
+- **10th-level spells (2026-10-20):** canon says **Mystra forbade spells of 10th level and higher** after Netheril fell (-339 DR). The [[Lore/Current Era]] rumor of enclaves close to 10th-level magic means they're **defying the goddess of magic and risking the Weave**. Brodie: "that works perfectly."
+- **REMINDER, to decide later (Brodie):** **what Mystra and her Chosen will do** about it.
 
 ## 4. Dagult Neverember
 Recorded 2026-10-13.
@@ -135,3 +137,20 @@ Recorded 2026-10-19. Source: [[Lore/Ed Greenwood - Lolth's Dark Queen]].
 - Still to decide (Brodie): whether to use her at all; if so, how far her plan has got by 1505, and whether it reaches the Neverwinter region.
 
 See [[Lore/Ed Greenwood - Lolth's Dark Queen]].
+
+## 11. What Neverwinter is known for
+Recorded 2026-10-20.
+- **The City of Skilled Hands.** Neverwinter's craftsmen are unbelievably skilled. **It's said the gods marvel at their craft.**
+- **The city is green all year.** In 1505, not just in the old days before the 1451 eruption.
+
+See [[Locations/Neverwinter/Neverwinter]], [[Lore/Ancient History]].
+
+## 12. Races and alignment
+Recorded 2026-10-20. Full detail and edition tables: [[Lore/Races and Alignment]].
+- **Races are viewed the way 3.5 and early 5e did.** Some races **lean evil by nature**. They do evil things, but **they don't have to**. They lean that way unless something changes them or puts them on a different path. (Brodie's reference: the demons in *Frieren*, but changeable for players.)
+- **Which races lean evil:** every race 3.5 lists as evil, including monsters that are now playable races.
+- **What causes the lean:** their **god**, their **culture** and their **nature**. **God and nature come first.**
+- **What can change them:** many things: **a god, a choice, awful events.** Whatever causes trauma can change a person.
+- **Player characters can be drow or orcs.** The world is **cautious and expects the worst, but is willing to open up if given the chance.** Good deeds and reputation matter, the same as for everyone, but people can be scared.
+- **Half-orcs and tieflings are treated differently** (see the lore note).
+- **Half-orcs and tieflings are not rare anymore.** They're fully integrated into most societies, just fewer in number: **about 1 in 100 people each**, similar to dragonborn. In Neverwinter that's roughly 500 of each.

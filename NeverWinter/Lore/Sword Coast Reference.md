@@ -142,7 +142,7 @@ tags: [reference, geography, sword-coast, locations]
 
 **Map coords:** x:2044, y:1876
 
-**Campaign relevance:** Mercenary island. Renaer's Mintarn-mercenary guard force is canon. Source of competent neutral muscle.
+**Campaign relevance:** Mercenary island. Dagult's Mintarn-mercenary garrison is canon (hired 1467 DR; replaced Neverwinter's local guard). Source of competent neutral muscle.
 
 **Canon (from AideDD Faerûn Map):**
 

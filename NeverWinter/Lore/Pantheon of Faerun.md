@@ -163,7 +163,8 @@ Tymora - Lady Luck
 **Worshipers:** Wizards, sorcerers, all who use magic
 
 **In the Campaign:**
-- [[Lore/Creation Myth|Born from clash between Selûne and Shar, embodiment of magic itself]]
+- **Successor to Mystryl.** In the [[Lore/Creation Myth|creation myth]], **Mystryl** was born from the clash between Selûne and Shar as the embodiment of magic. Mystryl **died in -339 DR**, sacrificing herself to save the Weave during Karsus's Folly (the fall of Netheril). **Mystra** took her place and **forbade spells of 10th level and higher**. See [[Lore/MrRhexx - History of the Realms]].
+- **To decide (Brodie):** what Mystra and her Chosen do about the wizard enclaves pushing toward 10th-level spells. See [[Campaign Decisions]] §3.
 - Keeper of the Weave
 - Worshiped at [[Locations/Neverwinter/Districts/Tower District|magical academies]]
 - [[Lore/Current Era|Resurgence of magic]] may be her doing

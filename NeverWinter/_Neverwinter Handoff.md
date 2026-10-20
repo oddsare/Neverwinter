@@ -37,6 +37,7 @@ updated: 2026-10-18
 - [[Campaign Decisions]] §4 (Dagult sealed the Chasm, restored Bluelake). [[Lore/Ancient History]]: Llewyrrwood and Nethlur.
 
 ## Open questions (Brodie decides — don't fill these in)
+- **REMINDER (2026-10-20): what will Mystra and her Chosen do** about the enclaves pushing toward 10th-level spells, which Mystra forbade? See [[Campaign Decisions]] §3.
 - **What is the Shadowy Force?**
 - **Who removed Dagult for the powder?** ([[TIMELINE]] says this is undecided.)
 - **What is everyone in Neverwinter fighting over?** This was suggested on 2026-10-18 as a way into the intrigue; Brodie hasn't answered.

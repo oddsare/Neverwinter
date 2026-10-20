@@ -40,6 +40,10 @@ Your adventure begins in the sprawling city of **Neverwinter**, whether this is 
 
 Nestled along the **Sword Coast North**, Neverwinter stands as a beacon of resilience and magic in the Forgotten Realms. Known as the **Jewel of the North**, this grand city rises from the ashes of past catastrophes.
 
+### What the city is known for (Brodie, 2026-10-20)
+- **The City of Skilled Hands:** its craftsmen are unbelievably skilled. **It's said the gods marvel at their craft.**
+- **Green all year:** the city stays green through every season.
+
 ---
 
 ## Recent History
