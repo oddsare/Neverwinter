@@ -45,6 +45,7 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 - [[NPCs/Renaer Neverember|Lord Renaer Neverember]]
 - [[NPCs/Ophala Cheldarstorn|Madam Ophala Cheldarstorn]]
 - [[NPCs/Unsung Heroes of the Realms|Unsung Heroes of the Realms]] (Lady Ghost, Arggoth, Lurs Thult)
+- [[NPCs/Volothamp Geddarm (Volo)|Volothamp "Volo" Geddarm]]
 
 ### Factions
 - [[Factions/City Guard|Neverwinter City Guard]]
