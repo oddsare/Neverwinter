@@ -67,6 +67,7 @@ Alongside all this, he is always hatching **private plans** to increase his pers
   - Elminster ranks House Cyl's mind flayer **below Szass Tam** in troublesomeness (see [[Factions/House Cyl]]).
 
 ## Related
+- [[Lore/Ed Greenwood - Thay Today]] (Thay's people, Red Wizards, worship, the High Autharch, Tam's hidden heirs)
 - [[_Neverwinter Handoff]] (Thay section)
 - [[Lore/Ed Greenwood - Seven Stars of Selune|Ed Greenwood - Seven Stars of Selûne]]
 - [[NPCs/Unsung Heroes of the Realms]]

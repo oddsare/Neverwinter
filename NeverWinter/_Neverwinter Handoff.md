@@ -95,6 +95,7 @@ The kinds of power these settings mix: bloodline, money, force, faith, magic, cr
   - **Valindra Shadowmantle** (lich) took over, worked to restore the Dread Ring, and led the **1479 Siege of Neverwinter**.
   - Earlier, a Thayan trade enclave operated in Neverwinter after the Shadow War.
 - **Szass Tam's current schemes** (Ed Greenwood, late 1490s): eastern expansion, a personal spy network in place of the trade enclaves, and a plot to control Gilgeam of Unther. See [[Lore/Ed Greenwood - Szass Tam's Schemes]].
+- **Thay around 1500 DR** (Ed Greenwood): about 7 million people, **most slaves now replaced by undead**, Bane as near state religion, and Szass Tam's hidden heirs. See [[Lore/Ed Greenwood - Thay Today]].
 - **D&D movie lore is ignored** in this campaign (Brodie, 2026-10-18).
 
 ### Canon vs. vault (Brodie's call; not changed)
