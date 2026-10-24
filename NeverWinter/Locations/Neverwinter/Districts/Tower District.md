@@ -38,6 +38,9 @@ The Tower District is characterized by:
 
 ## Notable Locations
 
+### The Shard of the Moon
+A **floating tower** held by the priestesses of [[NPCs/Selune and Shar - Sister Goddesses|Selûne]]. Once the Shadovar's *Shard of Night*, purified in 1479 DR by Lady Jasmine and her priestesses. Only trusted visitors get in. **Galaeron** is head paladin. See [[Locations/Neverwinter/Shard of the Moon|Shard of the Moon]].
+
 ### Magical Academies
 Centers of arcane learning where wizards, sorcerers, and other spellcasters study the magical arts.
 

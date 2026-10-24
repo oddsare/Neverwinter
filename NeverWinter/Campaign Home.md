@@ -32,6 +32,7 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
   - [[Locations/Neverwinter/Districts/Chasm District|The Chasm District]]
   - [[Locations/Neverwinter/Districts/Neverdeath District|Neverdeath District]]
   - [[Locations/Neverwinter/The Moonstone Mask|The Moonstone Mask]] (Festhall on Earthmote)
+  - [[Locations/Neverwinter/Shard of the Moon|The Shard of the Moon]] (Selûnite floating tower, Tower District)
 - [[Locations/Luskan|Luskan - The City of Sails]]
 
 ### Lore & History
