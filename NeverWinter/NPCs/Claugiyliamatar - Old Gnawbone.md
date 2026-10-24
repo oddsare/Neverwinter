@@ -20,7 +20,9 @@ tags: [npc, dragon, candidate, green-dragon, in-city]
 - Has held her lair since **1303 DR** — roughly **1,200 years** of established power on the Sword Coast.
 
 ### Lair / territory
-- Lairs in **Deeping Cave**, deep in **Kryptgarden Forest** north of Waterdeep.
+> **Campaign change (Brodie, 2026-10-24):** she **moved to Neverwinter**: under the city, maybe somewhere in the Neverwinter Wood. Neverwinter has become interesting, and she wants to be close to her "son" [[Quests/The Foster King|Aldric]] and keep tabs on him and the city with her crystal balls. Deeping Cave below is her **canon, former** lair. See [[Campaign Decisions]] §14.
+
+- Canon lair: **Deeping Cave**, deep in **Kryptgarden Forest** north of Waterdeep.
 - Lair is phosphorescent with creeping lichen, giant toadstools, and a **gallery of stolen statues of imperious human/elven warrior-women** (one is reportedly an emerald golem). She *collects depictions of powerful noblewomen.*
 - Her claimed dominion stretches across the **Neverwinter hinterland** — from River Mirar south past Waterdeep, west through Dead Horse Ford, northwest through the Evermoors, Nesmé, Longsaddle, Grunwald, south of Mirabar. She effectively claims the lands around Neverwinter as hers.
 
@@ -287,7 +289,7 @@ No need for the user to invent a price tag — canon supplies plenty.
 
 ## Updated open questions
 
-- **Will she abandon Deeping Cave?** Canon says no — she doesn't leave her lair lightly. **Better answer: she commutes.** She is *establishing a Neverwinter operation* with a human alias, while her dragon body still lairs in Kryptgarden. Tier 3 finale = the party tracks her back to Deeping Cave for the dragon-form fight after destroying her human-life infrastructure in Neverwinter.
+- ~~**Will she abandon Deeping Cave?**~~ **Answered (Brodie, 2026-10-24): yes, she moved to Neverwinter. See [[Campaign Decisions]] §14.** The May suggestion below is replaced. Canon says no — she doesn't leave her lair lightly. **Better answer: she commutes.** She is *establishing a Neverwinter operation* with a human alias, while her dragon body still lairs in Kryptgarden. Tier 3 finale = the party tracks her back to Deeping Cave for the dragon-form fight after destroying her human-life infrastructure in Neverwinter.
 - **What is her current human alias?** Not in canon. Must be invented. Should evoke "old foreign money, newly arrived in Neverwinter, fabulously wealthy, mysterious past."
 - **Who in her Neverwinter criminal gang knows what she is?** Canon implies most don't. Pick a number — recommend 1-3 lieutenants who know, 50+ who don't.
 - **Does the ritual exist yet or must it be invented?** Canon: she's been hunting it for centuries. The campaign can be **the centuries-long quest finally bearing fruit** — high stakes, narratively earned.

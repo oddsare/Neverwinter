@@ -22,7 +22,7 @@ His name in the world is **Aldric Vance** *(placeholder; Brodie will name him)*.
 
 Lady Maeve Vance is Claugiyliamatar, wearing her *ring of chameleon power* and *alter self*. Aldric has no idea. He loves her completely. And this is the horror: **she genuinely loves him back.** The love is real. So is the plan.
 
-**She watches him constantly.** Lady Maeve is rarely at the estate because Claug's real work happens in her dragon lair, including hours every day at her crystal ball, scrying her son. Aldric doesn't know. To him, Mother just has an uncanny sense of when to write, when to visit, when he's unwell. He finds it tender. **A sharp party will eventually notice her timing is *too* good.**
+**She watches him constantly.** Lady Maeve is rarely at the estate because Claug's real work happens in her new lair near Neverwinter (under the city, maybe in the Neverwinter Wood; see [[Campaign Decisions]] §14), which she moved to partly to be close to him. That includes hours every day at her crystal ball, scrying her son. Aldric doesn't know. To him, Mother just has an uncanny sense of when to write, when to visit, when he's unwell. He finds it tender. **A sharp party will eventually notice her timing is *too* good.**
 
 ## What Claug wants: the double prize
 

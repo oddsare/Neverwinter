@@ -99,7 +99,7 @@ tags: [reference, geography, sword-coast, locations]
 
 **Map coords:** x:2301, y:898
 
-**Campaign relevance:** Claugiyliamatar's lair (Deeping Cave). North of Waterdeep, well within her claimed dominion. Tier 3 finale destination.
+**Campaign relevance:** Claugiyliamatar's canon lair (Deeping Cave). *In this campaign she has moved to Neverwinter ([[Campaign Decisions]] §14).* North of Waterdeep, well within her claimed dominion. Tier 3 finale destination.
 
 **Canon (from AideDD Faerûn Map):**
 

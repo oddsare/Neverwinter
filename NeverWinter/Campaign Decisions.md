@@ -183,3 +183,15 @@ Recorded 2026-10-20. Built on Ed Greenwood's Thay notes ([[Lore/Ed Greenwood - T
   - Is Arauthator's grave a possible future ring site?
 
 See [[Lore/Campaign_Guide/Chapter_3_Factions_and_Foes]] (Valindra, the Dread Ring) and §9 above.
+
+## 14. Claugiyliamatar moved to Neverwinter
+Recorded 2026-10-24. See [[NPCs/Claugiyliamatar - Old Gnawbone]] and [[Quests/The Foster King]].
+- **She left Deeping Cave and lives near Neverwinter now:** under Neverwinter, maybe somewhere in the **Neverwinter Wood**. The exact spot is open.
+- **Why:** Neverwinter has become interesting, and she wants to be **closer to her "son"** [[Quests/The Foster King|Aldric]], so she can **keep tabs on him and on the city at large** with her crystal balls.
+- **This is Brodie's change, not canon.** In canon (*Wyrms of the North*, MrRhexx) she stays in Deeping Cave in Kryptgarden Forest, too scared to live in a city even in disguise; city life is only her dream. It fits Brodie's original hook (2026-05-14): "Claugiyliamatar moved into Neverwinter because of all the chaos."
+- **Replaces** the May suggestion that she "commutes" from Deeping Cave.
+- **Open (Brodie):**
+  - Under the city, or in the Neverwinter Wood? Where exactly?
+  - When did she move: before or after she found Aldric in 1486?
+  - What happened to Deeping Cave and her hoard?
+  - **Neighbor check:** [[NPCs/Zundaerazylym - The Laughing Wyrm|Zundaerazylym]]'s secret token safe house is a cavern under the Neverwinter Wood, inside Claug's claimed territory. If Claug lairs in the Wood, the two are close.
