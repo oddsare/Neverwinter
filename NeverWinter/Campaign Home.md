@@ -67,6 +67,7 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 - [[Lore/Code Legal of Neverwinter|The Code Legal of Neverwinter]]
 - [[Lore/11 Places Every Town Needs|11 Places Every Town Needs (with Neverwinter check)]]
 - [[Lore/Nine Steps Before Session One|Nine Steps Before Session One (with Blueprint mapping)]]
+- [[Lore/World-Building Lessons|World-Building Lessons (nine lessons from ten years)]]
 
 ### NPCs
 - [[NPCs/Soren Ironwake|Guard Captain Soren Ironwake]]
