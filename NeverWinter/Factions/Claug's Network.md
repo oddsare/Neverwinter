@@ -12,7 +12,7 @@ tags: [faction, claugiyliamatar, covert, foster-king, alagondar]
 # Claug's Network
 
 > [!info] Where this note came from
-> Written in May 2026 on another branch and brought in on 2026-10-24 (Brodie). Updated to **1505 DR**: Aldric is 28 and was raised since 9, and Claug now lairs near Neverwinter ([[Campaign Decisions]] §14). Tier wording is kept as written. Anything marked **(May draft, keep?)** was suggested by Claude in May, not decided by Brodie.
+> Written in May 2026 on another branch and brought in on 2026-10-24 (Brodie). Updated to **1505 DR**: Aldric is 28 and was raised since 9, and Claug now lairs near Neverwinter ([[Campaign Decisions]] §14). Tier wording is replaced with plain timing. Anything marked **(May draft, keep?)** was suggested by Claude in May, not decided by Brodie.
 
 > The dragon has been planning for two centuries. She has agents in three cities, a son she is preparing to put on a throne, and a ritual she wants performed on herself. The network is the quiet machinery that makes all of that work.
 
@@ -27,7 +27,7 @@ tags: [faction, claugiyliamatar, covert, foster-king, alagondar]
 ## Components
 
 ### The Heir Asset
-- **[[Quests/The Foster King|Aldric Vance]]** — 28-year-old mid-tier wizard, found by Claug in 1486 at age 9 and raised since then to be a usable Alagondar heir
+- **[[Quests/The Foster King|Aldric Vance]]** — 28-year-old mid-level wizard, found by Claug in 1486 at age 9 and raised since then to be a usable Alagondar heir
 - The **Vance estate** on Neverwinter's outskirts — Aldric's home, the network's public-facing real estate
 - Aldric's growing **public network in Neverwinter society** — salons, arcane circles, patrons
 
@@ -54,7 +54,7 @@ tags: [faction, claugiyliamatar, covert, foster-king, alagondar]
 ## The Plan
 
 1. **Throne first (mid-late campaign):** install Aldric on the Neverwinter throne via the Sons of Alagondar + Lost Crown reveal + Renaer maneuvered out
-2. **Ritual second (post-campaign / late tier 3):** once Aldric grows into master-tier magic, he crafts Claug's permanent-human ritual out of love for the woman who raised him
+2. **Ritual second (after the campaign or near its end):** once Aldric grows into master-level magic, he crafts Claug's permanent-human ritual out of love for the woman who raised him
 3. **Outcome:** Claug walks Neverwinter as a permanent human, Aldric rules with her counsel, the city is a dragon's protectorate by proxy
 
 See [[Quests/The Foster King]] for the full plan.
