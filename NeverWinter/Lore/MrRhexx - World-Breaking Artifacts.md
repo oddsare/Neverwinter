@@ -65,4 +65,4 @@ Five artifacts that could spell doom or salvation if they got loose in the world
 - **The Infinity Spindle and Kurtulmak's Chosen:** a **lowly creature turned demigod**. See [[Lore/MrRhexx - Kobolds]].
 - **The Scepter of Savras and scrying:** a missing artifact that can **spy on gods undetected** would matter in a city full of scrying (Gnawbone's crystal balls, Ophala's search, the Silverymoon decoy).
 - **The Living Gate:** source of beholders and mind flayers; ties to Alaundo's **beholder and mind flayer prophecy** ([[Lore/Ed Greenwood - Alaundo's Prophecies]]).
-- **The powder:** Dawnfire boosts all non-divine magic ([[Lore/The Powder]]). Wizards chasing 10th-level spells would want both the Scrolls and the powder.
+- **Dawnfire** boosts all non-divine magic ([[Lore/Dawnfire]]). Wizards chasing 10th-level spells would want both the Scrolls and Dawnfire.

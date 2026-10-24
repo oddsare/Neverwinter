@@ -98,6 +98,6 @@ Lolth's stats, divine powers, avatars and realm. Summarized in my own words. Sta
 - **"Don't say her name":** a ready intrigue rule for anyone working against drow in Neverwinter.
 - **Lolth's Dark Queen** (maybe, [[Campaign Decisions]] §10) and the **dark queen prophecy** ([[Lore/Ed Greenwood - Alaundo's Prophecies]]).
 - **The gods are more active** ([[Lore/Current Era]]): avatars and divine alliances fit that. **Talos and Umberlee's pact** is a model for alliances between gods.
-- **The powder** doesn't boost divine magic, so Lolth's clerics get nothing from it, but **drow wizards do** ([[Lore/The Powder]]).
+- **Dawnfire** doesn't boost divine magic, so Lolth's clerics get nothing from it, but **drow wizards do** ([[Lore/Dawnfire]]).
 - **The Smiling Mask** ([[Lore/Ed Greenwood - The Smiling Mask]]): drow of every faith meeting in peace, within reach of her senses.
 - **A scale for your level 10–15 house heads:** roughly CR 7–10 by Rhexx's rule of thumb.

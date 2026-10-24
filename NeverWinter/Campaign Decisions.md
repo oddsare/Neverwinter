@@ -15,11 +15,13 @@ Brodie's decisions that don't have their own note yet. Recorded 2026-10-12. Deta
   - **3 bad**: out for personal gain.
   - **1 good**: stands with the people, currently weaker than the other 3.
 - **Major crafting guilds** in the city.
-- **One of the largest houses** is known for **crafting and using the powder**.
+- **One of the largest houses** is known for **crafting and using Dawnfire**.
+  - **Its name is House Handhagr** (Brodie, 2026-10-22), said **HAND-hah-ger**. Old Norse *hönd* (hand) + *hagr* (skillful): "skillful of hand." It's the major crafters' house, standing for **all the skilled hands of the city** and how good they are at crafting. Still open: bad or good.
 - **Another house** handles the **mining**.
-- **No single family controls the powder.**
+- **House Cyl is one of the four major houses** (Brodie, 2026-10-22): merchants, mainly by ship, who handle **most of the city's storage and shipment of goods**. Canon secret: in thrall to mind flayers (see [[Factions/House Cyl]]). Still open: bad or good.
+- **No single family controls Dawnfire.**
 
-See [[Lore/The Powder]].
+See [[Lore/Dawnfire]].
 
 ## 2. Shar and Selûne
 - **Shar and Selûne are a major part** of the campaign.
@@ -40,6 +42,8 @@ See [[NPCs/Selune and Shar - Sister Goddesses]].
 - **There may be no magic shops** as such.
 - **10th-level spells (2026-10-20):** canon says **Mystra forbade spells of 10th level and higher** after Netheril fell (-339 DR). The [[Lore/Current Era]] rumor of enclaves close to 10th-level magic means they're **defying the goddess of magic and risking the Weave**. Brodie: "that works perfectly."
 - **REMINDER, to decide later (Brodie):** **what Mystra and her Chosen will do** about it.
+- **The Shadow Weave is a thing** (Brodie, 2026-10-20). Canon: Shar's own hidden weave, built in the gaps of Mystra's; Shar can deny it to anyone. Ties to the fane of Shar in the Chasm (§2).
+  - **Open (Brodie):** does Mystra's 10th-level ban apply to it? Does Shar let the anti-god group use it? Who in Neverwinter uses it? Is it tied to the Mystryl's Weave idea or a separate route?
 
 ## 4. Dagult Neverember
 Recorded 2026-10-13.
@@ -71,10 +75,10 @@ Recorded 2026-10-18.
 - **Canon's "present" is 1492 DR** (*Dragon Heist*). Everything after that is campaign territory.
 - **The campaign starts in 1505 DR** (moved from 1525).
 - **Renaer:** born **1461**. Age 18 in 1479 (met the *Blackstaff Tower* companions and founded his own group), 31 in 1492, **took power in 1503 at 42** (young for a ruler), **44** at campaign start.
-- **1486:** Dagult seals the Chasm, and **the powder is discovered** the same year. Dagult and his mercenaries see it could give them **military might**.
+- **1486:** Dagult seals the Chasm, and **Dawnfire is discovered** the same year. Dagult and his mercenaries see it could give them **military might**.
 - **1489:** Dagult ousted from Waterdeep.
 - **1492:** the Waterdeep incident (§5). Dagult **barely holds onto** Neverwinter afterward.
-- **1493:** Dagult disappears. The powder weapons weren't coming fast enough, so he gambled on the **Lost Crown**, which he'd known about for a long time. He went into the Neverneath and got trapped, just barely before he could mass-produce the weapons.
+- **1493:** Dagult disappears. Dawnfire weapons weren't coming fast enough, so he gambled on the **Lost Crown**, which he'd known about for a long time. He went into the Neverneath and got trapped, just barely before he could mass-produce the weapons.
 - **1493–1503:** the Dance of the Revolving Lords, **10 years, 6 rulers** (names later).
 - **1503–1505:** Renaer's rule is **stable for 2 years**, then the story picks up. Not much time to get everything done, and he faces **pushback from influential people in the city and in the neighboring places the city protects**.
 
@@ -88,6 +92,7 @@ Recorded 2026-10-19. Source: [[Lore/Ed Greenwood - Secrets of Neverwinter]].
 - **Khelben "Blackstaff" Arunsun is dead**, as in canon (Brodie, 2026-10-19). He died in 1374 DR (see [[Lore/The Blackstaff]]) and had no part in Dagult's fall. Vajra Safahr is the Blackstaff. Notes that treated him as alive were updated.
 - **Both disguised dragons are in the campaign, as different characters:** [[NPCs/Zundaerazylym - The Laughing Wyrm|Zundaerazylym]] (steel dragon, seamstress) and Ed's Murthra "Manytongues" Alaerin (brass dragon, House of Tongues). The party may meet one, both or neither.
 - **What caused the Chasm is disputed in the world.** Different people say different things: the Spellplague, the 1451 eruption, devils or Asmodeus, the Abolethic Sovereignty, an evil wizard, or angry gods. The DM truth is not decided.
+- **Ed's hidden kin are probably Alagondar, not Neverember** (Brodie, 2026-10-22). The video's captions said Neverember, but they hide from Dagult, who hunted Alagondar heirs for the Lost Crown. Wylandra Blaythloak, Unthra Rorivan and Rundrigo Blackserpent are three of them. Still open: whether that's final, and how they tie to Renaer and the Lost Crown.
 
 See [[NPCs/Dagult Neverember]], [[Locations/Neverwinter/Districts/Chasm District]].
 
@@ -154,3 +159,27 @@ Recorded 2026-10-20. Full detail and edition tables: [[Lore/Races and Alignment]
 - **Player characters can be drow or orcs.** The world is **cautious and expects the worst, but is willing to open up if given the chance.** Good deeds and reputation matter, the same as for everyone, but people can be scared.
 - **Half-orcs and tieflings are treated differently** (see the lore note).
 - **Half-orcs and tieflings are not rare anymore.** They're fully integrated into most societies, just fewer in number: **about 1 in 100 people each**, similar to dragonborn. In Neverwinter that's roughly 500 of each.
+
+## 13. The Thayan war (background thread)
+Recorded 2026-10-20. Built on Ed Greenwood's Thay notes ([[Lore/Ed Greenwood - Thay Today]], [[Lore/Ed Greenwood - Szass Tam's Schemes]]); the war breaking out is Brodie's, not canon.
+- **Background, not the main story.** It runs whether or not the party engages. It starts with **Thay, Aglarond and Cormyr**, maybe others (from the notes: Rashemen, Mulhorand, Unther, Murghôm).
+- **Thay strikes first** through its **cells of Red Wizards**. **Every enemy killed becomes a soldier for Thay.**
+- **Szass Tam** micromanages and wants control of everything (canon, Ed). His **undead generals** obey without question. He believes the Red Wizards will "be on his side," but their loyalty is uncertain, so **he raises undead to be loyal** ("he will make his loyalties").
+- **Unther is already Tam's puppet**, maybe not 100%.
+  - Untherans already distrust Mulhorand (canon: Mulhorand's 1371 occupation, and Untherans enslaved by Mulhorandi in Abeir).
+  - Tam's agents **whisper in the right ears** and stage **false "border attacks,"** so **Unther is ready to attack Mulhorand**. Thay then invades Mulhorand from the other side (Ed's plan).
+  - Gilgeam's control goes **read his mind → influence his thinking → fully control him**. **Full control needs a Dread Ring ritual.**
+- **The active Dread Ring is in the east**, near **Undumor (Aglarond)** or **the Thesk-border forts** (Nethjet, Nethentir, Surcross), both canon Dread Ring-like fortresses by 1479. Which one is undecided. It's fed by the war's dead (canon: a Dread Ring needs a city-sized death toll).
+- **Valindra Shadowmantle** works for Tam. **Dawnfire is a main reason she's in Neverwinter**; what exactly it boosts is undecided. **Thay smuggles Dawnfire east** to the ring. Canon tie: she was already hunting the primordial's energy to "supercharge" her magic, and Dawnfire is Maegera's fire. Thay's failed 1451 eruption accidentally created it.
+- **The Neverwinter Wood ring is old lore**: broken and thought dead, but with **hints of recent activity** that lead the party to information about the Dread Ring and to Valindra.
+- **The party can act for and against each country.** Helping Thay stays possible but **rare**: they're slavers and undead.
+- **Open (Brodie):**
+  - Which eastern ring?
+  - What exactly does Dawnfire boost?
+  - How does Dawnfire travel east?
+  - When does the war break out?
+  - How does Cormyr enter (the hidden heir, §9)?
+  - Is the dragon-rage ritual against Murghôm kept or dropped?
+  - Is Arauthator's grave a possible future ring site?
+
+See [[Lore/Campaign_Guide/Chapter_3_Factions_and_Foes]] (Valindra, the Dread Ring) and §9 above.

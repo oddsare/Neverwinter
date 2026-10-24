@@ -3,10 +3,10 @@ type: lore
 world: Neverwinter
 campaign: Neverwinter
 status: in progress — Brodie still deciding
-tags: [lore, resource, powder, dawnfire, magic, gunpowder]
+tags: [lore, resource, dawnfire, magic, gunpowder]
 ---
 
-# The Powder
+# Dawnfire
 
 **Name:** Dawnfire
 - The name comes from Maegera's title, the Dawn Titan. In canon, very few people know she is down there. So whoever named it Dawnfire may know more than most.

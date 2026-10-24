@@ -17,6 +17,10 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 
 ## Quick Links
 
+### Planning
+- [[Campaign Decisions]]
+- [[Campaign Blueprint (Sclanders Method)|Campaign Blueprint (Sclanders method)]]
+
 ### Locations
 - [[Locations/Neverwinter/Neverwinter|Neverwinter - The Jewel of the North]]
   - [[Locations/Neverwinter/Districts/Protectors Enclave|Protector's Enclave District]]
@@ -47,11 +51,15 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 - [[Lore/Ed Greenwood - The Smiling Mask|Ed Greenwood - The Smiling Mask (Waterdeep)]]
 - [[Lore/Ed Greenwood - Roleplaying Elminster|Ed Greenwood - Roleplaying Elminster]]
 - [[Lore/Ed Greenwood - Secrets of Baldur's Gate|Ed Greenwood - Secrets of Baldur's Gate]]
+- [[Lore/Ed Greenwood - North Ward of Waterdeep|Ed Greenwood - North Ward of Waterdeep (Silent Nine)]]
 - [[Lore/MrRhexx - History of the Realms|MrRhexx - History of the Realms (reference)]]
 - [[Lore/MrRhexx - Lolth and the Drow|MrRhexx - Lolth and the Drow]]
 - [[Lore/MrRhexx - Lolth's Power and the Demonweb|MrRhexx - Lolth's Power and the Demonweb]]
 - [[Lore/MrRhexx - Kobolds|MrRhexx - Kobolds]]
 - [[Lore/MrRhexx - World-Breaking Artifacts|MrRhexx - World-Breaking Artifacts]]
+- [[Lore/MrRhexx - Tenth-Level Spells of Netheril|MrRhexx - Tenth-Level Spells of Netheril]]
+- [[Lore/MrRhexx - How Mystra's Ban Works|MrRhexx - How Mystra's Ban Works]]
+- [[Lore/MrRhexx - Epic Magic and High Magic|MrRhexx - Epic Magic and High Magic]]
 - [[Lore/Races and Alignment|Races and Alignment (house rules)]]
 - [[Lore/Calendar of Harptos|Calendar of Harptos & Roll of Years (1492–1530 DR)]]
 - [[Lore/Pantheon of Faerun|Pantheon of Faerûn]]

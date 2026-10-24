@@ -78,8 +78,8 @@ Canon reference, summarized in my own words. Names come from auto-captions; spel
 ## Campaign connections (open threads)
 - **Trezorr mirrors Maegera:** a primordial bound under a city, catastrophic if it wakes. Both fit Alaundo's **"bound one"** prophecy ([[Lore/Ed Greenwood - Alaundo's Prophecies]]). A bound primordial **sending dreams to dragons** is a pattern Maegera could follow.
 - **Dragons in human form:** the copper moneylender and the black dragon, like **Gnawbone** and **Zundaerazylym**. The copper dragon quietly feeding the **Harpers** echoes Zundaerazylym and the Harpers ([[Factions/The Harpers]]).
-- **A dragon who wants a city richer before destroying it:** Neverwinter's powder boom makes it exactly that kind of target.
+- **A dragon who wants a city richer before destroying it:** Neverwinter's Dawnfire boom makes it exactly that kind of target.
 - **The Lurking Lords** are a model for your **four noble houses**: outsiders becoming trusted advisors and steering several houses from inside.
 - **A Helm priestess cleaning up corruption** is a counterpoint to Renaer's pushback in Neverwinter.
-- **Sarphoon** is a model for a **powder crafter** with a secret process who goes into hiding, with fakes used as bait.
+- **Sarphoon** is a model for a **Dawnfire crafter** with a secret process who goes into hiding, with fakes used as bait.
 - **Cult of the Dragon** is active here too, as in the Mere ([[NPCs/Voaraghamanthar - Two Black Brothers]]).

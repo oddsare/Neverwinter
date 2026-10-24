@@ -24,7 +24,7 @@ A devastating cataclysm struck Neverwinter, causing massive destruction. The cit
 
 - Protector's Enclave faced significant damage
 - Ongoing restoration under [[NPCs/Renaer Neverember|Lord Renaer Neverember]]
-- Lava that cooled in the riverbed and streets still holds Maegera's fire: the source of [[Lore/The Powder|the powder]]
+- Lava that cooled in the riverbed and streets still holds Maegera's fire: the source of [[Lore/Dawnfire|Dawnfire]]
 
 ---
 
@@ -40,14 +40,14 @@ The "Emperor of the Seas" begins his reign over Luskan. He has ruled for about *
 
 ---
 
-### 1486 DR - The Chasm Sealed; The Powder Discovered
+### 1486 DR - The Chasm Sealed; Dawnfire Discovered
 **Location:** [[Locations/Neverwinter/Neverwinter|Neverwinter]]
 
-Dagult seals the Chasm. The same year, the deposits of [[Lore/The Powder|the powder]] are found during the clean-up of the city after the Cataclysm.
+Dagult seals the Chasm. The same year, the deposits of [[Lore/Dawnfire|Dawnfire]] are found during the clean-up of the city after the Cataclysm.
 
 - Next came figuring out what it was and refining it
 - Then making guns to be able to use it
-- **Dagult and his mercenaries** see that the powder could give them **military might**, enough to stay in power by force
+- **Dagult and his mercenaries** see that Dawnfire could give them **military might**, enough to stay in power by force
 
 ---
 
@@ -67,12 +67,12 @@ See [[Campaign Decisions]] §5. Afterward, Dagult **barely holds onto** Neverwin
 
 Lord Dagult Neverember, ruler of Neverwinter, mysteriously disappears. This event triggers a decade of political instability.
 
-- **What really happened (DM only):** the powder weapons weren't coming fast enough for Dagult to hold power by force. He had known about the Lost Crown for a long time, so he gambled on it: he went into the [[Locations/Neverwinter/The Neverneath|Neverneath]] to claim it and got trapped. See [[NPCs/Dagult Neverember]].
+- **What really happened (DM only):** Dawnfire weapons weren't coming fast enough for Dagult to hold power by force. He had known about the Lost Crown for a long time, so he gambled on it: he went into the [[Locations/Neverwinter/The Neverneath|Neverneath]] to claim it and got trapped. See [[NPCs/Dagult Neverember]].
 
 - Father of [[NPCs/Renaer Neverember|Renaer Neverember]]
 - Circumstances of disappearance remain mysterious
 - His absence creates a power vacuum
-- Secret, only the DM knows this: Dagult disappeared mostly because of the powder. Someone else wanted the powder for themselves. They used Dagult's shady dealings to remove him. Who that person is has not been decided yet.
+- Secret, only the DM knows this: Dagult disappeared mostly because of Dawnfire. Someone else wanted Dawnfire for themselves. They used Dagult's shady dealings to remove him. Who that person is has not been decided yet.
 
 ---
 
@@ -92,7 +92,7 @@ Following Dagult Neverember's disappearance, Neverwinter endures the reign of si
   - Political turmoil and rapid succession of power
   - City reputation suffered
   - Trade and stability compromised
-- **Guns perfected** for use with [[Lore/The Powder|the powder]]
+- **Guns perfected** for use with [[Lore/Dawnfire|Dawnfire]]
 
 ### Key Figures Affected:
 - **[[NPCs/Renaer Neverember|Renaer Neverember]]** - Son of disappeared ruler, estranged during this period
@@ -200,7 +200,7 @@ Ancient Past
 
 1486 DR
    └─ Dagult seals the Chasm
-   └─ The powder discovered during the city's clean-up
+   └─ Dawnfire discovered during the city's clean-up
 
 1489 DR
    └─ Dagult ousted as Open Lord of Waterdeep
@@ -215,7 +215,7 @@ Ancient Past
 1493-1503 DR (10 years)
    └─ "Dance of the Revolving Lords"
    └─ Six failed rulers
-   └─ Guns perfected for the powder
+   └─ Guns perfected for Dawnfire
    └─ City Guard demoralized
    └─ Trade disrupted
 

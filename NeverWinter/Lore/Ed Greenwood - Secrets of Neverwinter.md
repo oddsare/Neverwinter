@@ -46,8 +46,10 @@ See [[NPCs/Dagult Neverember]].
 - The result is a **skilled, sophisticated, literate citizenry**. They're good with their hands, understand how things are made, and *think they know how the world works*.
 - **The ordinary citizen** has a strong work ethic, is handy, has **personal hobbies**, and often has a **side hustle** making, selling or trading something other than their day job.
 
-## Secret 1 — Hidden Neverember kin
-**More than a dozen relatives of the Neverember family live quietly in Neverwinter** as crafters and traders. They keep out of Dagult's attention, and he may not know about them, **but every one of them knows their place in the family tree.** Three examples:
+## Secret 1 — Hidden royal kin (probably Alagondar)
+> **Campaign call (Brodie, 2026-10-22): these are probably Alagondar kin, not Neverember.** The captions said "Neverember," but Ed says they hide from **Dagult's** attention, and Dagult spent 26 years hunting **Alagondar heirs** for the Lost Crown (see [[Lore/The Lost Crown and Hidden Alagondar Vaults]]). Hidden Alagondar blood would threaten him; his own relatives wouldn't.
+
+**More than a dozen relatives of the family live quietly in Neverwinter** as crafters and traders. They keep out of Dagult's attention, and he may not know about them, **but every one of them knows their place in the family tree.** Three examples:
 
 ### Wylandra Blaythloak *(spelled)*
 - Makes and sells **slab bread** (Blaythloak breads) at her shop on **Himmer Lane** *(spelled)*. The shop is at the eastern edge of the [[Locations/Neverwinter/Districts/Protectors Enclave|Protector's Enclave]], where it meets the [[Locations/Neverwinter/Districts/Tower District|River (Towers) District]].
@@ -99,7 +101,7 @@ See [[NPCs/Dagult Neverember]].
 - **What caused the Chasm is disputed in the world.** Different people say different things; the options are listed in the Chasm District note.
 
 **Still open:**
-- Ed describes the hidden kin in relation to **Dagult**. How they relate to **Renaer** isn't settled.
+- The hidden kin are **probably Alagondar** (Brodie, 2026-10-22). Not settled: whether that's final, and how they relate to **Renaer** and the **Lost Crown**.
 - Unthra's age ("probably in her 30s") is given for the video's present, with no year stated.
 
 ## Related

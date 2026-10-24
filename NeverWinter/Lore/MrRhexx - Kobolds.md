@@ -102,7 +102,7 @@ Kobold lore, especially the Forgotten Realms version. Summarized in my own words
 ## Campaign connections (open threads)
 - **Kurtulmak's Chosen:** a kobold **becoming something more than a kobold**. Canon gives a basis: **the most loyal kobolds are reborn as true dragons** in Kurtulmak's realm.
 - **Your race rules** ([[Lore/Races and Alignment]]): kobolds are on the lawful evil list. Rhexx gives them a **different flavor of evil** from drow or orcs: petty, clannish, grudge-holding, docile if treated well, murderous only toward gnomes. **Kobolds revere their god; drow fear theirs** ([[Lore/MrRhexx - Lolth and the Drow]]).
-- **The powder:** kobolds are **the best miners in the Realms** and **love heat**. A tribe drawn to Maegera's warmth, or to digging Dawnfire, could be the mining house's labor, rivals or smugglers ([[Lore/The Powder]]).
+- **Dawnfire:** kobolds are **the best miners in the Realms** and **love heat**. A tribe drawn to Maegera's warmth, or to digging Dawnfire, could be the mining house's labor, rivals or smugglers ([[Lore/Dawnfire]]).
 - **Dragons:** kobolds become servile to any dragon. **Gnawbone is a green dragon**, the same color as the dragon whose blood made Kurtulmak ([[NPCs/Claugiyliamatar - Old Gnawbone]]).
 - **Disguised kobold traders** fit the masks theme.
 - **Gnomes in Neverwinter** would be natural enemies of any kobolds near the city.

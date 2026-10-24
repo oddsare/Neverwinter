@@ -76,7 +76,7 @@ Ed's digressions gave editors fits. **Jeff Grubb** used to prune long passages f
   - **Ixruu Thalarkul** and its Athkatla merchant network ([[NPCs/Volothamp Geddarm (Volo)]]).
 - **"The most dangerous monsters are humans"** fits the campaign's political-intrigue spine.
 - **Dragons sleeping for years**, or guarding portals for food, offers background logic for the campaign's many dragons.
-- **The spell-ink mini-campaign** is a template for a **trade-secret intrigue**: thieves, merchants, rogue wizards, and **Zhentarim and War Wizard spies**. Neverwinter's powder is a similar trade secret (see [[Lore/The Powder]]).
+- **The spell-ink mini-campaign** is a template for a **trade-secret intrigue**: thieves, merchants, rogue wizards, and **Zhentarim and War Wizard spies**. Dawnfire is a similar trade secret (see [[Lore/Dawnfire]]).
 - **Monster parts as trade goods** could feed into the vault's item-pricing notes (see [[Items/House Magic Item Prices]]).
 - **Halflings and gnomes in strength in almost every human city** applies to Neverwinter's population.
 - **No clashes** with the vault, and no movie lore.

@@ -95,7 +95,7 @@ How the facts in this note line up with that:
 
 **Timeline update (Brodie, 2026-10-18):** moved from 1502 to **1493 DR**. He was ousted from Waterdeep in 1489 and **only barely held onto Neverwinter** after the 1492 Waterdeep incident (*Dragon Heist*).
 
-**The powder (Brodie, 2026-10-18):** the powder was discovered in **1486**, the year he sealed the Chasm. **Dagult and his mercenaries** saw it could give them **military might**, enough to keep power by force. But the weapons weren't coming fast enough. He had known about the Lost Crown for a long time, so he **gambled on it instead**: he went into the Neverneath and got trapped. **It was just barely too late:** he went in before he could mass-produce the weapons.
+**Dawnfire (Brodie, 2026-10-18):** Dawnfire was discovered in **1486**, the year he sealed the Chasm. **Dagult and his mercenaries** saw it could give them **military might**, enough to keep power by force. But the weapons weren't coming fast enough. He had known about the Lost Crown for a long time, so he **gambled on it instead**: he went into the Neverneath and got trapped. **It was just barely too late:** he went in before he could mass-produce the weapons.
 
 **What actually happened (locked 2026-05-15):**
 

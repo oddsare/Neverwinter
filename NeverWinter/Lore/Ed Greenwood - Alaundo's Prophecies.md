@@ -41,7 +41,7 @@ Elminster and the Avowed refused to speculate. The proud young sage **Feldonar O
 
 ## Campaign connections (open threads)
 - **Candlekeep:** a possible starting point for the players. The Endless Chant is a ready-made opening scene, and the "bring your own notes" rule is a natural reason to travel there.
-- **"The bound one"** fits **Maegera**, the bound fire primordial under Mount Hotenow. See [[Lore/The Powder]].
+- **"The bound one"** fits **Maegera**, the bound fire primordial under Mount Hotenow. See [[Lore/Dawnfire]].
 - **Dragons taking other forms and seizing crowns** echoes **Gnawbone's** goal and the **Lost Crown**. See [[NPCs/Claugiyliamatar - Old Gnawbone]], [[Lore/The Lost Crown and Hidden Alagondar Vaults]], [[NPCs/Zundaerazylym - The Laughing Wyrm]].
 - **The dark queen** fits Lolth's Dark Queen (maybe, [[Campaign Decisions]] §10). The **"gems that hold minds"** echo the kiira in [[Lore/The Blackstaff]].
 - **The purple dragon** ties to [[Factions/House Crownrood]] (Cormyr).

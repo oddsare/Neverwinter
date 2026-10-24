@@ -100,7 +100,7 @@ Crimes are split into four **Plaints**:
 - **Impersonating a Guardsman or Watch officer:** dungeon, a 5,000 gp fine and flogging.
 
 ### Other laws
-- **Smokepowder is banned.** Only the City Guard and a few mages of the Watchful Order may have any, and only in small amounts. (Compare [[Lore/The Powder]].)
+- **Smokepowder is banned.** Only the City Guard and a few mages of the Watchful Order may have any, and only in small amounts. (Compare [[Lore/Dawnfire]].)
 - **Drugs:** a Lords' Edict bans making and selling drugs, but using or owning them isn't illegal. In practice only commoners get charged, on the assumption that they're dealing, unless they can show they work for the Guild of Apothecaries & Physicians.
 - **Guild Law:** rules made by the guilds. It can't override city law, but Magisters and the Watch enforce it, so many treat it as equal.
 - **Heraldry:** an edict forbids copying or mocking the arms of the city, its Lords or its nobles. Only those with written rights can order garments bearing them.
@@ -152,7 +152,7 @@ Crimes are split into four **Plaints**:
 - Is Laeral still Open Lord? (Also asked in [[NPCs/Arveiaturace - The White Wyrm|Arveiaturace]].)
 - Waterdeep got Dagult's hidden hoard back in 1492. Does it still want back what he spent rebuilding Neverwinter, and does it blame Neverwinter?
 - The simulacrum survived 1492 and Manshoon was never fought. Where are they in 1505? See [[NPCs/Manshoon]].
-- How does Waterdeep's smokepowder ban sit next to Neverwinter's powder houses?
+- How does Waterdeep's smokepowder ban sit next to Neverwinter's Dawnfire houses?
 
 ---
 
@@ -169,5 +169,5 @@ Crimes are split into four **Plaints**:
 - [[Factions/Lords' Alliance]]
 - [[Lore/Sword Coast Reference]]
 - [[Lore/Code Legal of Neverwinter]]
-- [[Lore/The Powder]]
+- [[Lore/Dawnfire]]
 - [[NPCs/Dagult Neverember]]

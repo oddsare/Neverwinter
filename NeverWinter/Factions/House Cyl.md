@@ -12,6 +12,7 @@ tags: [faction, noble-house, neverwinter, canon, ed-greenwood, mind-flayer, halr
 
 **Pronounced:** "sill", as in windowsill *(spelled C-Y-L)*
 **Type:** Noble house (shipping, warehouses, ships)
+**Campaign role (Brodie, 2026-10-22):** **one of the four major houses.** Merchants, mainly by ship, who handle **most of the city's storage and shipment of goods**. Bad or good: not decided. See [[Campaign Decisions]] §1.
 **Seat:** a castle-mansion in Neverwinter
 **Secret:** in thrall to mind flayers for generations
 **Origin:** came to Neverwinter long ago from **Halruaa**

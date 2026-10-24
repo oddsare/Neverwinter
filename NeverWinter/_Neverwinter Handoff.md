@@ -24,7 +24,7 @@ updated: 2026-10-20
 **Timeline rework** ([[Campaign Decisions]] §6, applied across the vault):
 - **Campaign starts 1505 DR** (was 1525). Canon's "present" is **1492 DR** (*Dragon Heist*); everything after is campaign territory.
 - **Renaer** born **1461**; 18 in 1479 (*Blackstaff Tower*), 31 in 1492, **took power 1503 at 42**, **44 at start**. Stable for 2 years, then pushback from influential people in the city and the places it protects.
-- **Dagult:** ousted from Waterdeep **1489**; barely held Neverwinter after **1492**; **vanished 1493** into the Neverneath. The powder (found **1486**, the year he sealed the Chasm) gave him and his **Mintarn** mercenaries a path to military might, but the weapons came too slowly, so he gambled on the Lost Crown. Trapped **12 years**, age **76**.
+- **Dagult:** ousted from Waterdeep **1489**; barely held Neverwinter after **1492**; **vanished 1493** into the Neverneath. Dawnfire (found **1486**, the year he sealed the Chasm) gave him and his **Mintarn** mercenaries a path to military might, but the weapons came too slowly, so he gambled on the Lost Crown. Trapped **12 years**, age **76**.
 - **Dance of the Revolving Lords: 1493–1503**, 10 years, 6 rulers (names later). Ophala has searched 12 years.
 - **Chasm sealing stays 1486 DR.** Canon gives no exact year; the wiki's 1484 and 1485 are editors' estimates.
 - A helper swept ~33 reference notes for 1525→1505 and recomputed ages; NPC status wording updated to fit (Brodie chose "update descriptions," not "make younger").
@@ -93,17 +93,18 @@ All are linked from [[Campaign Home]].
 - Tried to import the vault into **Lore** (Amsel Suite, `Desktop/New folder (5)/Neverwinterlore.lore`). It failed on Lore's side, and Brodie said it's not important. Nothing was written to that file.
 - Brodie asked what the campaign needs before it can start. The biggest gap: **the vault never says what the Shadowy Force actually is.**
 
-### 2026-10-13/14 — The Powder
-- Reworked [[Lore/The Powder]]. Added powder entries to [[TIMELINE]]: found in 1498 DR, guns perfected 1502–1520, and a DM-only secret about Dagult's disappearance. *(Since moved by the timeline rework: found 1486, Dance 1493–1503.)*
+### 2026-10-13/14 — Dawnfire
+- Reworked [[Lore/Dawnfire]]. Added Dawnfire entries to [[TIMELINE]]: found in 1498 DR, guns perfected 1502–1520, and a DM-only secret about Dagult's disappearance. *(Since moved by the timeline rework: found 1486, Dance 1493–1503.)*
 - [[Campaign Decisions]] §4 (Dagult sealed the Chasm, restored Bluelake). [[Lore/Ancient History]]: Llewyrrwood and Nethlur.
 
 ## Open questions (Brodie decides — don't fill these in)
 - **REMINDER (2026-10-20): what will Mystra and her Chosen do** about the enclaves pushing toward 10th-level spells, which Mystra forbade? See [[Campaign Decisions]] §3.
+- **The seed question (2026-10-21):** what is the campaign *about*? Brodie will work on it and how to use it. His rule: it must be something **people won't all agree on**. From a campaign-design video's six-step test: reasonable people disagree; villains and players come at it from different sides; every PC has a personal stake; don't tell the players the question, and have session one raise it within the first hour. Two candidates drawn from the notes (not chosen): "Who gets to set the limits on power?" and "Are people what their gods and nature made them, or what they choose?"
 - **What is the Shadowy Force?**
-- **Dagult's old DM secret:** [[TIMELINE]] (1493 entry) still has the older line that "someone else wanted the powder" and used his shady dealings to remove him, next to Brodie's newer reason (he gambled on the Lost Crown because the weapons came too slowly). Keep both (someone pushed him), or drop the old one? If kept: who?
-- **The four noble houses:** 3 bad, 1 good; one known for crafting and using the powder, one for mining it; no single family controls it. Names, values and members are Brodie's to set. (He rejected Claude's proposals; don't pitch unless asked.)
+- **Dagult's old DM secret:** [[TIMELINE]] (1493 entry) still has the older line that "someone else wanted Dawnfire" and used his shady dealings to remove him, next to Brodie's newer reason (he gambled on the Lost Crown because the weapons came too slowly). Keep both (someone pushed him), or drop the old one? If kept: who?
+- **The four noble houses:** 3 bad, 1 good; one known for crafting and using Dawnfire, one for mining it; no single family controls it. **House Cyl is one of the four** (2026-10-22: shipping and storage of goods; bad or good open). **House Handhagr** (HAND-hah-ger) is the crafting house that crafts and uses Dawnfire (2026-10-22; bad or good open). Names, values and members are Brodie's to set. (He rejected Claude's proposals; don't pitch unless asked.)
 - **The six failed rulers of the Dance** (1493–1503): names and fates.
-- **The powder:** the current note says it's **cooled 1451 lava in the city's riverbed and streets**. Earlier decisions (brimstone, natural vs. crafted crystals that get used up) were dropped from the note. Does any of that still apply? Also open: armor and weapons, why the world needs it.
+- **Dawnfire:** the current note says it's **cooled 1451 lava in the city's riverbed and streets**. Earlier decisions (brimstone, natural vs. crafted crystals that get used up) were dropped from the note. Does any of that still apply? Also open: armor and weapons, why the world needs it.
 - **The anti-god group** using Shar's tactics openly: goals, how far along, what people have noticed.
 - **Renaer as Tymora's Chosen:** what benefits, and does he know?
 - **Laraelra:** Harper or not; her age.

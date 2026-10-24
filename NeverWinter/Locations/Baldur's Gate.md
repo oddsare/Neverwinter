@@ -108,7 +108,7 @@ The Gate has always stayed neutral. It defends trade, stays out of other powers'
 - **Other threats:** Luskan's pirates, and Waterdeep's merchants, who resent the Gate's growth.
 
 ## Recent History (canon)
-- **1482 DR:** Grand Duke Abdel Adrian died fighting the last other Bhaalspawn. Chaos and martial law followed. The unrest turned out to be **Grand Duke Torlin Silvershield's plot to destroy the corrupt Parliament by blowing up stockpiled smokepowder.** (Compare [[Lore/The Powder]].)
+- **1482 DR:** Grand Duke Abdel Adrian died fighting the last other Bhaalspawn. Chaos and martial law followed. The unrest turned out to be **Grand Duke Torlin Silvershield's plot to destroy the corrupt Parliament by blowing up stockpiled smokepowder.** (Compare [[Lore/Dawnfire]].)
 - **1492 DR:** Elturel fell into Avernus while Ravengard was there.
 - **1492 DR:** the **Cult of the Absolute** marched on the city and an illithid **netherbrain** burst from the caves beneath it, wrecking several districts, the Upper City worst. Heroes either destroyed it or took control of it (*Baldur's Gate 3*).
 
@@ -128,4 +128,4 @@ The Gate has always stayed neutral. It defends trade, stays out of other powers'
 **Related:**
 - [[Factions/Lords' Alliance]]
 - [[Lore/Sword Coast Reference]]
-- [[Lore/The Powder]]
+- [[Lore/Dawnfire]]

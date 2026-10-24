@@ -299,7 +299,7 @@ The Lords' Alliance is a partnership of free cities and towns. Waterdeep, Silver
 - Is Renaer's Neverwinter still a member, and who holds its seat while Dagult is missing?
 - Is Laeral still Open Lord? (Also asked in the Arveiaturace note.)
 - Which 1489 DR rulers are still alive or in office? Laeral, Taern and Dagnabbet could easily live to 1505. Ravengard, Morwen and Nestra would be about 60–75.
-- How does the Alliance view Neverwinter's four major houses and the powder? (See [[Campaign Decisions]] and [[Lore/The Powder]].)
+- How does the Alliance view Neverwinter's four major houses and Dawnfire? (See [[Campaign Decisions]] and [[Lore/Dawnfire]].)
 - Where does the Alliance fit in the [[Lore/3 Faction Rule|Three-Faction Rule]] for this campaign, if anywhere?
 
 ---

@@ -50,6 +50,6 @@ Ed portrayed Elminster at Gen Cons and public appearances for years and now look
 ## Campaign connections (open threads)
 - **Abundant magic** ([[Campaign Decisions]] §3): Elminster handing out magic for Mystra is part of *why* magic is everywhere.
 - **Mystra and her Chosen:** Elminster is her Chosen. The open reminder about **what Mystra and her Chosen do about the 10th-level push** ([[Campaign Decisions]] §3) involves people like him.
-- **The powder (Dawnfire)** boosts all non-divine magic ([[Lore/The Powder]]). Whether it affects someone who draws on the Weave directly, and what he'd think of it, is open.
+- **Dawnfire** boosts all non-divine magic ([[Lore/Dawnfire]]). Whether it affects someone who draws on the Weave directly, and what he'd think of it, is open.
 - **Playing your level 10–15 house heads:** a step ahead, backup plans, gets even, long game, rarely shows full power.
 - Related: [[NPCs/Laeral Silverhand]], [[NPCs/Volothamp Geddarm (Volo)]], [[Lore/The Blackstaff]].

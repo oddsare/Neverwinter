@@ -124,7 +124,7 @@ tags: [npc, zhentarim, villain, waterdeep, dragon-heist, canon]
 - Where is the real Manshoon in 1505? Alive, dead, imprisoned, or gone from the Sword Coast?
 - Why hasn't he cast *simulacrum* in 13 years? Recasting it would destroy the survivor.
 - Did the party take his ledger? Are Corylus Thann and Jelenn Urmbrusk free of him?
-- Does his splinter Zhentarim have any reach into Neverwinter, or into the powder trade?
+- Does his splinter Zhentarim have any reach into Neverwinter, or into the Dawnfire trade?
 
 ---
 
