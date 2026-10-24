@@ -13,7 +13,7 @@ tags: [npc, dragon, steel-dragon, good, in-city, moonstone-mask, soft-claws, nev
 
 **Public identity:** a seamstress in Neverwinter — "the Laughing Laundress"
 **True identity:** an adult steel dragon living as a human
-**Leads:** the Soft Claws, a secret guild of ~60 agents
+**Leads:** [[Factions/The Soft Claws|the Soft Claws]], a secret guild of ~60 agents
 **Base:** her seamstress shop + [[Locations/Neverwinter/The Moonstone Mask|The Moonstone Mask]] (secret meeting ground)
 
 **Sources:** MrRhexx YouTube video on Zundaerazylym (transcript supplied 2026-10-11), which draws on Ed Greenwood's *Wyrms of the North* series in *Dragon* magazine; steel dragon canon via D&D Beyond.

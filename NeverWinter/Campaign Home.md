@@ -84,6 +84,7 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 - [[Factions/Arcane Brotherhood|The Arcane Brotherhood]]
 - [[Factions/House Cyl|House Cyl]]
 - [[Factions/House Crownrood|House Crownrood (Cormyr)]]
+- [[Factions/The Soft Claws|The Soft Claws]] (Zundaerazylym's secret guild)
 
 ### Quests
 - [[Quests/The Shadowy Force|The Shadowy Force]]
