@@ -47,6 +47,7 @@ This means **the user's hook is essentially canon**, not extrapolation. Pivoting
 
 ### Allies / network
 - **Already operates a criminal gang inside Neverwinter** (canon). Humans and halflings. They stoke shortages, steal magic items, inflame noble-house rivalries.
+- **The Gnawbones' signature scheme** (MrRhexx video, ~10:39): buy up a product and hoard it, **destroy the caravans and ships that carry it** to cut the supply, then sell the hoarded stock at a huge markup. She doesn't care about the money; she loves the "secret power" of having an organization do her will. *Reference only: Brodie has no plans for this right now (2026-10-24).*
 - Surveillance grid of **multiple crystal balls** — she watches her targets for hours, especially noblewomen.
 - **No cult.** Actively avoids the Cult of the Dragon. No hags, no druid orders.
 - One personal servant in her lair (the scale-oiler).
