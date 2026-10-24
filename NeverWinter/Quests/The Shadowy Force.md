@@ -191,7 +191,10 @@ Investigate the mysterious disappearances plaguing [[Locations/Neverwinter/Never
 
 ## DM Notes
 
-*Add your private DM notes about the true nature of the threat here*
+### The truth (Brodie, 2026-10-24)
+- **The anti-god group is behind the attacks.** This is the group that thinks the gods are overstepping and uses Shar's tactics openly (see [[Campaign Decisions]] §2).
+- **Shar is being blamed.** The city points at Shar and her cult; the group wants it that way.
+- Still open: the group's name, goals, how far along they are, and what people have noticed.
 
 ### Red herring: the White Wyrm
 [[NPCs/Arveiaturace - The White Wyrm|Arveiaturace]] really does snatch sailors off ships along this coast. Some reports the party hears are her. **But she takes people, not whole ships or cargo**, and leaves no mystery about it (sailors know her). A witness who says "the White Wyrm took him" is telling the truth, and that's the clue the rest of the disappearances are something else.

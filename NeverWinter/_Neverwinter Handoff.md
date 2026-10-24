@@ -100,12 +100,12 @@ All are linked from [[Campaign Home]].
 ## Open questions (Brodie decides — don't fill these in)
 - **REMINDER (2026-10-20): what will Mystra and her Chosen do** about the enclaves pushing toward 10th-level spells, which Mystra forbade? See [[Campaign Decisions]] §3.
 - **The seed question (2026-10-21):** what is the campaign *about*? Brodie will work on it and how to use it. His rule: it must be something **people won't all agree on**. From a campaign-design video's six-step test: reasonable people disagree; villains and players come at it from different sides; every PC has a personal stake; don't tell the players the question, and have session one raise it within the first hour. Two candidates drawn from the notes (not chosen): "Who gets to set the limits on power?" and "Are people what their gods and nature made them, or what they choose?"
-- **What is the Shadowy Force?**
+- ~~**What is the Shadowy Force?**~~ **Answered (2026-10-24):** the anti-god group is behind the attacks, and Shar is being blamed ([[Campaign Decisions]] §2).
 - **Dagult's old DM secret:** [[TIMELINE]] (1493 entry) still has the older line that "someone else wanted Dawnfire" and used his shady dealings to remove him, next to Brodie's newer reason (he gambled on the Lost Crown because the weapons came too slowly). Keep both (someone pushed him), or drop the old one? If kept: who?
 - **The four noble houses:** 3 bad, 1 good; one known for crafting and using Dawnfire, one for mining it; no single family controls it. **House Cyl is one of the four** (2026-10-22: shipping and storage of goods; bad or good open). **House Handhagr** (HAND-hah-ger) is the crafting house that crafts and uses Dawnfire (2026-10-22; bad or good open). Names, values and members are Brodie's to set. (He rejected Claude's proposals; don't pitch unless asked.)
 - **The six failed rulers of the Dance** (1493–1503): names and fates.
 - **Dawnfire:** the current note says it's **cooled 1451 lava in the city's riverbed and streets**. Earlier decisions (brimstone, natural vs. crafted crystals that get used up) were dropped from the note. Does any of that still apply? Also open: armor and weapons, why the world needs it.
-- **The anti-god group** using Shar's tactics openly: goals, how far along, what people have noticed.
+- **The anti-god group** using Shar's tactics openly (now known to be behind the Shadowy Force): name, goals, how far along, what people have noticed.
 - **Renaer as Tymora's Chosen:** what benefits, and does he know?
 - **Laraelra:** Harper or not; her age.
 - **Luskan:** who answers to whom among the Emperor, the Arcane Brotherhood and Bregan D'aerthe.
