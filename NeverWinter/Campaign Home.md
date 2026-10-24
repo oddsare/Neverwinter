@@ -88,6 +88,7 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 
 ### Quests
 - [[Quests/The Shadowy Force|The Shadowy Force]]
+- [[Quests/The Foster King|The Foster King]] (Claugiyliamatar's foster son, a suspected Alagondar heir)
 
 ### Sessions
 - [[Sessions/Session 0|Session 0 - Campaign Introduction]]
