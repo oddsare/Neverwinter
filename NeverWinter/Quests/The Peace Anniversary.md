@@ -25,7 +25,7 @@ The **second anniversary** of the [[NPCs/Renaer Neverember|Renaer Neverember]]â€
 
 ## The bitter history (Renaer's burden)
 
-- **Before 1493:** Luskan was **plotting to assassinate [[NPCs/Dagult Neverember|Dagult]]**. He had specific intelligence on a planned hit, and it was one of the reasons he went into the Neverneath after the Lost Crown in **1493**. He hasn't been seen since.
+- **Before 1493:** Luskan was **plotting to assassinate [[NPCs/Dagult Neverember|Dagult]]**. He had specific intelligence on a planned hit, and in **1493** he **went into the Neverneath to find the Lost Crown before the assassination attempt could happen** (Brodie, 2026-10-24). He hasn't been seen since.
 - **1493â€“1503:** the Dance of the Revolving Lords. Six short-lived rulers fail one after another. Neverwinter is divided, distrustful and exhausted.
 - **1503:** Renaer takes power as the 7th. **His very first act is to make peace with Luskan**, the city that was plotting against his father. In the May session's words: "fix what his dad started."
 

@@ -126,7 +126,7 @@ Luskan is located **north of [[Locations/Neverwinter/Neverwinter|Neverwinter]]**
 Ships traveling between Luskan and points south pass by [[Locations/Neverwinter/Neverwinter|Neverwinter]].
 
 ### Political Relationship
-- [[NPCs/Renaer Neverember|Lord Renaer Neverember's]] father, Dagult Neverember, had connections to Luskan, and Luskan was **plotting to assassinate him**. That plot was one of the reasons he went into the Neverneath in **1493 DR** (see [[NPCs/Dagult Neverember]]).
+- [[NPCs/Renaer Neverember|Lord Renaer Neverember's]] father, Dagult Neverember, had connections to Luskan, and Luskan was **plotting to assassinate him**. He went into the Neverneath in **1493 DR** to find the Lost Crown **before Luskan's assassination attempt could happen** (Brodie, 2026-10-24; see [[NPCs/Dagult Neverember]]).
 - The two cities are rivals
 - **Peace with Renaer (1503):** Renaer signed peace with Luskan as his first act of rule; 1505 is its second anniversary (Brodie, 2026-10-24). The peace holds but is fragile and built on unspoken history. See [[Factions/Luskan]] and [[Quests/The Peace Anniversary]].
 - [[Factions/City Guard|Neverwinter City Guard]] must watch for Luskan pirates and unsanctioned Brotherhood activity

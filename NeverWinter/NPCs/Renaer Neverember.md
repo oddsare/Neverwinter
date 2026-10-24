@@ -120,14 +120,25 @@ Renaer became the **7th ascension** in **1503 DR**.
 
 Lord Renaer has ruled for **2 years**, bringing much-needed stability to [[Locations/Neverwinter/Neverwinter|Neverwinter]]. It's not much time to get everything done, and he faces **pushback from influential people in the city and in the neighboring places the city protects**.
 
+### First act: the Luskan Peace (1503 DR)
+Renaer's very first act after taking power was to **sign peace with [[Locations/Luskan|Luskan]]** ([[Factions/Luskan]]), the city that had been **plotting to assassinate his father**. Dagult went into the Neverneath in 1493 to find the Lost Crown **before Luskan's assassination attempt could happen** (Brodie, 2026-10-24). Why Renaer made peace anyway is the **defining ambiguity of his reign**. Three readings, all in play:
+
+1. **He doesn't know** about the Luskan plot. The intel went into the Neverneath with Dagult.
+2. **He knows and chose anyway.** Civic stability mattered more than family.
+3. **He suspects but can't prove it,** and has watched Luskan carefully for two years.
+
+The peace holds. Its **second anniversary in 1505 DR** brings a Luskan delegation back to Neverwinter under cover of celebration. See [[Quests/The Peace Anniversary]].
+
 ### Accomplishments
 - Ended the chaos of the revolving lords
+- Signed the **1503 Luskan Peace** as his first act
 - Stabilized the city's economy
 - Rebuilt trust with trading partners
 - Strengthened the [[Factions/City Guard|City Guard]]
 - Begun restoring Neverwinter's reputation as the "Jewel of the North"
 
 ### Current Challenges
+- The **[[Quests/The Peace Anniversary|Luskan delegation]]** for the peace's second anniversary: ceremonial on the surface, a political move against him underneath
 - [[Quests/The Shadowy Force|Mysterious disappearances]] threaten trade routes
 - Whispers of **dissenters in the shadows**
 - The lingering damage of the [[Locations/Neverwinter/Districts/Chasm District|Chasm District]]
