@@ -20,6 +20,7 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 ### Planning
 - [[Campaign Decisions]]
 - [[Campaign Blueprint (Sclanders Method)|Campaign Blueprint (Sclanders method)]]
+- [[Session Prep Help]]
 
 ### Locations
 - [[Locations/Neverwinter/Neverwinter|Neverwinter - The Jewel of the North]]
@@ -64,6 +65,8 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 - [[Lore/Calendar of Harptos|Calendar of Harptos & Roll of Years (1492–1530 DR)]]
 - [[Lore/Pantheon of Faerun|Pantheon of Faerûn]]
 - [[Lore/Code Legal of Neverwinter|The Code Legal of Neverwinter]]
+- [[Lore/11 Places Every Town Needs|11 Places Every Town Needs (with Neverwinter check)]]
+- [[Lore/Nine Steps Before Session One|Nine Steps Before Session One (with Blueprint mapping)]]
 
 ### NPCs
 - [[NPCs/Soren Ironwake|Guard Captain Soren Ironwake]]
