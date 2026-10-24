@@ -10,13 +10,13 @@ tags: [quest, alagondar, claugiyliamatar, succession, political, foster-king]
 > A young man on a country estate. A loving mother who is not what she seems. A throne lost 54 years ago. A dragon who plays the long game.
 
 > [!info] Where this note came from
-> Written in May 2026 on another branch and brought in on 2026-10-24. Updated to **1505 DR**, with **Aldric 25** (Brodie, 2026-10-24). The Tier 1/2/3 ladder is now **early / middle / late**. Anything marked **(May draft, keep?)** was suggested by Claude in May, not decided by Brodie. The notes [[Factions/Renaer's Government]] and [[Factions/Claug's Network]] are still on the May branch and are reviewed separately.
+> Written in May 2026 on another branch and brought in on 2026-10-24. Updated to **1505 DR**, with **Aldric 28, found by Claug at 9** (Brodie, 2026-10-24). The Tier 1/2/3 ladder is now **early / middle / late**. Anything marked **(May draft, keep?)** was suggested by Claude in May, not decided by Brodie. The notes [[Factions/Renaer's Government]] and [[Factions/Claug's Network]] are still on the May branch and are reviewed separately.
 
 ## The premise
 
 [[NPCs/Claugiyliamatar - Old Gnawbone|Claugiyliamatar]] **suspects** she has found a true [[Lore/The Alagondar Dynasty|Alagondar]] heir.
 
-She has no proof. Her research, almost certainly from a stolen or secretly commissioned copy of [[NPCs/Indrina Lamsensettle|Indrina Lamsensettle]]'s dossier, points to a cadet line of the Alagondars that survived the 1451 eruption of Mount Hotenow. One descendant, a magically gifted orphan, was found and adopted by her around **1495 DR**, when he was about **15**. In **1505 DR** he is **25**: a mid-level wizard (5th to 7th level), **not yet a master**. He's grown, sure of himself, and building a name in Neverwinter society: salons, arcane circles, quiet patronage of younger mages, careful friendships with anyone who matters. He's old enough to be courted politically and swayed emotionally, but not yet powerful enough to craft Claug's ritual to become human for good.
+She has no proof. Her research, almost certainly from a stolen or secretly commissioned copy of [[NPCs/Indrina Lamsensettle|Indrina Lamsensettle]]'s dossier, points to a cadet line of the Alagondars that survived the 1451 eruption of Mount Hotenow. One descendant, a magically gifted orphan, was found and adopted by her in **1486 DR**, when he was **9**. In **1505 DR** he is **28**: a mid-level wizard (5th to 7th level), **not yet a master**. He's grown, sure of himself, and building a name in Neverwinter society: salons, arcane circles, quiet patronage of younger mages, careful friendships with anyone who matters. He's old enough to be courted politically and swayed emotionally, but not yet powerful enough to craft Claug's ritual to become human for good.
 
 His name in the world is **Aldric Vance** *(placeholder; Brodie will name him)*. He believes his adoptive mother is **Lady Maeve Vance**, a wealthy widowed minor noble with several properties to manage. The family estate where Aldric lives is on the outskirts of Neverwinter. Lady Maeve is **rarely there**; she travels constantly between her holdings. Aldric runs the estate as live-in steward and is happy with it: a city to charm, a quiet country house to come home to, and a mother whose love arrives by letter, gift and the occasional visit.
 
@@ -29,16 +29,16 @@ Lady Maeve Vance is Claugiyliamatar, wearing her *ring of chameleon power* and *
 If he proves to be the real heir, she gets two centuries of ambition in one stroke:
 
 1. **The throne of Neverwinter, through him.** Raised kindly. When he's ready, his bloodline is revealed, he opens the bloodline-locked vaults, and the [[Lore/The Lost Crown and Hidden Alagondar Vaults|Lost Crown of Neverwinter]] is his. The Sons of Alagondar rally to him. The Neverember claim (which [[NPCs/Dagult Neverember|Dagult]] faked) collapses under [[NPCs/Renaer Neverember|Renaer]]. Aldric becomes king, and rules with his beloved mother's quiet counsel.
-2. **Her ritual to become human for good.** At 25 Aldric can't craft it yet. The crown can come first: his blood qualifies him, not his magic. Her plan is **throne first** (middle to late campaign), **ritual later** (after the campaign or near its end, once 10 to 20 more years of patient teaching make him a master). He'll craft it out of love for the woman who raised him.
+2. **Her ritual to become human for good.** At 28 Aldric can't craft it yet. The crown can come first: his blood qualifies him, not his magic. Her plan is **throne first** (middle to late campaign), **ritual later** (after the campaign or near its end, once 10 to 20 more years of patient teaching make him a master). He'll craft it out of love for the woman who raised him.
 
 She gets her ritual **and** a city.
 
 ## The uncertainty: this is the engine
 
-**Claug only suspects.** The genealogy is suggestive but incomplete. She has spent ten years raising him on a guess.
+**Claug only suspects.** The genealogy is suggestive but incomplete. She has spent nineteen years raising him on a guess.
 
 So:
-- He might not be Alagondar at all. The vaults might not open, and her ten years are wasted.
+- He might not be Alagondar at all. The vaults might not open, and her nineteen years are wasted.
 - He might be, and the proof is somewhere in Indrina's surviving notes.
 - Someone else (the [[Factions/The Harpers|Harpers]], Renaer's people, a rival pretender) might prove or disprove it first.
 
@@ -108,7 +108,7 @@ Aldric is already a known face in Neverwinter society. The party will probably m
   - **Let it happen.** Aldric becomes king. He's a good king. Neverwinter prospers. Claug rules from the shadows forever, and most of the city never knows.
   - **Tell Aldric about Claug.** He has to choose: his mother or his city. He might break and refuse the throne, side with her and become a tyrant, kill her, or be killed by her.
   - **Kill Claug before the coronation.** Aldric is orphaned a second time, becomes king, and hates the party for taking his mother.
-  - **Discredit his claim.** The bloodline is denied or the genealogy buried. Renaer keeps the throne. Aldric is broken. Claug loses ten years of work and turns her rage on the party.
+  - **Discredit his claim.** The bloodline is denied or the genealogy buried. Renaer keeps the throne. Aldric is broken. Claug loses nineteen years of work and turns her rage on the party.
   - **Save Aldric from Claug without exposing her.** Get him away. He gives up the throne. Renaer keeps power. Claug hunts the party forever.
 
 ## Renaer's fate: up to the players
@@ -151,18 +151,19 @@ Claude suggested these in May. None are decided:
 ## Open questions (Brodie decides)
 
 - **Aldric's real name.** "Aldric Vance" is a placeholder. Brodie is writing it.
-- **Aldric's backstory.** How was he orphaned? What does he remember? What story did Claug use to "find" him at 15? Brodie is writing it.
+- **Aldric's backstory.** How was he orphaned? What does he remember? What story did Claug use to "find" him at 9? Brodie is writing it.
 - **Where is the estate?** Near Neverwinter (Brodie, May). Exact spot open: north of the walls, the edge of Neverwinter Wood, a coastal manor?
 - **Lady Maeve's cover story.** Her wealth, her near-constant absence and her refusing city invitations all need explaining.
 - **Does Aldric's magic look Alagondar?** The line was tied to the Many-Starred Cloak (good wizards). Strong divination or protection magic would fit.
+- **Who raised him day to day as a child?** Lady Maeve is "rarely there" now that he's grown. When he was a boy, was she there more, or did servants or a tutor raise him?
 - **Are there other Alagondar candidates Claug doesn't know about?**
 - **Is this the campaign's main political plot,** as the May draft said, or one storyline among several?
 
 ## DM notes
 
-- **Lady Maeve has to be genuinely loving on screen.** The horror is that the love is real. Claug has raised him for ten years (from 15 to 25) and does care for him. The tragedy is she'd still sacrifice him if the plan needed it.
+- **Lady Maeve has to be genuinely loving on screen.** The horror is that the love is real. Claug has raised him for nineteen years (from 9 to 28) and does care for him. The tragedy is she'd still sacrifice him if the plan needed it.
 - **Aldric is innocent.** Players will want to save him. Let them, but make the cost matter. What the party gives up to save him matters more than the rescue.
-- **The "still at home" tell.** Aldric is 25 and has never lived anywhere but the family estate. He doesn't think it's strange: he's the steward, Mother is rarely there, and he's looking after family property. The off note is *how* he talks about her, with a child's unguarded warmth instead of a grown son's measured affection.
+- **The "still at home" tell.** Aldric is 28 and has never lived anywhere but the family estate. He doesn't think it's strange: he's the steward, Mother is rarely there, and he's looking after family property. The off note is *how* he talks about her, with a child's unguarded warmth instead of a grown son's measured affection.
 - **Don't reveal Claug too early.** Early: "who is this charming young wizard?" Middle: "wait, his mother is *what*?" Late: "what will the heir choose?"
 - **Use the [[Lore/3 Faction Rule|3 Faction Rule]] inside each faction too.** The Sons of Alagondar, Renaer's court and Lady Maeve's own staff each split into good, bad and ugly. The party should feel lost in the political forest.
 - **The Lost Crown vault test is the single most important scene of the middle campaign.** Set it up carefully and make the players earn it. If the vault opens for Aldric, the whole campaign changes shape.
