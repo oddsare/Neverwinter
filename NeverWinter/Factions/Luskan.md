@@ -54,8 +54,8 @@ Jarlaxle's drow mercenaries are still behind the Ships, as in canon.
 
 - **Before 1493:** Luskan was **plotting to assassinate [[NPCs/Dagult Neverember|Dagult]]**. He had specific intelligence on a planned hit, and it was **one of the reasons he went into the Neverneath** after the Lost Crown in 1493. The plot may still operate in 1505 through successors.
 - **1493–1503 (the Dance of the Revolving Lords):** *(May draft, keep?)* Luskan exploits Neverwinter's instability, raids trade routes and props up some of the failed lords for leverage.
-- **Peace with Renaer:** *(May draft, keep?)* [[NPCs/Renaer Neverember|Renaer]] signs peace with Luskan as his first act of rule, and the peace holds. **The year isn't set.** If it was his first act, it's 1503 and the peace is 2 years old in 1505. To be decided with [[Quests/The Peace Anniversary]].
-- **The anniversary:** *(May draft, keep?)* Luskan sends a delegation to mark the peace. On the surface it's a celebration; really it's a **political move** against Renaer. See [[Quests/The Peace Anniversary]].
+- **1503, peace with Renaer:** [[NPCs/Renaer Neverember|Renaer]] signs peace with Luskan as his first act of rule, and the peace holds (Brodie, 2026-10-24).
+- **1505, the second anniversary:** Luskan sends a delegation to mark the peace. On the surface it's a celebration; really it's a **political move** against Renaer. See [[Quests/The Peace Anniversary]].
 
 ---
 
