@@ -12,7 +12,7 @@ tags: [faction, active, secret, mercenary, dragon, zundaerazylym, moonstone-mask
 
 **Type:** Secret guild that passes as a mercenary company
 **Allegiance:** Good (covertly)
-**Symbol:** a smooth four-pointed silver-blue star (the Nevertoken itself)
+**Symbol:** a smooth four-pointed silver-blue star (the Never Token itself)
 **Meeting ground:** [[Locations/Neverwinter/The Moonstone Mask|The Moonstone Mask]] (secret)
 **Scope:** Sword Coast North; historically as far east as Suzail and as far south as Baldur's Gate
 **True leader:** [[NPCs/Zundaerazylym - The Laughing Wyrm|Zundaerazylym]], an adult steel dragon living as a human seamstress (unknown to most members)
@@ -75,23 +75,17 @@ Most members do **not** know:
 
 ---
 
-## The Nevertoken
+## The Never Tokens
 
-Every member carries one of **Zundaerazylym's Nevertokens**.
+Every member carries one of **Zundaerazylym's Never Tokens**: glossy silver-blue four-pointed stars from her Halruaan inheritance. **The full write-up (origin, look, how they work and every known power) is in [[NPCs/Zundaerazylym - The Laughing Wyrm#The Never Tokens|her note]]**, which is the one to follow.
 
-### Appearance
-A smooth, glossy, **silver-blue metal star** with four blunted points, about **1 inch thick and 4 inches across**. Cool to the touch. It doesn't tarnish.
-
-### Origin
-She received a cache of **more than 100 tokens** in **1320 DR** from **Ensible Mritavvalan**, the dying last of that family. Who the Mritavvalans were, and why they had the tokens, is unknown.
-
-### Properties (homebrew, May draft, keep?)
-- **One-way message:** once a day, the bearer can send one word or a short phrase into her mind, wherever she is. She can answer or not.
-- **Recognition:** any member who sees the token knows the bearer belongs.
-- **Warms near dragons:** within 30 ft of any dragon, the token grows faintly warm. Members learn to read it as a warning without knowing why.
+### Where the May draft differs (May draft, keep?)
+The May draft had its own version, which doesn't match her note:
+- **Origin:** 100+ tokens received in **1320 DR** from **Ensible Mritavvalan**, the dying last of the Mritavvalan family. Her note says they came from **the last survivors of a Halruaan noble family** she protected for about 30 years, with no names or date. Could the Mritavvalans be that family?
+- **Powers:** a once-a-day one-way message to her, members recognizing each other's tokens, and the token warming within 30 ft of any dragon. None of these are in her note's list.
 
 ### As a plot object
-A token found on a body, bought from a curio dealer or lifted from a contact is distinctive and magical, and it leads back to the Moonstone Mask if someone follows it. She has handed tokens out for about 185 years, so some are surely lost, stolen or sitting in ruins.
+A token found on a body or lifted from a contact is distinctive and leads back to the Moonstone Mask if someone follows it. *Identify* reveals nothing, and an agent about to be captured can use **Never Return** to send it to her safe house, so loose tokens should be rare.
 
 ---
 
@@ -140,7 +134,7 @@ She could recruit the party early, after a job they handled well, presenting the
 
 ## Open questions (Brodie decides)
 - **Her human name.** The May draft called her **Amundra Nelaerdra**, a laundress *at* the Mask. The current note has her as a seamstress with her own shop and gives no name. Keep "Amundra"?
-- **Nevertoken powers:** keep the three homebrew properties above?
+- **Never Tokens:** keep any of the May draft's differences (the Mritavvalan name, 1320 DR, the three extra powers), or follow her note only?
 - **Current operations:** keep any of the four May ideas, including the links to Claugiyliamatar and Kurtulmak's Chosen?
 - **Arcane Brotherhood:** hostile, as the May draft says?
 - **Who in the inner circle knows** she's a dragon?
