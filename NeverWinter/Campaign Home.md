@@ -86,6 +86,7 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 - [[Factions/House Crownrood|House Crownrood (Cormyr)]]
 - [[Factions/The Soft Claws|The Soft Claws]] (Zundaerazylym's secret guild)
 - [[Factions/The Alagondar Bloodline|The Alagondar Bloodline]] (hidden heirs, false claimants, the Sons of Alagondar)
+- [[Factions/Claug's Network|Claug's Network]] (Claugiyliamatar's hidden machinery behind the Foster King plan)
 
 ### Quests
 - [[Quests/The Shadowy Force|The Shadowy Force]]
