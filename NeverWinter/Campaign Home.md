@@ -21,6 +21,7 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 - [[Campaign Decisions]]
 - [[Campaign Blueprint (Sclanders Method)|Campaign Blueprint (Sclanders method)]]
 - [[Session Prep Help]]
+- [[DM Practice Exercises]]
 
 ### Locations
 - [[Locations/Neverwinter/Neverwinter|Neverwinter - The Jewel of the North]]
