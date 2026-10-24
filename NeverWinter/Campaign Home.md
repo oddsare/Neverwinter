@@ -91,6 +91,9 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 - [[Factions/Claug's Network|Claug's Network]] (Claugiyliamatar's hidden machinery behind the Foster King plan)
 - [[Factions/Luskan|Luskan (political faction)]] (the Emperor, the High Captains, the Brotherhood)
 
+### Items
+- [[Items/White Resin|White Resin]] (yuan-ti drug; low priority, may be removed)
+
 ### Quests
 - [[Quests/The Shadowy Force|The Shadowy Force]]
 - [[Quests/The Foster King|The Foster King]] (Claugiyliamatar's foster son, a suspected Alagondar heir)
