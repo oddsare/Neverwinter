@@ -70,6 +70,7 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 - [[Lore/11 Places Every Town Needs|11 Places Every Town Needs (with Neverwinter check)]]
 - [[Lore/Nine Steps Before Session One|Nine Steps Before Session One (with Blueprint mapping)]]
 - [[Lore/World-Building Lessons|World-Building Lessons (nine lessons from ten years)]]
+- [[Lore/Mystic Arts - Master Campaign Prep|Mystic Arts - Master Campaign Prep (rogues' gallery, legacy PCs, long campaigns)]]
 
 ### NPCs
 - [[NPCs/Soren Ironwake|Guard Captain Soren Ironwake]]
