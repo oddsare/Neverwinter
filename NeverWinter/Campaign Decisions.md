@@ -20,7 +20,7 @@ Brodie's decisions that don't have their own note yet. Recorded 2026-10-12. Deta
 - **Another house** handles the **mining**.
 - **House Cyl is one of the four major houses** (Brodie, 2026-10-22): merchants, mainly by ship, who handle **most of the city's storage and shipment of goods**. Canon secret: in thrall to mind flayers (see [[Factions/House Cyl]]). Still open: bad or good.
 - **No single family controls Dawnfire.**
-- **Maybe an idea (Brodie, 2026-10-24):** a noble house secretly powered by a pact with an archfey. Placeholder only; see [[Factions/House [TBD] - Fey Pact]].
+- **Maybe an idea (Brodie, 2026-10-24):** a noble house secretly powered by a pact with an archfey. Placeholder only; see [[Factions/House TBD - Fey Pact]].
 
 See [[Lore/Dawnfire]].
 

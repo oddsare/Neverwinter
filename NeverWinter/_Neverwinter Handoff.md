@@ -5,7 +5,7 @@ tags:
   - neverwinter
   - handoff
 created: 2026-10-18
-updated: 2026-10-20
+updated: 2026-10-25
 ---
 
 # Neverwinter Campaign — Handoff
@@ -19,6 +19,39 @@ updated: 2026-10-20
 - Opening quest: [[Quests/The Shadowy Force|The Shadowy Force]], with contact [[NPCs/Soren Ironwake|Guard Captain Soren Ironwake]]. The players will decide how they meet Soren, using the routes in [[Campaign Hook]].
 
 ## Recent sessions
+
+### 2026-10-24 to 10-25: cloud: branch review, May drafts brought in
+Brodie asked for a review of every branch so the vault is easy to follow. **All of this is on branch `claude/sharp-knuth-hygxld`, built on top of `neverwinter-city-build`. Merge it into `neverwinter-city-build` to keep it.**
+
+**May drafts reviewed one by one and brought in** (from the dormant May branches; each updated to 1505 DR, no tier wording, May-only ideas marked *(May draft, keep?)*):
+- [[Factions/The Soft Claws]]: follows [[NPCs/Zundaerazylym - The Laughing Wyrm|Zundaerazylym]]'s note for the Never Tokens; May differences listed.
+- [[Quests/The Foster King]]: **Aldric is 28 in 1505; Claug found him at 9, in 1486** (Brodie).
+- [[Factions/The Alagondar Bloodline]]: gathers every heir and claimant in the vault (Aldric, Ed's hidden kin, Indrina's dossier, Dagult's hunted heirs, Seldra) plus a "plot so far" timeline (Brodie asked for "all of it and the plot").
+- [[Factions/Claug's Network]], [[Factions/Renaer's Government]], [[Factions/Luskan]] (plus [[Locations/Luskan]]'s relationship section), [[Quests/The Peace Anniversary]], [[Locations/Neverwinter/Shard of the Moon]] (merged with the canon already in the vault).
+- [[Factions/House TBD - Fey Pact]]: **placeholder, "maybe an idea"** (Brodie). Origin unclear.
+- [[Items/White Resin]] and [[NPCs/White Resin Dealer (name TBD)]]: **low priority, may be removed** (Brodie). Yuan-ti stays a standalone thread.
+- May edits applied to [[NPCs/Renaer Neverember]] (the Luskan Peace) and [[Factions/Arcane Brotherhood]] (the anniversary advisor).
+
+**Decisions (Brodie):**
+- **Claugiyliamatar moved to Neverwinter:** under the city, maybe in the Neverwinter Wood, to be close to Aldric and keep tabs on him and the city ([[Campaign Decisions]] §14). Canon has her stay in Deeping Cave; this is Brodie's change.
+- **The anti-god group is behind the Shadowy Force; Shar is being blamed** ([[Campaign Decisions]] §2).
+- **The Luskan peace was signed in 1503** as Renaer's first act; **1505 is its second anniversary.**
+- **Dagult went into the Neverneath to find the Lost Crown before Luskan's assassination attempt could happen.**
+- **Dagult is a con man, not a villain** (as in §7); notes that framed him as having wronged the city were reworded.
+- **Tier wording stays out** of every note brought in.
+- `CLAUDE.md` gained the May working rules: don't connect threads unless told, add to existing notes, Brodie writes names and backstories.
+
+**Other:**
+- New [[Lore/Mystic Arts - Master Campaign Prep]] (from a transcript Brodie pasted).
+- [[NPCs/Claugiyliamatar - Old Gnawbone|Claug's note]] gained the Gnawbones' hoard-and-markup scheme, **reference only; no plans for it now** (Brodie).
+- Cleanup: [[Campaign Home]] reorganized to link every note; *Kurtulmak's Chosen* moved into `NeverWinter/Quests/`; two May files renamed to drop square brackets (Obsidian can't link them); broken links fixed; the last 1525 leftovers fixed.
+- **Old branches left dormant on purpose** (Brodie): `main`, `aws-dea-storage-study-notes`, `claude/check-neverwinter-project-EcqrQ`, `claude/review-optimize-agents-Sr9R6` (with PR #1 and the unrelated obsidian-mind tooling). Everything campaign-related from them is now brought in.
+
+### 2026-10-21 to 10-24: desktop (from the commit log)
+- **The Powder renamed to [[Lore/Dawnfire]]**; Neverwinter notes updated.
+- New lore notes: [[Lore/Ed Greenwood - North Ward of Waterdeep]], [[Lore/MrRhexx - Epic Magic and High Magic]], [[Lore/MrRhexx - How Mystra's Ban Works]], [[Lore/MrRhexx - Tenth-Level Spells of Netheril]].
+- New planning and DM-craft notes: [[Lore/11 Places Every Town Needs]], [[Lore/Nine Steps Before Session One]], [[Session Prep Help]], [[Lore/World-Building Lessons]], [[DM Practice Exercises]].
+- House Cyl and House Handhagr decisions (see the open questions below).
 
 ### 2026-10-18 to 10-20 — desktop: timeline rework, Renaer's circle, races, lore videos
 **Timeline rework** ([[Campaign Decisions]] §6, applied across the vault):
@@ -78,7 +111,7 @@ All are linked from [[Campaign Home]].
 
 **Git:**
 - Commits `216b08b` and `9960d12` are pushed.
-- **The nine lore notes, Campaign Home links and this handoff are not yet committed** at time of writing.
+- The nine lore notes, Campaign Home links and this handoff were committed afterward (`85801dc`, 2026-10-20).
 - Brodie's **AWS study edits and Job Search folder** on the desktop stay uncommitted on purpose.
 
 ### 2026-10-18 — canon research (laptop)
@@ -112,6 +145,14 @@ All are linked from [[Campaign Home]].
 - **The King-Killer Star** (the Dracorage Mythal): when it last appeared and when it's next due. It would drive every dragon in the campaign mad.
 - **Starting point:** Neverwinter locals (original text) or a Candlekeep start?
 - **Indrina Lamsensettle's 1505 status.**
+- **From the 2026-10-24/25 review** (each note's own open questions have the details):
+  - Claug's new lair: under the city or in the Neverwinter Wood? When did she move? What happened to Deeping Cave? ([[Campaign Decisions]] §14)
+  - Aldric's real name and backstory; who raised him as a boy ([[Quests/The Foster King]]).
+  - Ed's hidden kin: is "Alagondar" final? ([[Factions/The Alagondar Bloodline]])
+  - The Peace Anniversary: the son, the Brotherhood advisor, which political move, and which reading of Renaer is true.
+  - The Moonstone Mask: Selûnite or not? Lady Jasmine or a successor at the Shard? ([[Locations/Neverwinter/Shard of the Moon]])
+  - The Soft Claws' May extras and the Never Token differences ([[Factions/The Soft Claws]]).
+  - Missing notes linked from several places: **Campaign Blueprint (Sclanders Method)** (on the desktop?) and **Sessions/Session 0**.
 - **What is everyone in Neverwinter fighting over?** This was suggested on 2026-10-18 as a way into the intrigue; Brodie hasn't answered.
 - From [[Campaign Decisions]] §5: where the real Manshoon is in 1505 and why he hasn't recast *simulacrum*; where the simulacrum is and who it obeys; how Dagult reacted to 1492; who the 1492 party was; the ledger and Jelenn Urmbrusk's favour.
 
@@ -178,4 +219,5 @@ The kinds of power these settings mix: bloodline, money, force, faith, magic, cr
 - The Forgotten Realms Fandom wiki returns **HTTP 402 to WebFetch**. Instead, open `forgottenrealms.fandom.com` in the built-in browser and call the MediaWiki API from the page, e.g. `fetch('/api.php?action=parse&format=json&prop=text&page=Thay')`.
 - Claude's local memory folder is empty on the **laptop** but has files on the **desktop**. The shared preferences are in `CLAUDE.md` either way.
 - Long YouTube transcripts: Brodie pastes them; save as `Lore/Ed Greenwood - <topic>.md` or `Lore/MrRhexx - <topic>.md`, summarized in Claude's own words (no long quotes), canon reference plus open-thread campaign connections, and link them from [[Campaign Home]].
-- Git branch: `neverwinter-city-build` (pushed to `origin`).
+- Git branch: `neverwinter-city-build` (pushed to `origin`). The 2026-10-24/25 cloud work is on `claude/sharp-knuth-hygxld`, built on top of it, waiting to be merged. Other branches are dormant on purpose.
+- `graphify-out/` (the link graph) was last built 2026-10-18 and is out of date.

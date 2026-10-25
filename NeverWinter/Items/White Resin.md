@@ -19,7 +19,7 @@ tags: [item, drug, contraband, yuan-ti, transformation, black-market, paralytic,
 **Source:** Yuan-ti — refined from rare tropical herbs and yuan-ti halfblood or pureblood venom
 **Street Price:** 10–25 gp per dose (high demand, difficult supply; price spikes when shipments are interrupted). *The dealer note says 5–15 gp; Brodie to pick one.*
 **Legal Status:** Illegal in Neverwinter. Possession and distribution are serious crimes under the [[Lore/Code Legal of Neverwinter|Code Legal]].
-**Availability:** Black market only — see [[NPCs/[NAME TBD] - White Resin Dealer]]
+**Availability:** Black market only — see [[NPCs/White Resin Dealer (name TBD)]]
 
 ---
 
@@ -153,5 +153,5 @@ The yuan-ti designed white resin deliberately:
 ---
 
 **Related:**
-- [[NPCs/[NAME TBD] - White Resin Dealer|The White Resin Dealer]]
+- [[NPCs/White Resin Dealer (name TBD)|The White Resin Dealer]]
 - [[Lore/Code Legal of Neverwinter|The Code Legal of Neverwinter]]

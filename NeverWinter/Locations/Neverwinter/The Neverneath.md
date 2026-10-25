@@ -143,4 +143,4 @@ If the party can determine the ward is sentient and convince it they are not thr
 - [[NPCs/Dagult Neverember]] — almost certainly tried and failed to open the Inner Vault in 1493
 - [[NPCs/Renaer Neverember]] — son of Dagult; same bloodline problem
 - [[Lore/Ancient History]] — Halueth Never and the founding of Eigersstor
-- [[Lore/Three Cataclysms]] — the Spellplague that corrupted the ward
+- [[Lore/The Three Cataclysms]] — the Spellplague that corrupted the ward

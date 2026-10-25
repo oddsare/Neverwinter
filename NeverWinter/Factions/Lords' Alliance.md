@@ -16,7 +16,7 @@ status: active
 **Scope:** The Sword Coast, the North and the Western Heartlands
 **Status:** Active (canon). Its state in 1505 DR is Brodie's call.
 
-> Canon reference only. Everything here comes from published Forgotten Realms material, mostly as summarized by the Forgotten Realms Wiki, and reflects **c. 1489 DR**. Most published canon covers the 1480s–1490s DR, and a few recent books reach about 1501–1505 DR. 1525 DR is past all of it. Who sits on the council in 1505 DR is not decided yet (see the open questions at the end).
+> Canon reference only. Everything here comes from published Forgotten Realms material, mostly as summarized by the Forgotten Realms Wiki, and reflects **c. 1489 DR**. Most published canon covers the 1480s–1490s DR, and a few recent books reach about 1501–1505 DR. 1505 DR sits at the very edge of it. Who sits on the council in 1505 DR is not decided yet (see the open questions at the end).
 
 ---
 

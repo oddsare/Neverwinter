@@ -79,7 +79,7 @@ All levels are connected by a central spiral staircase. A pulley-operated cargo 
 
 Clientele runs the gamut: sailors, dockworkers, smugglers, thieves, **press gangs**. Brawling is common (and tends to get a patron tossed). Nautical slang dominates speech ("ballast" for a drunk, "privateer" for a newcomer). Neverember's people quietly monitor the place as a window into the city's underworld and rarely intervene (p. 11).
 
-> See [[Lore/Pre-1502 Supporting Cast]] for [[NPCs/Captain Harrag|Harrag]] and the full crew — they were the regulars circa 1490s. Status by 1505 is anyone's guess.
+> See [[Lore/Pre-1502 Supporting Cast]] for Harrag and the full crew — they were the regulars circa 1490s. Status by 1505 is anyone's guess.
 
 ---
 

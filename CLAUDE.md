@@ -9,6 +9,9 @@ Copied from Claude's local memory on Brodie's desktop (2026-10-12) so these pref
 
 ## Neverwinter campaign
 - **Don't invent campaign content** (houses, villains, plots, names, motives) unless Brodie explicitly asks for ideas. He leads. Ask questions, organize his ideas in his words, look up canon when asked, and point out conflicts with existing notes.
+- **Don't connect plot threads, NPCs, locations or items** unless Brodie says to. Record what he gives; don't add implications, hooks or cross-plot ties on your own. (From the May 2026 sessions, re-confirmed 2026-10-25.)
+- **Add to existing notes instead of making duplicates.** If a note already exists for a subject, add to it.
+- **Brodie writes all character names and personal backstories.** Use placeholders like `[NAME TBD]` until he supplies them.
 - **Political intrigue is the spine.** The factions and people of Neverwinter are the core; dragons, gods and dungeons serve that.
 - **Breathing world:** several storylines run in parallel whether the players engage or not.
 - **Three-Faction Rule** (Good / Bad / Ugly, from Mystic Arts) is Brodie's default plot lens. The Good side starts out losing; the Ugly is the wildcard that tips the balance. See `NeverWinter/Lore/3 Faction Rule.md`.

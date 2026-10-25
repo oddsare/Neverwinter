@@ -25,7 +25,7 @@ This is a reframing of the original Plot Point #1 (the kobold undercity led by a
 
 | In-game timeframe | What's happening underground |
 |---|---|
-| Campaign start (1525 DR) | Underground city ~500 kobolds, well-funded; the Chosen is anointed but not yet powerful; small surface raids for resources |
+| Campaign start (1505 DR) | Underground city ~500 kobolds, well-funded; the Chosen is anointed but not yet powerful; small surface raids for resources |
 | ~6 in-game months | Population growing, wealth accumulating from intercepted High Road and Sword Mountains trade; recruiting unusual minions (drow exiles, deep gnomes turned cultists, derro mercenaries) |
 | ~1 in-game year | First powerful magical artifact acquired; ritual to begin transformation discovered |
 | ~2 in-game years | Transformation ritual in active preparation; raids on the surface intensify and become more brazen |
