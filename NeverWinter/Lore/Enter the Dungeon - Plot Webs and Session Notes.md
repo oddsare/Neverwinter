@@ -41,6 +41,32 @@ World, Narrative, Session, PC and NPC. The PC folder holds the **backstories** a
 - **Predict the route:** from where the party starts, the closest connected node is the likeliest next step. That gives a rough arc plan, which can change.
 - **Start low-stakes** while a new group gels, before the heavy story. A villain can appear early in the background as a tease.
 
+## Building better connections (video 2)
+- **Count nodes, not words.** Names, groups and recent events make nodes; a long backstory can have few. Aim for **about 6–7 nodes per PC**. Fewer is easier for players to follow, especially if they don't play weekly.
+- **Don't go with the first idea.** First connections are usually weak. Be critical: would it work for these players and this table?
+- **Concepts are the best nodes.** A backstory built on an idea (an ideology, a belief) does more than one built on events. Put a PC's concept next to the villain's: a villain who believes something close to it gives that PC a campaign-long question ("how am I different?").
+- **Thematic connections:** two things that *rhyme* (two characters who each lost something to an artifact) link even without a plot tie.
+- **Far connects to far.** Something hard to place (long ago, far away) often links to other things that are long ago or far away.
+- **Leave some nodes blank** on purpose: a hook to use later when you need one.
+- **PC-against-PC tension** only with players you trust, and only if the table wants it.
+
+## Changing a plot web
+- **The web is meant to change.** Revise it as you play, from what the players do and what they care about.
+- **When a PC dies or leaves: add, don't subtract.** Keep the old character's nodes (honor them, and they're tied to everyone else). Ask the player how much the new character should connect to the old one. The goal: the new PC feels like **someone the party hadn't met yet**, not someone new.
+- **New PCs are easy; a new villain or central tension is hard.** Change it only for a reason: usually because the players have started to care about (or hate) something else.
+- **The central tension can be an idea**, not a villain.
+- **Don't build the center from one player's backstory alone.** If that player leaves or the character dies early, it collapses.
+- **Swap through gray areas:** nodes the players have touched but know little about. Untouched space feels like random new information; gray areas let you reveal the new villain "was there all along."
+- **Add as few new nodes as possible**, and give the players **several routes** to the truth, not one.
+- **Villains have two motives:** the one they tell people, and the secret one they keep.
+- **A tighter web** (more connections) feeds on itself and moves faster, but it's harder to predict and run. Leave nodes unintroduced to keep it simpler.
+- **Method over looks.** A notebook is fine; an effective web beats a pretty one.
+
+## Using the web in prep
+- It shows **which nodes to seed and keep supported**, so important threads don't wither.
+- **Not everything in the campaign is on the web:** random encounters and one-off NPCs don't need to be.
+- **Drop small touches into unrelated sessions** that support the central tension (a townsfolk complaint, a passing NPC), or plant a possible node for later.
+
 ## Related
 - [[_Templates/Session Template]]
 - [[Session Prep Help]]

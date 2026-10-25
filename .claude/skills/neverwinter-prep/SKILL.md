@@ -36,6 +36,10 @@ Method reference: `NeverWinter/Lore/Enter the Dungeon - Plot Webs and Session No
 - **Connections:** only ones Brodie makes or approves. Leave gaps; fill them in over time.
 - **Backstory secrets:** what a player wrote is what the character knows. What's really behind it is Brodie's call; keep secrets out of anything players see.
 - **Reading it:** the most-connected nodes matter most; every PC should reach the center; the closest node to where the party is now is the likeliest next step.
+- **Keep it lean:** about 6–7 nodes per PC. Concepts (ideologies, beliefs) make the best nodes; thematic "rhymes" count as connections; leave some nodes blank on purpose.
+- **When a PC dies or leaves:** add nodes, don't remove the old ones. Ask Brodie how much the new PC should tie to the old.
+- **Changing the villain or central tension:** only when Brodie decides. Go through gray areas (nodes the players touched but know little about), add as few nodes as possible, and keep several routes to the truth.
+- **In prep:** check which important nodes need seeding or support, and suggest small touches for the central tension. Mark them 💡.
 - After each session, update which nodes the party has uncovered.
 
 ## Arcs
