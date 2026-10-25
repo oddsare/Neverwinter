@@ -143,7 +143,8 @@ All are linked from [[Campaign Home]].
 - **Laraelra:** Harper or not; her age.
 - **Luskan:** who answers to whom among the Emperor, the Arcane Brotherhood and Bregan D'aerthe.
 - **The King-Killer Star** (the Dracorage Mythal): when it last appeared and when it's next due. It would drive every dragon in the campaign mad.
-- **Starting point:** Neverwinter locals (original text) or a Candlekeep start?
+- ~~**Starting point:** Neverwinter locals (original text) or a Candlekeep start?~~ **Answered (2026-10-25): everyone starts in Neverwinter;** Candlekeep is too far ([[Campaign Decisions]] §15).
+- **Session one prep** is in progress: [[Sessions/Session 1]]. 4 players wanted (none yet), level 1, not a tavern opening, session zero later.
 - **Indrina Lamsensettle's 1505 status.**
 - **From the 2026-10-24/25 review** (each note's own open questions have the details):
   - Claug's new lair: under the city or in the Neverwinter Wood? When did she move? What happened to Deeping Cave? ([[Campaign Decisions]] §14)

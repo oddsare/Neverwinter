@@ -197,3 +197,11 @@ Recorded 2026-10-24. See [[NPCs/Claugiyliamatar - Old Gnawbone]] and [[Quests/Th
   - When did she move: before or after she found Aldric in 1486?
   - What happened to Deeping Cave and her hoard?
   - **Neighbor check:** [[NPCs/Zundaerazylym - The Laughing Wyrm|Zundaerazylym]]'s secret token safe house is a cavern under the Neverwinter Wood, inside Claug's claimed territory. If Claug lairs in the Wood, the two are close.
+
+## 15. The table and session one
+Recorded 2026-10-25. See [[Sessions/Session 1]].
+- **Looking for 4 players.** None found yet, so characters are unknown.
+- **Start at level 1.**
+- **Everyone starts in Neverwinter.** Candlekeep is too far.
+- **Session one does not open in a tavern.**
+- **Session zero:** probably, but not planned yet.

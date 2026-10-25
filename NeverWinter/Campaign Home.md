@@ -34,6 +34,7 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 
 ### Sessions
 - [[Sessions/Session 0|Session 0 - Campaign Introduction]] *(not written yet)*
+- [[Sessions/Session 1|Session 1]] *(prep in progress)*
 
 ### NPCs
 **Neverwinter**
