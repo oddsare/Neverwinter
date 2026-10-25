@@ -164,6 +164,7 @@ The [[Campaign Hook|Shadowy Force]] haunts the trade routes of Neverwinter. Ship
 
 ### DM craft
 - [[Lore/3 Faction Rule|The 3 Faction Rule]] (Brodie's default plot lens)
+- [[Lore/Enter the Dungeon - Plot Webs and Session Notes|Enter the Dungeon - Plot Webs and Session Notes]] (the session layout and plot web method)
 - [[Lore/Mystic Arts - Master Campaign Prep|Mystic Arts - Master Campaign Prep]] (rogues' gallery, legacy PCs, long campaigns)
 - [[Lore/World-Building Lessons|World-Building Lessons]] (nine lessons from ten years)
 - [[Lore/Nine Steps Before Session One|Nine Steps Before Session One]] (with Blueprint mapping)

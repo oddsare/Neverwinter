@@ -28,4 +28,6 @@ desktop.ini
 **/.dataF.js
 **/.extract_*.py
 **/.build_*.py
-.claude/
+.claude/*
+# ...except shared skills, so they follow the repo to every machine
+!.claude/skills/
