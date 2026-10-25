@@ -205,3 +205,11 @@ Recorded 2026-10-25. See [[Sessions/Session 1]].
 - **Everyone starts in Neverwinter.** Candlekeep is too far.
 - **Session one does not open in a tavern.**
 - **Session zero:** probably, but not planned yet.
+
+## 16. How we build and run the campaign
+Recorded 2026-10-25.
+- **Enter the Dungeon's method** (Brodie): session notes in his layout, and the campaign tied together with a **plot web**.
+  - [[Lore/Enter the Dungeon - How I Organize a Campaign]]
+  - [[Lore/Enter the Dungeon - Plot Web Part 1 (Building a Web)]]
+  - [[Lore/Enter the Dungeon - Plot Web Part 2 (Changing a Web)]]
+- Claude keeps it organized using the `neverwinter-prep` skill.

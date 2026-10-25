@@ -8,7 +8,7 @@ Copied from Claude's local memory on Brodie's desktop (2026-10-12) so these pref
 - **Be token-efficient.** Keep responses tight, batch parallel tool calls, avoid re-reading files.
 
 ## Neverwinter campaign
-- **Claude's job (Brodie, 2026-10-25): organize the game.** Lay out session prep, keep Brodie organized, take notes after sessions, and connect his scattered ideas into a usable plan. Brodie tweaks, rewrites in his own words and changes things after each session. In prep notes, mark Brodie's decisions (✅) apart from Claude's suggestions (💡); suggestions aren't canon until he picks them.
+- **Claude's job (Brodie, 2026-10-25): organize the game.** Lay out session prep, keep Brodie organized, take notes after sessions, and connect his scattered ideas into a usable plan. Brodie tweaks, rewrites in his own words and changes things after each session. In prep notes, mark Brodie's decisions (✅) apart from Claude's suggestions (💡); suggestions aren't canon until he picks them. **Method:** Enter the Dungeon's session notes and plot webs; use the `neverwinter-prep` skill (`.claude/skills/neverwinter-prep/`), which links the detailed notes.
 - **Don't invent campaign content** (houses, villains, plots, names, motives) unless Brodie explicitly asks for ideas. He leads. Ask questions, organize his ideas in his words, look up canon when asked, and point out conflicts with existing notes.
 - **Don't connect plot threads, NPCs, locations or items** unless Brodie says to. Record what he gives; don't add implications, hooks or cross-plot ties on your own. (From the May 2026 sessions, re-confirmed 2026-10-25.)
 - **Add to existing notes instead of making duplicates.** If a note already exists for a subject, add to it.

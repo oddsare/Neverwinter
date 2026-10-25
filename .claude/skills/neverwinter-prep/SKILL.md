@@ -7,7 +7,12 @@ description: Brodie's Neverwinter D&D campaign prep. Use when Brodie wants to pr
 
 Brodie runs a D&D 5e campaign in Neverwinter (Forgotten Realms, 1505 DR). The vault in `NeverWinter/` is his whole campaign binder; Claude keeps it organized. Read `CLAUDE.md` first: its rules always apply (address him as Brodie, don't invent content, don't connect threads unless told, no tier wording).
 
-Method reference: `NeverWinter/Lore/Enter the Dungeon - Plot Webs and Session Notes.md`.
+**This is how the campaign is built** (Brodie, 2026-10-25). The method, in detail:
+- `NeverWinter/Lore/Enter the Dungeon - How I Organize a Campaign.md` (session notes, folders, arcs)
+- `NeverWinter/Lore/Enter the Dungeon - Plot Web Part 1 (Building a Web).md`
+- `NeverWinter/Lore/Enter the Dungeon - Plot Web Part 2 (Changing a Web).md`
+
+Read the relevant one before prepping a session or touching the plot web.
 
 ## The rules for session notes
 - **Brodie reads these at the table.** Put in only what he'll use. No background, no options he didn't pick, nothing "just in case." Short, plain sentences.
