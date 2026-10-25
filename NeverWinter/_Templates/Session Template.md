@@ -8,86 +8,79 @@ date:
 long_rest: false
 short_rest: false
 summary: ""
-tags: inbox
+status: prep
+tags: [session, prep]
 ---
 # Session {{sessionNum}}
 
-## Session Summary
+> [!info] How this note works
+> Layout from Enter the Dungeon's session notes (Brodie's pick, 2026-10-25). ✅ = **decided** by Brodie. 💡 = **Claude's suggestion**, not canon until Brodie picks it. Prep goes in the top half; after the session, fill in **After the session** at the bottom.
 
-> [!tldr] Summary
-> *Brief summary of what happened*
->  ^summary
-
----
-
-## Housekeeping
-
-*Experience points, leveling up, housekeeping notes*
+## Outline
+*Not the order of events: the likely outcome of the session, so you can see how it might go and where to spend prep time.*
 
 ---
 
-## Recap
+## Moments
+*A moment is any situation the characters can land in: breaking into a mansion, a boss fight, the start of the session.*
 
-*Recap of previous session*
+### Start: picking up from last session
+*Where the players start and what's happening as the session opens.*
 
----
+### Moment:
+*The situation, what's going on, what the players can find here.*
 
-## Strong Start
+> [!danger] Combat:
+> *Nested inside its moment so you flow from the situation into the fight. Enemies, numbers, terrain, tactics, what they carry.*
 
-*How did the session start?*
-
----
-
-## Scenes
-
-- [ ] Scene 1
-- [ ] Scene 2
-- [ ] Scene 3
-- [ ] Scene 4
+### Stock cliffhanger
+*An ending that leaves the players wanting more: an NPC arriving with news, or a short cutscene of something the characters wouldn't normally see.*
 
 ---
 
-## Secrets and Clues
+## Character moments
+*One per player character: an NPC (or a few) and a specific beat that advances their backstory, or an event that triggers if they interact with the world in a certain way. Where it happens, how it opens, the beats to hit.*
 
-- [ ] Clue 1
-- [ ] Clue 2
-- [ ] Clue 3
-- [ ] Clue 4
-- [ ] Clue 5
+### PC 1:
 
----
+### PC 2:
 
-## NPCs Encountered
+### PC 3:
 
-*List NPCs the party met this session*
+### PC 4:
 
 ---
 
-## Locations Visited
-
-*List locations the party visited*
-
----
-
-## Loot
-
-- [ ] Item 1
-- [ ] Item 2
+## Location details
+*Baseline descriptions of places you may need this session: cities, taverns, shops, castles. Keep at least one tavern (with NPCs) and one magic item shop (owner, shop name, items and prices) ready.*
 
 ---
 
-## Log
+## People
+*Each NPC on two levels.*
 
-*Detailed session notes*
+### NPC name
+- **Session level:** who they are, what they do, look, voice, stat block, what they're doing this session.
+- **Plot information:** anything plot-relevant (a coup, a guild that could help the party).
+
+*Followers who travel with the party get their own notes.*
 
 ---
 
-## Next Session
+## Plotlines
+*What each villain and faction is doing **right now**, written as if the party didn't exist: what they want, where they're acting, who's helping, how they're going about it.*
 
-*Plans and preparations for next session*
+---
+
+## After the session
+
+### Log
+*What happened, what the players did, what changed.*
+
+### Next session
+*Threads to pick up, based on what happened.*
 
 ---
 
 **Related:**
 - [[Campaign Home]]
-- [[Quests/The Shadowy Force]]

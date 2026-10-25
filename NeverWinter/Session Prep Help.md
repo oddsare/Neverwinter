@@ -85,7 +85,7 @@ The video's host thinks ranking encounters by how likely they are is the best id
 - The host usually mixes 3-3-3 with the Five Room Dungeon.
 
 ## In this vault
-- Your [[_Templates/Session Template|Session Template]] already follows the eight steps: Strong Start, Scenes, Secrets and Clues, NPCs, Locations and Loot. It has no section for reviewing the characters or for monsters.
+- Your [[_Templates/Session Template|Session Template]] now follows **Enter the Dungeon's** layout (Brodie, 2026-10-25): Outline, Moments (with combat nested inside and a stock cliffhanger), Character moments, Location details, People and Plotlines, plus an After the session section. Clues go inside the moments where they can be found.
 - **Hooks per PC:** [[Campaign Blueprint (Sclanders Method)|Campaign Blueprint]] §9 Character plots, once there are PCs.
 - **Definite encounters** fit the breathing world, where storylines move whether the players engage or not. See Blueprint §12 Clocks.
 - **Locations and environments:** [[Lore/11 Places Every Town Needs]].
