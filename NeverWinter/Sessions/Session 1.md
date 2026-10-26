@@ -28,6 +28,7 @@ Dessa Varn brings the party to one of House Cyl's warehouses. Things are thrown 
 
 **Investigating:**
 - **DC 12 (obvious):** a pendant: a swirling purple circle around a deep black gem, almost like a void.
+  - *DM: Shar's holy symbol, planted by the anti-god group so Shar gets the blame.*
 - **DC 15:** *(not decided)*
 - **DC 20:** this feels odd. The place is ransacked, but things that should have been taken were left behind.
   - **If they ask Dessa:** the warehouse held valuable things, but not enough to be worth a heist like this, or this much damage. There wasn't enough security here to make it worth it. *(Don't give too much away.)*
