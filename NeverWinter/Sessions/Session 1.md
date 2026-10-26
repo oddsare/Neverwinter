@@ -17,7 +17,7 @@ tags: [session, prep]
 - Soren points them to two people:
   - **Rundrigo Blackserpent**, a merchant. *(DM: he has the Alagondar bloodline.)* One of his merchants has gone missing on the road to Luskan.
     - *DM: the wagon carried **fully refined** Dawnfire, the grade that's never supposed to leave the city. A noble house paid Rundrigo to carry it to Luskan for them. Which house: not decided.*
-  - Second person: *(not decided)*
+  - **A House Cyl dock worker** `[NAME TBD]`, who takes them to one of House Cyl's warehouses that was ransacked.
 
 ## Moments
 
