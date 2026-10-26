@@ -125,4 +125,4 @@ The **major NPCs**: what they wear, what they look like, how they sound, their *
 | Session zero document | Not written yet |
 | Campaign pitch | [[Campaign Hook]] |
 
-*Whether to add `Narrative/` and `PCs/`, or reorganize fully into the five folders, is Brodie's call.*
+*Brodie, 2026-10-26: keep the vault's folders as they are for now.*
