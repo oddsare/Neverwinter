@@ -12,6 +12,8 @@ tags: [session, prep]
 # Session 1
 
 ## Outline
+- Four level-1 strangers in Neverwinter.
+- Guard Captain Soren Ironwake brings them together and puts them on the Shadowy Force.
 
 ## Moments
 
