@@ -213,3 +213,12 @@ Recorded 2026-10-25.
   - [[Lore/Enter the Dungeon - Plot Web Part 1 (Building a Web)]]
   - [[Lore/Enter the Dungeon - Plot Web Part 2 (Changing a Web)]]
 - Claude keeps it organized using the `neverwinter-prep` skill.
+
+## 17. The Dawnfire trade
+Recorded 2026-10-26. See [[Lore/Dawnfire]] and [[Sessions/Session 1]].
+- **Neverwinter exports only a weaker, less refined grade.** Fully refined Dawnfire stays in the city.
+- **Why it trades at all:** money for a city still rebuilding, the noble houses' profit, and leverage over allies.
+- **The noble houses hire merchants to move it** for a fee, Rundrigo Blackserpent among them.
+- **Session one:** one of Rundrigo's merchants has gone missing on the road to **Luskan** with a shipment of **fully refined** Dawnfire, carried for a noble house.
+- **Open:** which house; whether the city knows; how much weaker the trade grade is.
+

@@ -24,3 +24,14 @@ tags: [lore, resource, dawnfire, magic, gunpowder]
 - **Why only Neverwinter has it:** the city is where her fire hit.
 
 See [[Lore/Neverwinter Historical Timeline (-10 to 1489 DR)]].
+
+## Trade (Brodie, 2026-10-26)
+- **Neverwinter sells a weaker grade abroad.** A less refined Dawnfire that doesn't work as well.
+- **Fully refined Dawnfire stays in the city.**
+- **Why the city trades it at all:**
+  - **Money.** The city is still rebuilding from 1451, and Renaer's government is young and under pressure.
+  - **The noble houses want profit.** They'll sell whether the city likes it or not.
+  - **Leverage.** Allies who depend on Neverwinter's Dawnfire think twice before crossing it.
+- **The houses use merchants to move it**, paying them a fee. [[Lore/Ed Greenwood - Secrets of Neverwinter|Rundrigo Blackserpent]] is one.
+- **Open:** how much weaker the trade grade is; who refines it; whether buyers can refine it further.
+
