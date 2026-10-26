@@ -15,7 +15,7 @@ tags: [session, prep]
 - Four level-1 strangers in Neverwinter.
 - The group meets Guard Captain Soren Ironwake in the Dock Ward.
 - Soren points them to two people:
-  - A merchant. *(DM: he has the Alagondar bloodline.)*
+  - **Rundrigo Blackserpent**, a merchant. *(DM: he has the Alagondar bloodline.)* One of his merchants has gone missing on the road to *(not decided)*, hauling large chunks of Dawnfire.
   - Second person: *(not decided)*
 
 ## Moments
