@@ -25,6 +25,7 @@ tags: [session, prep]
 
 ### Moment: The ransacked warehouse (House Cyl)
 Dessa Varn brings the party to one of House Cyl's warehouses. Things are thrown about everywhere: food and boxes scattered all over.
+*DM: this break-in and Rundrigo's missing wagon are **separate incidents**.*
 
 **Investigating:**
 - **DC 12 (obvious):** a pendant: a swirling purple circle around a deep black gem, almost like a void.
