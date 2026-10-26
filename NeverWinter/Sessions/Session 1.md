@@ -13,7 +13,7 @@ tags: [session, prep]
 
 ## Outline
 - Four level-1 strangers in Neverwinter.
-- The group meets Guard Captain Soren Ironwake at the Hall of Justice.
+- The group meets Guard Captain Soren Ironwake in the Dock Ward.
 - Soren points them to two people:
   - A merchant. *(DM: he has the Alagondar bloodline.)*
   - Second person: *(not decided)*
