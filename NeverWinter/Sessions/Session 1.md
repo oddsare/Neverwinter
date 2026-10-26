@@ -13,7 +13,10 @@ tags: [session, prep]
 
 ## Outline
 - Four level-1 strangers in Neverwinter.
-- Guard Captain Soren Ironwake brings them together and puts them on the Shadowy Force.
+- The group meets Guard Captain Soren Ironwake at the Hall of Justice.
+- Soren points them to two people:
+  - A merchant. *(DM: he has the Alagondar bloodline.)*
+  - Second person: *(not decided)*
 
 ## Moments
 
