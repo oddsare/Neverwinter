@@ -5,7 +5,7 @@ aliases: [Naiten, Nighten]
 ---
 # Natian
 
-**My character:** [[Birmak]], level 6 Knowledge Cleric
+**My character:** [[Birmak]], kobold Knowledge Cleric 6, follower of Kurtulmak
 **DM:** Chace (based on the between-session chat)
 **Sources so far:** [[Kira's Notes (from Womp)]] (Kira's player's notes, filed exactly as written)
 
@@ -16,7 +16,9 @@ aliases: [Naiten, Nighten]
 
 ## Premise
 
-The party died long ago and woke up together in the tombs of [[Restful Grove]], in "a different Naiten." [[Kira Blackbrook|Kira]] died in **752** and has been dead for **98 years**, so the present year is about **850** (calendar name unknown).
+Most of the party died long ago and woke up together in the tombs of [[Restful Grove]], in "a different Naiten." [[Kira Blackbrook|Kira]] died in **752** and has been dead for **98 years**, so the present year is about **850** (calendar name unknown).
+
+[[Birmak]] is the exception. He never died and joined the party later.
 
 ---
 
@@ -24,7 +26,7 @@ The party died long ago and woke up together in the tombs of [[Restful Grove]], 
 
 | Character | Details | Player |
 |---|---|---|
-| [[Birmak]] | Knowledge Cleric 6 | you |
+| [[Birmak]] | Kobold Knowledge Cleric 6, follower of Kurtulmak. Alive, joined later | you |
 | [[Kira Blackbrook]] | Halfling Draconic Sorcerer, former "pet" of the [[Shrieking Void]] | Womp |
 | [[Eldrid]] | Deafened after a vision of the Phoenix | ? |
 
