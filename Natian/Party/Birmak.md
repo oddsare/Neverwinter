@@ -22,7 +22,6 @@ Birmak **joined the party later** and **never died**. Unlike the others, he didn
 - **6/9 session:** [[Victoria]] said, "Bermack, I trust you to guide Kira." She thinks Birmak will be a help to [[Kira Blackbrook|Kira]].
 - **[[12 - The Splintered Pole]]:** five questions were put to the dead. That fits *Speak with Dead*, a 3rd-level cleric spell (?).
 
-## Kurtulmak (standard D&D lore, may differ in Natian)
-- God of kobolds, of mining, war, and traps. He serves **Tiamat**, the queen of evil dragons.
-- His sworn enemy is **Garl Glittergold**, the god of gnomes.
-- In a campaign built around black dragons ([[Eternal Night]], the [[Shrieking Void]]), a kobold who follows a dragon-serving god may have his own stake in the [[Dragon and Phoenix Balance|dragon lore]].
+## Faith
+- Birmak follows **Kurtulmak**, god of kobolds, mining, war, and traps. **Birmak does not serve Tiamat.**
+- Kurtulmak's traditional enemy is **Garl Glittergold**, the god of gnomes.
